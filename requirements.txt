@@ -1,0 +1,6 @@
+pillow
+pillow-heif
+mediapipe
+ultralytics
+tqdm
+opencv-python

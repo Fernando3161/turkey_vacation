@@ -1,7 +1,66 @@
-# Local photo workflow folders
+# Dependencies
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+
+# Environment
+.env
+.env.local
+
+#Temporal to dislable all pictures from being tracked by git, as they are large and not necessary for version control.
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.gif
+public/photos/
+
+
+# Local high-resolution photo workflow
+pictures/1_original_pictures/
+pictures/2_selected_pictures/
+pictures/3_sorted_theme_pictures/
+pictures/4_days_HR/
+
+# Temporary files
+tmp/
+temp/
+.cache/
+
+# Optional generated test output
+coverage/
+
+# Local Python workflow
+.venv/
+__pycache__/
+*.py[cod]
+
+# Legacy local photo workflow folders
 1_original_pictures/
 2_selected_pictures/
 3_sorted_theme_pictures/
 4_sorted_day_pictures/
 5_low_res_pictures/
+docs/memoir/chats
 media_file_list.txt
+docs/memoir/~$coordinates_raw.xlsx
+docs/memoir/chats/2026-05-06-photo-categorization-workflow-chat.md
+docs/memoir/chats/trip_itinnerary.md
+docs/memoir/chats/turkey-loop-day-based-project-briefing_updated.md
+docs/memoir/chats/turkey-loop-day-based-project-briefing.md
+docs/memoir/chats/turkey-loop-project-briefing.md
+docs/memoir/coordinates_raw.csv
+docs/memoir/coordinates_raw.xlsx
+yolov8n.pt

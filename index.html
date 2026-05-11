@@ -1,0 +1,164 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta
+      name="description"
+      content="Turkey Loop is a day-based travel atlas through history, landscape, and memory."
+    >
+    <title>Turkey Loop</title>
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+      integrity="sha256-p4NxAoJBhIINfQPDLAkW8Vd1ByQlgf0r1LcnN9t8G3w="
+      crossorigin=""
+    >
+    <link rel="stylesheet" href="assets/css/styles.css">
+  </head>
+  <body>
+    <header class="site-header" aria-label="Site header">
+      <div class="site-header__plate">
+        <div class="site-header__identity">
+          <p class="site-header__eyebrow">Personal travel archive</p>
+          <h1 class="site-header__title">Turkey Loop</h1>
+          <p class="site-header__subtitle">
+            A day-based travel atlas through history, landscape, and memory
+          </p>
+        </div>
+
+        <nav class="site-header__nav" aria-label="Primary">
+          <button type="button" class="atlas-control">About</button>
+          <button type="button" class="atlas-control">Days</button>
+          <button type="button" class="atlas-control">Photos</button>
+        </nav>
+      </div>
+    </header>
+
+    <main class="site-main" aria-label="Turkey Loop map archive">
+      <section class="map-shell" aria-labelledby="map-title">
+        <div class="map-shell__label">
+          <p class="map-shell__kicker">Field map</p>
+          <h2 id="map-title">Turkey, April-May 2026</h2>
+        </div>
+
+        <div
+          id="map"
+          class="map-canvas"
+          aria-label="Interactive Turkey Loop day marker map"
+        >
+          <div class="map-canvas__surface" aria-hidden="true">
+            <span class="map-canvas__line map-canvas__line--one"></span>
+            <span class="map-canvas__line map-canvas__line--two"></span>
+            <span class="map-canvas__line map-canvas__line--three"></span>
+            <span class="map-canvas__seal">TL</span>
+          </div>
+          <div class="map-canvas__note">
+            <span>Interactive day map reserved for Phase 3.6</span>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <section
+      id="day-modal"
+      class="overlay overlay--modal"
+      role="dialog"
+      aria-modal="true"
+      aria-labelledby="day-modal-title"
+      hidden
+    >
+      <article class="archive-panel">
+        <button type="button" class="overlay-close" aria-label="Close day archive panel">Close</button>
+        <div class="archive-panel__layout">
+          <div class="archive-panel__main">
+            <p class="archive-panel__eyebrow">Day record</p>
+            <h2 id="day-modal-title">Day archive</h2>
+            <p id="day-modal-meta" class="archive-panel__meta"></p>
+            <p id="day-modal-summary" class="archive-panel__summary"></p>
+            <div id="day-modal-description" class="archive-panel__description"></div>
+            <section id="day-modal-takeaway" class="archive-panel__takeaway" hidden>
+              <h3>Historical note</h3>
+              <p></p>
+            </section>
+          </div>
+
+          <aside
+            id="day-modal-expanded"
+            class="archive-panel__side"
+            aria-labelledby="day-modal-expanded-title"
+            hidden
+          >
+            <p class="archive-panel__side-eyebrow">Field note</p>
+            <h3 id="day-modal-expanded-title"></h3>
+            <div id="day-modal-expanded-content" class="archive-panel__expanded-text"></div>
+          </aside>
+
+          <section class="day-gallery" aria-labelledby="day-gallery-title">
+            <div class="day-gallery__header">
+              <h3 id="day-gallery-title">Photographs</h3>
+              <p id="day-gallery-status" class="day-gallery__status" role="status" aria-live="polite"></p>
+            </div>
+            <div
+              id="day-gallery-filters"
+              class="day-gallery__filters"
+              role="group"
+              aria-label="Photo category filters"
+            ></div>
+            <div id="day-gallery-grid" class="day-gallery__grid" aria-live="polite"></div>
+          </section>
+        </div>
+      </article>
+    </section>
+
+    <section
+      id="lightbox"
+      class="overlay overlay--lightbox"
+      role="dialog"
+      aria-modal="true"
+      aria-labelledby="lightbox-title"
+      hidden
+    >
+      <div class="lightbox-frame">
+        <button type="button" class="overlay-close overlay-close--light" aria-label="Close photograph view">
+          Close
+        </button>
+        <div class="lightbox-frame__header">
+          <div>
+            <p id="lightbox-category" class="lightbox-frame__category"></p>
+            <h2 id="lightbox-title">Photograph view</h2>
+          </div>
+          <p id="lightbox-counter" class="lightbox-frame__counter" aria-live="polite"></p>
+        </div>
+        <div class="lightbox-frame__stage">
+          <button type="button" class="lightbox-nav lightbox-nav--prev" aria-label="Previous photograph">
+            Previous
+          </button>
+          <img id="lightbox-image" class="lightbox-frame__image" alt="">
+          <button type="button" class="lightbox-nav lightbox-nav--next" aria-label="Next photograph">
+            Next
+          </button>
+        </div>
+      </div>
+    </section>
+
+    <footer class="site-footer">
+      <p>
+        Personal travel archive &middot; Turkey, 2026 &middot;
+        <a href="#" aria-label="GitHub project link placeholder">GitHub</a>
+      </p>
+    </footer>
+
+    <script
+      src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+      integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+      crossorigin=""
+    ></script>
+    <script src="assets/js/data.js"></script>
+    <script src="assets/js/main.js"></script>
+    <script src="assets/js/map.js"></script>
+    <script src="assets/js/modal.js"></script>
+    <script src="assets/js/gallery.js"></script>
+    <script src="assets/js/lightbox.js"></script>
+  </body>
+</html>

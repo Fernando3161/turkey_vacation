@@ -1,0 +1,203 @@
+{
+  "generatedAt": "2026-05-11T10:50:01.164Z",
+  "days": {
+    "day0_bremen_istanbul_arrival": {
+      "manifest": "public/photos/day0_bremen_istanbul_arrival/manifest.json",
+      "totalCount": 4,
+      "categoryCounts": {
+        "people": 0,
+        "places": 3,
+        "animals": 1
+      }
+    },
+    "day1_istanbul_topkapi_palace": {
+      "manifest": "public/photos/day1_istanbul_topkapi_palace/manifest.json",
+      "totalCount": 28,
+      "categoryCounts": {
+        "people": 0,
+        "places": 22,
+        "animals": 6
+      }
+    },
+    "day2_istanbul_museums": {
+      "manifest": "public/photos/day2_istanbul_museums/manifest.json",
+      "totalCount": 44,
+      "categoryCounts": {
+        "people": 2,
+        "places": 24,
+        "animals": 18
+      }
+    },
+    "day3_istanbul_galata_tower_intrepid_meeting": {
+      "manifest": "public/photos/day3_istanbul_galata_tower_intrepid_meeting/manifest.json",
+      "totalCount": 14,
+      "categoryCounts": {
+        "people": 0,
+        "places": 11,
+        "animals": 3
+      }
+    },
+    "day4_gallipoli_canakkale": {
+      "manifest": "public/photos/day4_gallipoli_canakkale/manifest.json",
+      "totalCount": 28,
+      "categoryCounts": {
+        "people": 5,
+        "places": 19,
+        "animals": 4
+      }
+    },
+    "day5_troy_selcuk_archaeology_arrival": {
+      "manifest": "public/photos/day5_troy_selcuk_archaeology_arrival/manifest.json",
+      "totalCount": 42,
+      "categoryCounts": {
+        "people": 5,
+        "places": 23,
+        "animals": 14
+      }
+    },
+    "day6_selcuk_ephesus": {
+      "manifest": "public/photos/day6_selcuk_ephesus/manifest.json",
+      "totalCount": 62,
+      "categoryCounts": {
+        "people": 8,
+        "places": 25,
+        "animals": 29
+      }
+    },
+    "day7_pamukkale_hierapolis": {
+      "manifest": "public/photos/day7_pamukkale_hierapolis/manifest.json",
+      "totalCount": 33,
+      "categoryCounts": {
+        "people": 13,
+        "places": 12,
+        "animals": 8
+      }
+    },
+    "day8_kayakoy_village_visit": {
+      "manifest": "public/photos/day8_kayakoy_village_visit/manifest.json",
+      "totalCount": 23,
+      "categoryCounts": {
+        "people": 5,
+        "places": 6,
+        "animals": 12
+      }
+    },
+    "day9_kayakoy_oludeniz_lycian_way": {
+      "manifest": "public/photos/day9_kayakoy_oludeniz_lycian_way/manifest.json",
+      "totalCount": 16,
+      "categoryCounts": {
+        "people": 6,
+        "places": 7,
+        "animals": 3
+      }
+    },
+    "day10_kas_coastal_town": {
+      "manifest": "public/photos/day10_kas_coastal_town/manifest.json",
+      "totalCount": 46,
+      "categoryCounts": {
+        "people": 6,
+        "places": 16,
+        "animals": 24
+      }
+    },
+    "day11_kas_kekova_gulet_cruise": {
+      "manifest": "public/photos/day11_kas_kekova_gulet_cruise/manifest.json",
+      "totalCount": 36,
+      "categoryCounts": {
+        "people": 16,
+        "places": 9,
+        "animals": 11
+      }
+    },
+    "day12_konya_mevlana_seljuk_history": {
+      "manifest": "public/photos/day12_konya_mevlana_seljuk_history/manifest.json",
+      "totalCount": 14,
+      "categoryCounts": {
+        "people": 0,
+        "places": 11,
+        "animals": 3
+      }
+    },
+    "day13_cappadocia_urgup_arrival": {
+      "manifest": "public/photos/day13_cappadocia_urgup_arrival/manifest.json",
+      "totalCount": 21,
+      "categoryCounts": {
+        "people": 4,
+        "places": 15,
+        "animals": 2
+      }
+    },
+    "day14_cappadocia_valleys_local_dinner": {
+      "manifest": "public/photos/day14_cappadocia_valleys_local_dinner/manifest.json",
+      "totalCount": 66,
+      "categoryCounts": {
+        "people": 24,
+        "places": 30,
+        "animals": 12
+      }
+    },
+    "day15_cappadocia_eskisehir_balloon_ride_odunpazari": {
+      "manifest": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/manifest.json",
+      "totalCount": 48,
+      "categoryCounts": {
+        "people": 8,
+        "places": 39,
+        "animals": 1
+      }
+    },
+    "day16_istanbul_dolmabahce_palace": {
+      "manifest": "public/photos/day16_istanbul_dolmabahce_palace/manifest.json",
+      "totalCount": 60,
+      "categoryCounts": {
+        "people": 3,
+        "places": 32,
+        "animals": 25
+      }
+    },
+    "day17_istanbul_hagia_sophia": {
+      "manifest": "public/photos/day17_istanbul_hagia_sophia/manifest.json",
+      "totalCount": 70,
+      "categoryCounts": {
+        "people": 0,
+        "places": 55,
+        "animals": 15
+      }
+    },
+    "day18_istanbul_theodosian_walls": {
+      "manifest": "public/photos/day18_istanbul_theodosian_walls/manifest.json",
+      "totalCount": 67,
+      "categoryCounts": {
+        "people": 11,
+        "places": 47,
+        "animals": 9
+      }
+    },
+    "day19_princes_islands_buyukada": {
+      "manifest": "public/photos/day19_princes_islands_buyukada/manifest.json",
+      "totalCount": 42,
+      "categoryCounts": {
+        "people": 0,
+        "places": 20,
+        "animals": 22
+      }
+    },
+    "day20_istanbul_yildiz_palace_asian_side": {
+      "manifest": "public/photos/day20_istanbul_yildiz_palace_asian_side/manifest.json",
+      "totalCount": 84,
+      "categoryCounts": {
+        "people": 0,
+        "places": 57,
+        "animals": 27
+      }
+    },
+    "day21_istanbul_bremen_return": {
+      "manifest": "public/photos/day21_istanbul_bremen_return/manifest.json",
+      "totalCount": 17,
+      "categoryCounts": {
+        "people": 0,
+        "places": 16,
+        "animals": 1
+      }
+    }
+  }
+}
