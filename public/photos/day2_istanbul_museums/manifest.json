@@ -1,0 +1,329 @@
+{
+  "slug": "day2_istanbul_museums",
+  "totalCount": 44,
+  "categories": {
+    "people": {
+      "count": 2,
+      "photos": [
+        {
+          "id": "people-20260412_221937",
+          "category": "people",
+          "full": "public/photos/day2_istanbul_museums/people/full/20260412_221937.webp",
+          "thumb": "public/photos/day2_istanbul_museums/people/thumbs/20260412_221937.webp",
+          "filename": "20260412_221937.webp"
+        },
+        {
+          "id": "people-20260412_222001",
+          "category": "people",
+          "full": "public/photos/day2_istanbul_museums/people/full/20260412_222001.webp",
+          "thumb": "public/photos/day2_istanbul_museums/people/thumbs/20260412_222001.webp",
+          "filename": "20260412_222001.webp"
+        }
+      ]
+    },
+    "places": {
+      "count": 24,
+      "photos": [
+        {
+          "id": "places-20260412_121846",
+          "category": "places",
+          "full": "public/photos/day2_istanbul_museums/places/full/20260412_121846.webp",
+          "thumb": "public/photos/day2_istanbul_museums/places/thumbs/20260412_121846.webp",
+          "filename": "20260412_121846.webp"
+        },
+        {
+          "id": "places-20260412_121955",
+          "category": "places",
+          "full": "public/photos/day2_istanbul_museums/places/full/20260412_121955.webp",
+          "thumb": "public/photos/day2_istanbul_museums/places/thumbs/20260412_121955.webp",
+          "filename": "20260412_121955.webp"
+        },
+        {
+          "id": "places-20260412_122057",
+          "category": "places",
+          "full": "public/photos/day2_istanbul_museums/places/full/20260412_122057.webp",
+          "thumb": "public/photos/day2_istanbul_museums/places/thumbs/20260412_122057.webp",
+          "filename": "20260412_122057.webp"
+        },
+        {
+          "id": "places-20260412_122133",
+          "category": "places",
+          "full": "public/photos/day2_istanbul_museums/places/full/20260412_122133.webp",
+          "thumb": "public/photos/day2_istanbul_museums/places/thumbs/20260412_122133.webp",
+          "filename": "20260412_122133.webp"
+        },
+        {
+          "id": "places-20260412_122244",
+          "category": "places",
+          "full": "public/photos/day2_istanbul_museums/places/full/20260412_122244.webp",
+          "thumb": "public/photos/day2_istanbul_museums/places/thumbs/20260412_122244.webp",
+          "filename": "20260412_122244.webp"
+        },
+        {
+          "id": "places-20260412_140458",
+          "category": "places",
+          "full": "public/photos/day2_istanbul_museums/places/full/20260412_140458.webp",
+          "thumb": "public/photos/day2_istanbul_museums/places/thumbs/20260412_140458.webp",
+          "filename": "20260412_140458.webp"
+        },
+        {
+          "id": "places-20260412_141026",
+          "category": "places",
+          "full": "public/photos/day2_istanbul_museums/places/full/20260412_141026.webp",
+          "thumb": "public/photos/day2_istanbul_museums/places/thumbs/20260412_141026.webp",
+          "filename": "20260412_141026.webp"
+        },
+        {
+          "id": "places-20260412_142003",
+          "category": "places",
+          "full": "public/photos/day2_istanbul_museums/places/full/20260412_142003.webp",
+          "thumb": "public/photos/day2_istanbul_museums/places/thumbs/20260412_142003.webp",
+          "filename": "20260412_142003.webp"
+        },
+        {
+          "id": "places-20260412_160444",
+          "category": "places",
+          "full": "public/photos/day2_istanbul_museums/places/full/20260412_160444.webp",
+          "thumb": "public/photos/day2_istanbul_museums/places/thumbs/20260412_160444.webp",
+          "filename": "20260412_160444.webp"
+        },
+        {
+          "id": "places-20260412_161139",
+          "category": "places",
+          "full": "public/photos/day2_istanbul_museums/places/full/20260412_161139.webp",
+          "thumb": "public/photos/day2_istanbul_museums/places/thumbs/20260412_161139.webp",
+          "filename": "20260412_161139.webp"
+        },
+        {
+          "id": "places-20260412_163712",
+          "category": "places",
+          "full": "public/photos/day2_istanbul_museums/places/full/20260412_163712.webp",
+          "thumb": "public/photos/day2_istanbul_museums/places/thumbs/20260412_163712.webp",
+          "filename": "20260412_163712.webp"
+        },
+        {
+          "id": "places-20260412_170553",
+          "category": "places",
+          "full": "public/photos/day2_istanbul_museums/places/full/20260412_170553.webp",
+          "thumb": "public/photos/day2_istanbul_museums/places/thumbs/20260412_170553.webp",
+          "filename": "20260412_170553.webp"
+        },
+        {
+          "id": "places-20260412_171502",
+          "category": "places",
+          "full": "public/photos/day2_istanbul_museums/places/full/20260412_171502.webp",
+          "thumb": "public/photos/day2_istanbul_museums/places/thumbs/20260412_171502.webp",
+          "filename": "20260412_171502.webp"
+        },
+        {
+          "id": "places-20260412_172615",
+          "category": "places",
+          "full": "public/photos/day2_istanbul_museums/places/full/20260412_172615.webp",
+          "thumb": "public/photos/day2_istanbul_museums/places/thumbs/20260412_172615.webp",
+          "filename": "20260412_172615.webp"
+        },
+        {
+          "id": "places-20260412_173913",
+          "category": "places",
+          "full": "public/photos/day2_istanbul_museums/places/full/20260412_173913.webp",
+          "thumb": "public/photos/day2_istanbul_museums/places/thumbs/20260412_173913.webp",
+          "filename": "20260412_173913.webp"
+        },
+        {
+          "id": "places-20260412_175718",
+          "category": "places",
+          "full": "public/photos/day2_istanbul_museums/places/full/20260412_175718.webp",
+          "thumb": "public/photos/day2_istanbul_museums/places/thumbs/20260412_175718.webp",
+          "filename": "20260412_175718.webp"
+        },
+        {
+          "id": "places-20260412_181127",
+          "category": "places",
+          "full": "public/photos/day2_istanbul_museums/places/full/20260412_181127.webp",
+          "thumb": "public/photos/day2_istanbul_museums/places/thumbs/20260412_181127.webp",
+          "filename": "20260412_181127.webp"
+        },
+        {
+          "id": "places-20260412_201611",
+          "category": "places",
+          "full": "public/photos/day2_istanbul_museums/places/full/20260412_201611.webp",
+          "thumb": "public/photos/day2_istanbul_museums/places/thumbs/20260412_201611.webp",
+          "filename": "20260412_201611.webp"
+        },
+        {
+          "id": "places-20260412_222120",
+          "category": "places",
+          "full": "public/photos/day2_istanbul_museums/places/full/20260412_222120.webp",
+          "thumb": "public/photos/day2_istanbul_museums/places/thumbs/20260412_222120.webp",
+          "filename": "20260412_222120.webp"
+        },
+        {
+          "id": "places-20260412_225824",
+          "category": "places",
+          "full": "public/photos/day2_istanbul_museums/places/full/20260412_225824.webp",
+          "thumb": "public/photos/day2_istanbul_museums/places/thumbs/20260412_225824.webp",
+          "filename": "20260412_225824.webp"
+        },
+        {
+          "id": "places-20260412_225952",
+          "category": "places",
+          "full": "public/photos/day2_istanbul_museums/places/full/20260412_225952.webp",
+          "thumb": "public/photos/day2_istanbul_museums/places/thumbs/20260412_225952.webp",
+          "filename": "20260412_225952.webp"
+        },
+        {
+          "id": "places-20260412_232024",
+          "category": "places",
+          "full": "public/photos/day2_istanbul_museums/places/full/20260412_232024.webp",
+          "thumb": "public/photos/day2_istanbul_museums/places/thumbs/20260412_232024.webp",
+          "filename": "20260412_232024.webp"
+        },
+        {
+          "id": "places-20260412_232317",
+          "category": "places",
+          "full": "public/photos/day2_istanbul_museums/places/full/20260412_232317.webp",
+          "thumb": "public/photos/day2_istanbul_museums/places/thumbs/20260412_232317.webp",
+          "filename": "20260412_232317.webp"
+        },
+        {
+          "id": "places-20260412_232327",
+          "category": "places",
+          "full": "public/photos/day2_istanbul_museums/places/full/20260412_232327.webp",
+          "thumb": "public/photos/day2_istanbul_museums/places/thumbs/20260412_232327.webp",
+          "filename": "20260412_232327.webp"
+        }
+      ]
+    },
+    "animals": {
+      "count": 18,
+      "photos": [
+        {
+          "id": "animals-20260412_114501",
+          "category": "animals",
+          "full": "public/photos/day2_istanbul_museums/animals/full/20260412_114501.webp",
+          "thumb": "public/photos/day2_istanbul_museums/animals/thumbs/20260412_114501.webp",
+          "filename": "20260412_114501.webp"
+        },
+        {
+          "id": "animals-20260412_144610",
+          "category": "animals",
+          "full": "public/photos/day2_istanbul_museums/animals/full/20260412_144610.webp",
+          "thumb": "public/photos/day2_istanbul_museums/animals/thumbs/20260412_144610.webp",
+          "filename": "20260412_144610.webp"
+        },
+        {
+          "id": "animals-20260412_144617",
+          "category": "animals",
+          "full": "public/photos/day2_istanbul_museums/animals/full/20260412_144617.webp",
+          "thumb": "public/photos/day2_istanbul_museums/animals/thumbs/20260412_144617.webp",
+          "filename": "20260412_144617.webp"
+        },
+        {
+          "id": "animals-20260412_144621",
+          "category": "animals",
+          "full": "public/photos/day2_istanbul_museums/animals/full/20260412_144621.webp",
+          "thumb": "public/photos/day2_istanbul_museums/animals/thumbs/20260412_144621.webp",
+          "filename": "20260412_144621.webp"
+        },
+        {
+          "id": "animals-20260412_144732",
+          "category": "animals",
+          "full": "public/photos/day2_istanbul_museums/animals/full/20260412_144732.webp",
+          "thumb": "public/photos/day2_istanbul_museums/animals/thumbs/20260412_144732.webp",
+          "filename": "20260412_144732.webp"
+        },
+        {
+          "id": "animals-20260412_153217",
+          "category": "animals",
+          "full": "public/photos/day2_istanbul_museums/animals/full/20260412_153217.webp",
+          "thumb": "public/photos/day2_istanbul_museums/animals/thumbs/20260412_153217.webp",
+          "filename": "20260412_153217.webp"
+        },
+        {
+          "id": "animals-20260412_162817",
+          "category": "animals",
+          "full": "public/photos/day2_istanbul_museums/animals/full/20260412_162817.webp",
+          "thumb": "public/photos/day2_istanbul_museums/animals/thumbs/20260412_162817.webp",
+          "filename": "20260412_162817.webp"
+        },
+        {
+          "id": "animals-20260412_162843",
+          "category": "animals",
+          "full": "public/photos/day2_istanbul_museums/animals/full/20260412_162843.webp",
+          "thumb": "public/photos/day2_istanbul_museums/animals/thumbs/20260412_162843.webp",
+          "filename": "20260412_162843.webp"
+        },
+        {
+          "id": "animals-20260412_164945",
+          "category": "animals",
+          "full": "public/photos/day2_istanbul_museums/animals/full/20260412_164945.webp",
+          "thumb": "public/photos/day2_istanbul_museums/animals/thumbs/20260412_164945.webp",
+          "filename": "20260412_164945.webp"
+        },
+        {
+          "id": "animals-20260412_165218",
+          "category": "animals",
+          "full": "public/photos/day2_istanbul_museums/animals/full/20260412_165218.webp",
+          "thumb": "public/photos/day2_istanbul_museums/animals/thumbs/20260412_165218.webp",
+          "filename": "20260412_165218.webp"
+        },
+        {
+          "id": "animals-20260412_165311",
+          "category": "animals",
+          "full": "public/photos/day2_istanbul_museums/animals/full/20260412_165311.webp",
+          "thumb": "public/photos/day2_istanbul_museums/animals/thumbs/20260412_165311.webp",
+          "filename": "20260412_165311.webp"
+        },
+        {
+          "id": "animals-20260412_165413(0)",
+          "category": "animals",
+          "full": "public/photos/day2_istanbul_museums/animals/full/20260412_165413(0).webp",
+          "thumb": "public/photos/day2_istanbul_museums/animals/thumbs/20260412_165413(0).webp",
+          "filename": "20260412_165413(0).webp"
+        },
+        {
+          "id": "animals-20260412_165434",
+          "category": "animals",
+          "full": "public/photos/day2_istanbul_museums/animals/full/20260412_165434.webp",
+          "thumb": "public/photos/day2_istanbul_museums/animals/thumbs/20260412_165434.webp",
+          "filename": "20260412_165434.webp"
+        },
+        {
+          "id": "animals-20260412_165448",
+          "category": "animals",
+          "full": "public/photos/day2_istanbul_museums/animals/full/20260412_165448.webp",
+          "thumb": "public/photos/day2_istanbul_museums/animals/thumbs/20260412_165448.webp",
+          "filename": "20260412_165448.webp"
+        },
+        {
+          "id": "animals-20260412_170902",
+          "category": "animals",
+          "full": "public/photos/day2_istanbul_museums/animals/full/20260412_170902.webp",
+          "thumb": "public/photos/day2_istanbul_museums/animals/thumbs/20260412_170902.webp",
+          "filename": "20260412_170902.webp"
+        },
+        {
+          "id": "animals-20260412_175910",
+          "category": "animals",
+          "full": "public/photos/day2_istanbul_museums/animals/full/20260412_175910.webp",
+          "thumb": "public/photos/day2_istanbul_museums/animals/thumbs/20260412_175910.webp",
+          "filename": "20260412_175910.webp"
+        },
+        {
+          "id": "animals-20260412_183053",
+          "category": "animals",
+          "full": "public/photos/day2_istanbul_museums/animals/full/20260412_183053.webp",
+          "thumb": "public/photos/day2_istanbul_museums/animals/thumbs/20260412_183053.webp",
+          "filename": "20260412_183053.webp"
+        },
+        {
+          "id": "animals-20260412_183419",
+          "category": "animals",
+          "full": "public/photos/day2_istanbul_museums/animals/full/20260412_183419.webp",
+          "thumb": "public/photos/day2_istanbul_museums/animals/thumbs/20260412_183419.webp",
+          "filename": "20260412_183419.webp"
+        }
+      ]
+    }
+  }
+}

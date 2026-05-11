@@ -1,0 +1,357 @@
+{
+  "slug": "day15_cappadocia_eskisehir_balloon_ride_odunpazari",
+  "totalCount": 48,
+  "categories": {
+    "people": {
+      "count": 8,
+      "photos": [
+        {
+          "id": "people-20260425_054505",
+          "category": "people",
+          "full": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/people/full/20260425_054505.webp",
+          "thumb": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/people/thumbs/20260425_054505.webp",
+          "filename": "20260425_054505.webp"
+        },
+        {
+          "id": "people-20260425_055437",
+          "category": "people",
+          "full": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/people/full/20260425_055437.webp",
+          "thumb": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/people/thumbs/20260425_055437.webp",
+          "filename": "20260425_055437.webp"
+        },
+        {
+          "id": "people-img-20260427-wa0004",
+          "category": "people",
+          "full": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/people/full/img-20260427-wa0004.webp",
+          "thumb": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/people/thumbs/img-20260427-wa0004.webp",
+          "filename": "img-20260427-wa0004.webp"
+        },
+        {
+          "id": "people-img-20260427-wa0007",
+          "category": "people",
+          "full": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/people/full/img-20260427-wa0007.webp",
+          "thumb": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/people/thumbs/img-20260427-wa0007.webp",
+          "filename": "img-20260427-wa0007.webp"
+        },
+        {
+          "id": "people-img-20260427-wa0009",
+          "category": "people",
+          "full": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/people/full/img-20260427-wa0009.webp",
+          "thumb": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/people/thumbs/img-20260427-wa0009.webp",
+          "filename": "img-20260427-wa0009.webp"
+        },
+        {
+          "id": "people-img-20260427-wa0011",
+          "category": "people",
+          "full": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/people/full/img-20260427-wa0011.webp",
+          "thumb": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/people/thumbs/img-20260427-wa0011.webp",
+          "filename": "img-20260427-wa0011.webp"
+        },
+        {
+          "id": "people-img-20260501-wa0012",
+          "category": "people",
+          "full": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/people/full/img-20260501-wa0012.webp",
+          "thumb": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/people/thumbs/img-20260501-wa0012.webp",
+          "filename": "img-20260501-wa0012.webp"
+        },
+        {
+          "id": "people-img-20260502-wa0062",
+          "category": "people",
+          "full": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/people/full/img-20260502-wa0062.webp",
+          "thumb": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/people/thumbs/img-20260502-wa0062.webp",
+          "filename": "img-20260502-wa0062.webp"
+        }
+      ]
+    },
+    "places": {
+      "count": 39,
+      "photos": [
+        {
+          "id": "places-20260425_052901",
+          "category": "places",
+          "full": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/places/full/20260425_052901.webp",
+          "thumb": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/places/thumbs/20260425_052901.webp",
+          "filename": "20260425_052901.webp"
+        },
+        {
+          "id": "places-20260425_053242",
+          "category": "places",
+          "full": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/places/full/20260425_053242.webp",
+          "thumb": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/places/thumbs/20260425_053242.webp",
+          "filename": "20260425_053242.webp"
+        },
+        {
+          "id": "places-20260425_053413",
+          "category": "places",
+          "full": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/places/full/20260425_053413.webp",
+          "thumb": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/places/thumbs/20260425_053413.webp",
+          "filename": "20260425_053413.webp"
+        },
+        {
+          "id": "places-20260425_053420",
+          "category": "places",
+          "full": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/places/full/20260425_053420.webp",
+          "thumb": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/places/thumbs/20260425_053420.webp",
+          "filename": "20260425_053420.webp"
+        },
+        {
+          "id": "places-20260425_053843",
+          "category": "places",
+          "full": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/places/full/20260425_053843.webp",
+          "thumb": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/places/thumbs/20260425_053843.webp",
+          "filename": "20260425_053843.webp"
+        },
+        {
+          "id": "places-20260425_053952",
+          "category": "places",
+          "full": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/places/full/20260425_053952.webp",
+          "thumb": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/places/thumbs/20260425_053952.webp",
+          "filename": "20260425_053952.webp"
+        },
+        {
+          "id": "places-20260425_054434",
+          "category": "places",
+          "full": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/places/full/20260425_054434.webp",
+          "thumb": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/places/thumbs/20260425_054434.webp",
+          "filename": "20260425_054434.webp"
+        },
+        {
+          "id": "places-20260425_054759",
+          "category": "places",
+          "full": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/places/full/20260425_054759.webp",
+          "thumb": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/places/thumbs/20260425_054759.webp",
+          "filename": "20260425_054759.webp"
+        },
+        {
+          "id": "places-20260425_054801",
+          "category": "places",
+          "full": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/places/full/20260425_054801.webp",
+          "thumb": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/places/thumbs/20260425_054801.webp",
+          "filename": "20260425_054801.webp"
+        },
+        {
+          "id": "places-20260425_054918",
+          "category": "places",
+          "full": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/places/full/20260425_054918.webp",
+          "thumb": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/places/thumbs/20260425_054918.webp",
+          "filename": "20260425_054918.webp"
+        },
+        {
+          "id": "places-20260425_055321",
+          "category": "places",
+          "full": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/places/full/20260425_055321.webp",
+          "thumb": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/places/thumbs/20260425_055321.webp",
+          "filename": "20260425_055321.webp"
+        },
+        {
+          "id": "places-20260425_055342",
+          "category": "places",
+          "full": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/places/full/20260425_055342.webp",
+          "thumb": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/places/thumbs/20260425_055342.webp",
+          "filename": "20260425_055342.webp"
+        },
+        {
+          "id": "places-20260425_055657",
+          "category": "places",
+          "full": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/places/full/20260425_055657.webp",
+          "thumb": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/places/thumbs/20260425_055657.webp",
+          "filename": "20260425_055657.webp"
+        },
+        {
+          "id": "places-20260425_055803",
+          "category": "places",
+          "full": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/places/full/20260425_055803.webp",
+          "thumb": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/places/thumbs/20260425_055803.webp",
+          "filename": "20260425_055803.webp"
+        },
+        {
+          "id": "places-20260425_060205",
+          "category": "places",
+          "full": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/places/full/20260425_060205.webp",
+          "thumb": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/places/thumbs/20260425_060205.webp",
+          "filename": "20260425_060205.webp"
+        },
+        {
+          "id": "places-20260425_060224",
+          "category": "places",
+          "full": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/places/full/20260425_060224.webp",
+          "thumb": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/places/thumbs/20260425_060224.webp",
+          "filename": "20260425_060224.webp"
+        },
+        {
+          "id": "places-20260425_060333",
+          "category": "places",
+          "full": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/places/full/20260425_060333.webp",
+          "thumb": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/places/thumbs/20260425_060333.webp",
+          "filename": "20260425_060333.webp"
+        },
+        {
+          "id": "places-20260425_060444",
+          "category": "places",
+          "full": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/places/full/20260425_060444.webp",
+          "thumb": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/places/thumbs/20260425_060444.webp",
+          "filename": "20260425_060444.webp"
+        },
+        {
+          "id": "places-20260425_060451",
+          "category": "places",
+          "full": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/places/full/20260425_060451.webp",
+          "thumb": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/places/thumbs/20260425_060451.webp",
+          "filename": "20260425_060451.webp"
+        },
+        {
+          "id": "places-20260425_062442",
+          "category": "places",
+          "full": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/places/full/20260425_062442.webp",
+          "thumb": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/places/thumbs/20260425_062442.webp",
+          "filename": "20260425_062442.webp"
+        },
+        {
+          "id": "places-20260425_062446",
+          "category": "places",
+          "full": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/places/full/20260425_062446.webp",
+          "thumb": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/places/thumbs/20260425_062446.webp",
+          "filename": "20260425_062446.webp"
+        },
+        {
+          "id": "places-20260425_062725",
+          "category": "places",
+          "full": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/places/full/20260425_062725.webp",
+          "thumb": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/places/thumbs/20260425_062725.webp",
+          "filename": "20260425_062725.webp"
+        },
+        {
+          "id": "places-20260425_063535",
+          "category": "places",
+          "full": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/places/full/20260425_063535.webp",
+          "thumb": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/places/thumbs/20260425_063535.webp",
+          "filename": "20260425_063535.webp"
+        },
+        {
+          "id": "places-20260425_063538",
+          "category": "places",
+          "full": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/places/full/20260425_063538.webp",
+          "thumb": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/places/thumbs/20260425_063538.webp",
+          "filename": "20260425_063538.webp"
+        },
+        {
+          "id": "places-20260425_063542",
+          "category": "places",
+          "full": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/places/full/20260425_063542.webp",
+          "thumb": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/places/thumbs/20260425_063542.webp",
+          "filename": "20260425_063542.webp"
+        },
+        {
+          "id": "places-20260425_063558",
+          "category": "places",
+          "full": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/places/full/20260425_063558.webp",
+          "thumb": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/places/thumbs/20260425_063558.webp",
+          "filename": "20260425_063558.webp"
+        },
+        {
+          "id": "places-20260425_063559",
+          "category": "places",
+          "full": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/places/full/20260425_063559.webp",
+          "thumb": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/places/thumbs/20260425_063559.webp",
+          "filename": "20260425_063559.webp"
+        },
+        {
+          "id": "places-20260425_084559",
+          "category": "places",
+          "full": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/places/full/20260425_084559.webp",
+          "thumb": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/places/thumbs/20260425_084559.webp",
+          "filename": "20260425_084559.webp"
+        },
+        {
+          "id": "places-20260425_084602",
+          "category": "places",
+          "full": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/places/full/20260425_084602.webp",
+          "thumb": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/places/thumbs/20260425_084602.webp",
+          "filename": "20260425_084602.webp"
+        },
+        {
+          "id": "places-20260425_084605",
+          "category": "places",
+          "full": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/places/full/20260425_084605.webp",
+          "thumb": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/places/thumbs/20260425_084605.webp",
+          "filename": "20260425_084605.webp"
+        },
+        {
+          "id": "places-20260425_164040",
+          "category": "places",
+          "full": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/places/full/20260425_164040.webp",
+          "thumb": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/places/thumbs/20260425_164040.webp",
+          "filename": "20260425_164040.webp"
+        },
+        {
+          "id": "places-20260425_165540",
+          "category": "places",
+          "full": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/places/full/20260425_165540.webp",
+          "thumb": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/places/thumbs/20260425_165540.webp",
+          "filename": "20260425_165540.webp"
+        },
+        {
+          "id": "places-20260425_171306",
+          "category": "places",
+          "full": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/places/full/20260425_171306.webp",
+          "thumb": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/places/thumbs/20260425_171306.webp",
+          "filename": "20260425_171306.webp"
+        },
+        {
+          "id": "places-img-20260502-wa0083",
+          "category": "places",
+          "full": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/places/full/img-20260502-wa0083.webp",
+          "thumb": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/places/thumbs/img-20260502-wa0083.webp",
+          "filename": "img-20260502-wa0083.webp"
+        },
+        {
+          "id": "places-img-20260502-wa0086",
+          "category": "places",
+          "full": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/places/full/img-20260502-wa0086.webp",
+          "thumb": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/places/thumbs/img-20260502-wa0086.webp",
+          "filename": "img-20260502-wa0086.webp"
+        },
+        {
+          "id": "places-img-20260502-wa0097",
+          "category": "places",
+          "full": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/places/full/img-20260502-wa0097.webp",
+          "thumb": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/places/thumbs/img-20260502-wa0097.webp",
+          "filename": "img-20260502-wa0097.webp"
+        },
+        {
+          "id": "places-img-20260502-wa0106",
+          "category": "places",
+          "full": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/places/full/img-20260502-wa0106.webp",
+          "thumb": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/places/thumbs/img-20260502-wa0106.webp",
+          "filename": "img-20260502-wa0106.webp"
+        },
+        {
+          "id": "places-img-20260502-wa0107",
+          "category": "places",
+          "full": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/places/full/img-20260502-wa0107.webp",
+          "thumb": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/places/thumbs/img-20260502-wa0107.webp",
+          "filename": "img-20260502-wa0107.webp"
+        },
+        {
+          "id": "places-img-20260502-wa0108",
+          "category": "places",
+          "full": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/places/full/img-20260502-wa0108.webp",
+          "thumb": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/places/thumbs/img-20260502-wa0108.webp",
+          "filename": "img-20260502-wa0108.webp"
+        }
+      ]
+    },
+    "animals": {
+      "count": 1,
+      "photos": [
+        {
+          "id": "animals-20260425_181215",
+          "category": "animals",
+          "full": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/animals/full/20260425_181215.webp",
+          "thumb": "public/photos/day15_cappadocia_eskisehir_balloon_ride_odunpazari/animals/thumbs/20260425_181215.webp",
+          "filename": "20260425_181215.webp"
+        }
+      ]
+    }
+  }
+}

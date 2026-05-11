@@ -1,0 +1,441 @@
+{
+  "slug": "day16_istanbul_dolmabahce_palace",
+  "totalCount": 60,
+  "categories": {
+    "people": {
+      "count": 3,
+      "photos": [
+        {
+          "id": "people-20260426_212004",
+          "category": "people",
+          "full": "public/photos/day16_istanbul_dolmabahce_palace/people/full/20260426_212004.webp",
+          "thumb": "public/photos/day16_istanbul_dolmabahce_palace/people/thumbs/20260426_212004.webp",
+          "filename": "20260426_212004.webp"
+        },
+        {
+          "id": "people-img-20260427-wa0001",
+          "category": "people",
+          "full": "public/photos/day16_istanbul_dolmabahce_palace/people/full/img-20260427-wa0001.webp",
+          "thumb": "public/photos/day16_istanbul_dolmabahce_palace/people/thumbs/img-20260427-wa0001.webp",
+          "filename": "img-20260427-wa0001.webp"
+        },
+        {
+          "id": "people-img-20260427-wa0015",
+          "category": "people",
+          "full": "public/photos/day16_istanbul_dolmabahce_palace/people/full/img-20260427-wa0015.webp",
+          "thumb": "public/photos/day16_istanbul_dolmabahce_palace/people/thumbs/img-20260427-wa0015.webp",
+          "filename": "img-20260427-wa0015.webp"
+        }
+      ]
+    },
+    "places": {
+      "count": 32,
+      "photos": [
+        {
+          "id": "places-20260426_071844",
+          "category": "places",
+          "full": "public/photos/day16_istanbul_dolmabahce_palace/places/full/20260426_071844.webp",
+          "thumb": "public/photos/day16_istanbul_dolmabahce_palace/places/thumbs/20260426_071844.webp",
+          "filename": "20260426_071844.webp"
+        },
+        {
+          "id": "places-20260426_073312",
+          "category": "places",
+          "full": "public/photos/day16_istanbul_dolmabahce_palace/places/full/20260426_073312.webp",
+          "thumb": "public/photos/day16_istanbul_dolmabahce_palace/places/thumbs/20260426_073312.webp",
+          "filename": "20260426_073312.webp"
+        },
+        {
+          "id": "places-20260426_092336",
+          "category": "places",
+          "full": "public/photos/day16_istanbul_dolmabahce_palace/places/full/20260426_092336.webp",
+          "thumb": "public/photos/day16_istanbul_dolmabahce_palace/places/thumbs/20260426_092336.webp",
+          "filename": "20260426_092336.webp"
+        },
+        {
+          "id": "places-20260426_095123",
+          "category": "places",
+          "full": "public/photos/day16_istanbul_dolmabahce_palace/places/full/20260426_095123.webp",
+          "thumb": "public/photos/day16_istanbul_dolmabahce_palace/places/thumbs/20260426_095123.webp",
+          "filename": "20260426_095123.webp"
+        },
+        {
+          "id": "places-20260426_135927",
+          "category": "places",
+          "full": "public/photos/day16_istanbul_dolmabahce_palace/places/full/20260426_135927.webp",
+          "thumb": "public/photos/day16_istanbul_dolmabahce_palace/places/thumbs/20260426_135927.webp",
+          "filename": "20260426_135927.webp"
+        },
+        {
+          "id": "places-20260426_153330",
+          "category": "places",
+          "full": "public/photos/day16_istanbul_dolmabahce_palace/places/full/20260426_153330.webp",
+          "thumb": "public/photos/day16_istanbul_dolmabahce_palace/places/thumbs/20260426_153330.webp",
+          "filename": "20260426_153330.webp"
+        },
+        {
+          "id": "places-20260426_153552",
+          "category": "places",
+          "full": "public/photos/day16_istanbul_dolmabahce_palace/places/full/20260426_153552.webp",
+          "thumb": "public/photos/day16_istanbul_dolmabahce_palace/places/thumbs/20260426_153552.webp",
+          "filename": "20260426_153552.webp"
+        },
+        {
+          "id": "places-20260426_163853",
+          "category": "places",
+          "full": "public/photos/day16_istanbul_dolmabahce_palace/places/full/20260426_163853.webp",
+          "thumb": "public/photos/day16_istanbul_dolmabahce_palace/places/thumbs/20260426_163853.webp",
+          "filename": "20260426_163853.webp"
+        },
+        {
+          "id": "places-20260426_164235",
+          "category": "places",
+          "full": "public/photos/day16_istanbul_dolmabahce_palace/places/full/20260426_164235.webp",
+          "thumb": "public/photos/day16_istanbul_dolmabahce_palace/places/thumbs/20260426_164235.webp",
+          "filename": "20260426_164235.webp"
+        },
+        {
+          "id": "places-20260426_164630",
+          "category": "places",
+          "full": "public/photos/day16_istanbul_dolmabahce_palace/places/full/20260426_164630.webp",
+          "thumb": "public/photos/day16_istanbul_dolmabahce_palace/places/thumbs/20260426_164630.webp",
+          "filename": "20260426_164630.webp"
+        },
+        {
+          "id": "places-20260426_164715",
+          "category": "places",
+          "full": "public/photos/day16_istanbul_dolmabahce_palace/places/full/20260426_164715.webp",
+          "thumb": "public/photos/day16_istanbul_dolmabahce_palace/places/thumbs/20260426_164715.webp",
+          "filename": "20260426_164715.webp"
+        },
+        {
+          "id": "places-20260426_165941",
+          "category": "places",
+          "full": "public/photos/day16_istanbul_dolmabahce_palace/places/full/20260426_165941.webp",
+          "thumb": "public/photos/day16_istanbul_dolmabahce_palace/places/thumbs/20260426_165941.webp",
+          "filename": "20260426_165941.webp"
+        },
+        {
+          "id": "places-20260426_170412",
+          "category": "places",
+          "full": "public/photos/day16_istanbul_dolmabahce_palace/places/full/20260426_170412.webp",
+          "thumb": "public/photos/day16_istanbul_dolmabahce_palace/places/thumbs/20260426_170412.webp",
+          "filename": "20260426_170412.webp"
+        },
+        {
+          "id": "places-20260426_171044",
+          "category": "places",
+          "full": "public/photos/day16_istanbul_dolmabahce_palace/places/full/20260426_171044.webp",
+          "thumb": "public/photos/day16_istanbul_dolmabahce_palace/places/thumbs/20260426_171044.webp",
+          "filename": "20260426_171044.webp"
+        },
+        {
+          "id": "places-20260426_171339",
+          "category": "places",
+          "full": "public/photos/day16_istanbul_dolmabahce_palace/places/full/20260426_171339.webp",
+          "thumb": "public/photos/day16_istanbul_dolmabahce_palace/places/thumbs/20260426_171339.webp",
+          "filename": "20260426_171339.webp"
+        },
+        {
+          "id": "places-20260426_171505",
+          "category": "places",
+          "full": "public/photos/day16_istanbul_dolmabahce_palace/places/full/20260426_171505.webp",
+          "thumb": "public/photos/day16_istanbul_dolmabahce_palace/places/thumbs/20260426_171505.webp",
+          "filename": "20260426_171505.webp"
+        },
+        {
+          "id": "places-20260426_174101",
+          "category": "places",
+          "full": "public/photos/day16_istanbul_dolmabahce_palace/places/full/20260426_174101.webp",
+          "thumb": "public/photos/day16_istanbul_dolmabahce_palace/places/thumbs/20260426_174101.webp",
+          "filename": "20260426_174101.webp"
+        },
+        {
+          "id": "places-20260426_180001",
+          "category": "places",
+          "full": "public/photos/day16_istanbul_dolmabahce_palace/places/full/20260426_180001.webp",
+          "thumb": "public/photos/day16_istanbul_dolmabahce_palace/places/thumbs/20260426_180001.webp",
+          "filename": "20260426_180001.webp"
+        },
+        {
+          "id": "places-20260426_182058",
+          "category": "places",
+          "full": "public/photos/day16_istanbul_dolmabahce_palace/places/full/20260426_182058.webp",
+          "thumb": "public/photos/day16_istanbul_dolmabahce_palace/places/thumbs/20260426_182058.webp",
+          "filename": "20260426_182058.webp"
+        },
+        {
+          "id": "places-20260426_182502",
+          "category": "places",
+          "full": "public/photos/day16_istanbul_dolmabahce_palace/places/full/20260426_182502.webp",
+          "thumb": "public/photos/day16_istanbul_dolmabahce_palace/places/thumbs/20260426_182502.webp",
+          "filename": "20260426_182502.webp"
+        },
+        {
+          "id": "places-20260426_182511",
+          "category": "places",
+          "full": "public/photos/day16_istanbul_dolmabahce_palace/places/full/20260426_182511.webp",
+          "thumb": "public/photos/day16_istanbul_dolmabahce_palace/places/thumbs/20260426_182511.webp",
+          "filename": "20260426_182511.webp"
+        },
+        {
+          "id": "places-20260426_193214",
+          "category": "places",
+          "full": "public/photos/day16_istanbul_dolmabahce_palace/places/full/20260426_193214.webp",
+          "thumb": "public/photos/day16_istanbul_dolmabahce_palace/places/thumbs/20260426_193214.webp",
+          "filename": "20260426_193214.webp"
+        },
+        {
+          "id": "places-20260426_193312",
+          "category": "places",
+          "full": "public/photos/day16_istanbul_dolmabahce_palace/places/full/20260426_193312.webp",
+          "thumb": "public/photos/day16_istanbul_dolmabahce_palace/places/thumbs/20260426_193312.webp",
+          "filename": "20260426_193312.webp"
+        },
+        {
+          "id": "places-20260426_193343",
+          "category": "places",
+          "full": "public/photos/day16_istanbul_dolmabahce_palace/places/full/20260426_193343.webp",
+          "thumb": "public/photos/day16_istanbul_dolmabahce_palace/places/thumbs/20260426_193343.webp",
+          "filename": "20260426_193343.webp"
+        },
+        {
+          "id": "places-20260426_194251",
+          "category": "places",
+          "full": "public/photos/day16_istanbul_dolmabahce_palace/places/full/20260426_194251.webp",
+          "thumb": "public/photos/day16_istanbul_dolmabahce_palace/places/thumbs/20260426_194251.webp",
+          "filename": "20260426_194251.webp"
+        },
+        {
+          "id": "places-20260426_194651",
+          "category": "places",
+          "full": "public/photos/day16_istanbul_dolmabahce_palace/places/full/20260426_194651.webp",
+          "thumb": "public/photos/day16_istanbul_dolmabahce_palace/places/thumbs/20260426_194651.webp",
+          "filename": "20260426_194651.webp"
+        },
+        {
+          "id": "places-20260426_195100",
+          "category": "places",
+          "full": "public/photos/day16_istanbul_dolmabahce_palace/places/full/20260426_195100.webp",
+          "thumb": "public/photos/day16_istanbul_dolmabahce_palace/places/thumbs/20260426_195100.webp",
+          "filename": "20260426_195100.webp"
+        },
+        {
+          "id": "places-20260426_195115",
+          "category": "places",
+          "full": "public/photos/day16_istanbul_dolmabahce_palace/places/full/20260426_195115.webp",
+          "thumb": "public/photos/day16_istanbul_dolmabahce_palace/places/thumbs/20260426_195115.webp",
+          "filename": "20260426_195115.webp"
+        },
+        {
+          "id": "places-20260426_212301",
+          "category": "places",
+          "full": "public/photos/day16_istanbul_dolmabahce_palace/places/full/20260426_212301.webp",
+          "thumb": "public/photos/day16_istanbul_dolmabahce_palace/places/thumbs/20260426_212301.webp",
+          "filename": "20260426_212301.webp"
+        },
+        {
+          "id": "places-20260426_212312",
+          "category": "places",
+          "full": "public/photos/day16_istanbul_dolmabahce_palace/places/full/20260426_212312.webp",
+          "thumb": "public/photos/day16_istanbul_dolmabahce_palace/places/thumbs/20260426_212312.webp",
+          "filename": "20260426_212312.webp"
+        },
+        {
+          "id": "places-20260426_213931",
+          "category": "places",
+          "full": "public/photos/day16_istanbul_dolmabahce_palace/places/full/20260426_213931.webp",
+          "thumb": "public/photos/day16_istanbul_dolmabahce_palace/places/thumbs/20260426_213931.webp",
+          "filename": "20260426_213931.webp"
+        },
+        {
+          "id": "places-20260426_213939",
+          "category": "places",
+          "full": "public/photos/day16_istanbul_dolmabahce_palace/places/full/20260426_213939.webp",
+          "thumb": "public/photos/day16_istanbul_dolmabahce_palace/places/thumbs/20260426_213939.webp",
+          "filename": "20260426_213939.webp"
+        }
+      ]
+    },
+    "animals": {
+      "count": 25,
+      "photos": [
+        {
+          "id": "animals-20260426_072355",
+          "category": "animals",
+          "full": "public/photos/day16_istanbul_dolmabahce_palace/animals/full/20260426_072355.webp",
+          "thumb": "public/photos/day16_istanbul_dolmabahce_palace/animals/thumbs/20260426_072355.webp",
+          "filename": "20260426_072355.webp"
+        },
+        {
+          "id": "animals-20260426_073627",
+          "category": "animals",
+          "full": "public/photos/day16_istanbul_dolmabahce_palace/animals/full/20260426_073627.webp",
+          "thumb": "public/photos/day16_istanbul_dolmabahce_palace/animals/thumbs/20260426_073627.webp",
+          "filename": "20260426_073627.webp"
+        },
+        {
+          "id": "animals-20260426_073631",
+          "category": "animals",
+          "full": "public/photos/day16_istanbul_dolmabahce_palace/animals/full/20260426_073631.webp",
+          "thumb": "public/photos/day16_istanbul_dolmabahce_palace/animals/thumbs/20260426_073631.webp",
+          "filename": "20260426_073631.webp"
+        },
+        {
+          "id": "animals-20260426_074545",
+          "category": "animals",
+          "full": "public/photos/day16_istanbul_dolmabahce_palace/animals/full/20260426_074545.webp",
+          "thumb": "public/photos/day16_istanbul_dolmabahce_palace/animals/thumbs/20260426_074545.webp",
+          "filename": "20260426_074545.webp"
+        },
+        {
+          "id": "animals-20260426_172216",
+          "category": "animals",
+          "full": "public/photos/day16_istanbul_dolmabahce_palace/animals/full/20260426_172216.webp",
+          "thumb": "public/photos/day16_istanbul_dolmabahce_palace/animals/thumbs/20260426_172216.webp",
+          "filename": "20260426_172216.webp"
+        },
+        {
+          "id": "animals-20260426_180733",
+          "category": "animals",
+          "full": "public/photos/day16_istanbul_dolmabahce_palace/animals/full/20260426_180733.webp",
+          "thumb": "public/photos/day16_istanbul_dolmabahce_palace/animals/thumbs/20260426_180733.webp",
+          "filename": "20260426_180733.webp"
+        },
+        {
+          "id": "animals-20260426_181059",
+          "category": "animals",
+          "full": "public/photos/day16_istanbul_dolmabahce_palace/animals/full/20260426_181059.webp",
+          "thumb": "public/photos/day16_istanbul_dolmabahce_palace/animals/thumbs/20260426_181059.webp",
+          "filename": "20260426_181059.webp"
+        },
+        {
+          "id": "animals-20260426_181241",
+          "category": "animals",
+          "full": "public/photos/day16_istanbul_dolmabahce_palace/animals/full/20260426_181241.webp",
+          "thumb": "public/photos/day16_istanbul_dolmabahce_palace/animals/thumbs/20260426_181241.webp",
+          "filename": "20260426_181241.webp"
+        },
+        {
+          "id": "animals-20260426_181246",
+          "category": "animals",
+          "full": "public/photos/day16_istanbul_dolmabahce_palace/animals/full/20260426_181246.webp",
+          "thumb": "public/photos/day16_istanbul_dolmabahce_palace/animals/thumbs/20260426_181246.webp",
+          "filename": "20260426_181246.webp"
+        },
+        {
+          "id": "animals-20260426_181721",
+          "category": "animals",
+          "full": "public/photos/day16_istanbul_dolmabahce_palace/animals/full/20260426_181721.webp",
+          "thumb": "public/photos/day16_istanbul_dolmabahce_palace/animals/thumbs/20260426_181721.webp",
+          "filename": "20260426_181721.webp"
+        },
+        {
+          "id": "animals-20260426_182526",
+          "category": "animals",
+          "full": "public/photos/day16_istanbul_dolmabahce_palace/animals/full/20260426_182526.webp",
+          "thumb": "public/photos/day16_istanbul_dolmabahce_palace/animals/thumbs/20260426_182526.webp",
+          "filename": "20260426_182526.webp"
+        },
+        {
+          "id": "animals-20260426_182700",
+          "category": "animals",
+          "full": "public/photos/day16_istanbul_dolmabahce_palace/animals/full/20260426_182700.webp",
+          "thumb": "public/photos/day16_istanbul_dolmabahce_palace/animals/thumbs/20260426_182700.webp",
+          "filename": "20260426_182700.webp"
+        },
+        {
+          "id": "animals-20260426_182701",
+          "category": "animals",
+          "full": "public/photos/day16_istanbul_dolmabahce_palace/animals/full/20260426_182701.webp",
+          "thumb": "public/photos/day16_istanbul_dolmabahce_palace/animals/thumbs/20260426_182701.webp",
+          "filename": "20260426_182701.webp"
+        },
+        {
+          "id": "animals-20260426_182733",
+          "category": "animals",
+          "full": "public/photos/day16_istanbul_dolmabahce_palace/animals/full/20260426_182733.webp",
+          "thumb": "public/photos/day16_istanbul_dolmabahce_palace/animals/thumbs/20260426_182733.webp",
+          "filename": "20260426_182733.webp"
+        },
+        {
+          "id": "animals-20260426_182851",
+          "category": "animals",
+          "full": "public/photos/day16_istanbul_dolmabahce_palace/animals/full/20260426_182851.webp",
+          "thumb": "public/photos/day16_istanbul_dolmabahce_palace/animals/thumbs/20260426_182851.webp",
+          "filename": "20260426_182851.webp"
+        },
+        {
+          "id": "animals-20260426_182924(0)",
+          "category": "animals",
+          "full": "public/photos/day16_istanbul_dolmabahce_palace/animals/full/20260426_182924(0).webp",
+          "thumb": "public/photos/day16_istanbul_dolmabahce_palace/animals/thumbs/20260426_182924(0).webp",
+          "filename": "20260426_182924(0).webp"
+        },
+        {
+          "id": "animals-20260426_183025",
+          "category": "animals",
+          "full": "public/photos/day16_istanbul_dolmabahce_palace/animals/full/20260426_183025.webp",
+          "thumb": "public/photos/day16_istanbul_dolmabahce_palace/animals/thumbs/20260426_183025.webp",
+          "filename": "20260426_183025.webp"
+        },
+        {
+          "id": "animals-20260426_183121",
+          "category": "animals",
+          "full": "public/photos/day16_istanbul_dolmabahce_palace/animals/full/20260426_183121.webp",
+          "thumb": "public/photos/day16_istanbul_dolmabahce_palace/animals/thumbs/20260426_183121.webp",
+          "filename": "20260426_183121.webp"
+        },
+        {
+          "id": "animals-20260426_183211",
+          "category": "animals",
+          "full": "public/photos/day16_istanbul_dolmabahce_palace/animals/full/20260426_183211.webp",
+          "thumb": "public/photos/day16_istanbul_dolmabahce_palace/animals/thumbs/20260426_183211.webp",
+          "filename": "20260426_183211.webp"
+        },
+        {
+          "id": "animals-20260426_183213",
+          "category": "animals",
+          "full": "public/photos/day16_istanbul_dolmabahce_palace/animals/full/20260426_183213.webp",
+          "thumb": "public/photos/day16_istanbul_dolmabahce_palace/animals/thumbs/20260426_183213.webp",
+          "filename": "20260426_183213.webp"
+        },
+        {
+          "id": "animals-20260426_184107",
+          "category": "animals",
+          "full": "public/photos/day16_istanbul_dolmabahce_palace/animals/full/20260426_184107.webp",
+          "thumb": "public/photos/day16_istanbul_dolmabahce_palace/animals/thumbs/20260426_184107.webp",
+          "filename": "20260426_184107.webp"
+        },
+        {
+          "id": "animals-20260426_184223",
+          "category": "animals",
+          "full": "public/photos/day16_istanbul_dolmabahce_palace/animals/full/20260426_184223.webp",
+          "thumb": "public/photos/day16_istanbul_dolmabahce_palace/animals/thumbs/20260426_184223.webp",
+          "filename": "20260426_184223.webp"
+        },
+        {
+          "id": "animals-20260426_184442",
+          "category": "animals",
+          "full": "public/photos/day16_istanbul_dolmabahce_palace/animals/full/20260426_184442.webp",
+          "thumb": "public/photos/day16_istanbul_dolmabahce_palace/animals/thumbs/20260426_184442.webp",
+          "filename": "20260426_184442.webp"
+        },
+        {
+          "id": "animals-20260426_185932",
+          "category": "animals",
+          "full": "public/photos/day16_istanbul_dolmabahce_palace/animals/full/20260426_185932.webp",
+          "thumb": "public/photos/day16_istanbul_dolmabahce_palace/animals/thumbs/20260426_185932.webp",
+          "filename": "20260426_185932.webp"
+        },
+        {
+          "id": "animals-20260426_214656",
+          "category": "animals",
+          "full": "public/photos/day16_istanbul_dolmabahce_palace/animals/full/20260426_214656.webp",
+          "thumb": "public/photos/day16_istanbul_dolmabahce_palace/animals/thumbs/20260426_214656.webp",
+          "filename": "20260426_214656.webp"
+        }
+      ]
+    }
+  }
+}

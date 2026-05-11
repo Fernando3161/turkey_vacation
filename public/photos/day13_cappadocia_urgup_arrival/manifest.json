@@ -1,0 +1,168 @@
+{
+  "slug": "day13_cappadocia_urgup_arrival",
+  "totalCount": 21,
+  "categories": {
+    "people": {
+      "count": 4,
+      "photos": [
+        {
+          "id": "people-20260423_153235",
+          "category": "people",
+          "full": "public/photos/day13_cappadocia_urgup_arrival/people/full/20260423_153235.webp",
+          "thumb": "public/photos/day13_cappadocia_urgup_arrival/people/thumbs/20260423_153235.webp",
+          "filename": "20260423_153235.webp"
+        },
+        {
+          "id": "people-20260423_154838",
+          "category": "people",
+          "full": "public/photos/day13_cappadocia_urgup_arrival/people/full/20260423_154838.webp",
+          "thumb": "public/photos/day13_cappadocia_urgup_arrival/people/thumbs/20260423_154838.webp",
+          "filename": "20260423_154838.webp"
+        },
+        {
+          "id": "people-img-20260423-wa0004",
+          "category": "people",
+          "full": "public/photos/day13_cappadocia_urgup_arrival/people/full/img-20260423-wa0004.webp",
+          "thumb": "public/photos/day13_cappadocia_urgup_arrival/people/thumbs/img-20260423-wa0004.webp",
+          "filename": "img-20260423-wa0004.webp"
+        },
+        {
+          "id": "people-img-20260423-wa0005",
+          "category": "people",
+          "full": "public/photos/day13_cappadocia_urgup_arrival/people/full/img-20260423-wa0005.webp",
+          "thumb": "public/photos/day13_cappadocia_urgup_arrival/people/thumbs/img-20260423-wa0005.webp",
+          "filename": "img-20260423-wa0005.webp"
+        }
+      ]
+    },
+    "places": {
+      "count": 15,
+      "photos": [
+        {
+          "id": "places-20260423_100121",
+          "category": "places",
+          "full": "public/photos/day13_cappadocia_urgup_arrival/places/full/20260423_100121.webp",
+          "thumb": "public/photos/day13_cappadocia_urgup_arrival/places/thumbs/20260423_100121.webp",
+          "filename": "20260423_100121.webp"
+        },
+        {
+          "id": "places-20260423_101433",
+          "category": "places",
+          "full": "public/photos/day13_cappadocia_urgup_arrival/places/full/20260423_101433.webp",
+          "thumb": "public/photos/day13_cappadocia_urgup_arrival/places/thumbs/20260423_101433.webp",
+          "filename": "20260423_101433.webp"
+        },
+        {
+          "id": "places-20260423_101617",
+          "category": "places",
+          "full": "public/photos/day13_cappadocia_urgup_arrival/places/full/20260423_101617.webp",
+          "thumb": "public/photos/day13_cappadocia_urgup_arrival/places/thumbs/20260423_101617.webp",
+          "filename": "20260423_101617.webp"
+        },
+        {
+          "id": "places-20260423_151040",
+          "category": "places",
+          "full": "public/photos/day13_cappadocia_urgup_arrival/places/full/20260423_151040.webp",
+          "thumb": "public/photos/day13_cappadocia_urgup_arrival/places/thumbs/20260423_151040.webp",
+          "filename": "20260423_151040.webp"
+        },
+        {
+          "id": "places-20260423_153330",
+          "category": "places",
+          "full": "public/photos/day13_cappadocia_urgup_arrival/places/full/20260423_153330.webp",
+          "thumb": "public/photos/day13_cappadocia_urgup_arrival/places/thumbs/20260423_153330.webp",
+          "filename": "20260423_153330.webp"
+        },
+        {
+          "id": "places-20260423_154016",
+          "category": "places",
+          "full": "public/photos/day13_cappadocia_urgup_arrival/places/full/20260423_154016.webp",
+          "thumb": "public/photos/day13_cappadocia_urgup_arrival/places/thumbs/20260423_154016.webp",
+          "filename": "20260423_154016.webp"
+        },
+        {
+          "id": "places-20260423_154751",
+          "category": "places",
+          "full": "public/photos/day13_cappadocia_urgup_arrival/places/full/20260423_154751.webp",
+          "thumb": "public/photos/day13_cappadocia_urgup_arrival/places/thumbs/20260423_154751.webp",
+          "filename": "20260423_154751.webp"
+        },
+        {
+          "id": "places-20260423_155511",
+          "category": "places",
+          "full": "public/photos/day13_cappadocia_urgup_arrival/places/full/20260423_155511.webp",
+          "thumb": "public/photos/day13_cappadocia_urgup_arrival/places/thumbs/20260423_155511.webp",
+          "filename": "20260423_155511.webp"
+        },
+        {
+          "id": "places-20260423_160120",
+          "category": "places",
+          "full": "public/photos/day13_cappadocia_urgup_arrival/places/full/20260423_160120.webp",
+          "thumb": "public/photos/day13_cappadocia_urgup_arrival/places/thumbs/20260423_160120.webp",
+          "filename": "20260423_160120.webp"
+        },
+        {
+          "id": "places-20260423_163728",
+          "category": "places",
+          "full": "public/photos/day13_cappadocia_urgup_arrival/places/full/20260423_163728.webp",
+          "thumb": "public/photos/day13_cappadocia_urgup_arrival/places/thumbs/20260423_163728.webp",
+          "filename": "20260423_163728.webp"
+        },
+        {
+          "id": "places-20260423_183456",
+          "category": "places",
+          "full": "public/photos/day13_cappadocia_urgup_arrival/places/full/20260423_183456.webp",
+          "thumb": "public/photos/day13_cappadocia_urgup_arrival/places/thumbs/20260423_183456.webp",
+          "filename": "20260423_183456.webp"
+        },
+        {
+          "id": "places-20260423_183629",
+          "category": "places",
+          "full": "public/photos/day13_cappadocia_urgup_arrival/places/full/20260423_183629.webp",
+          "thumb": "public/photos/day13_cappadocia_urgup_arrival/places/thumbs/20260423_183629.webp",
+          "filename": "20260423_183629.webp"
+        },
+        {
+          "id": "places-20260423_183701",
+          "category": "places",
+          "full": "public/photos/day13_cappadocia_urgup_arrival/places/full/20260423_183701.webp",
+          "thumb": "public/photos/day13_cappadocia_urgup_arrival/places/thumbs/20260423_183701.webp",
+          "filename": "20260423_183701.webp"
+        },
+        {
+          "id": "places-20260423_220208",
+          "category": "places",
+          "full": "public/photos/day13_cappadocia_urgup_arrival/places/full/20260423_220208.webp",
+          "thumb": "public/photos/day13_cappadocia_urgup_arrival/places/thumbs/20260423_220208.webp",
+          "filename": "20260423_220208.webp"
+        },
+        {
+          "id": "places-20260423_221534",
+          "category": "places",
+          "full": "public/photos/day13_cappadocia_urgup_arrival/places/full/20260423_221534.webp",
+          "thumb": "public/photos/day13_cappadocia_urgup_arrival/places/thumbs/20260423_221534.webp",
+          "filename": "20260423_221534.webp"
+        }
+      ]
+    },
+    "animals": {
+      "count": 2,
+      "photos": [
+        {
+          "id": "animals-20260422_143452",
+          "category": "animals",
+          "full": "public/photos/day13_cappadocia_urgup_arrival/animals/full/20260422_143452.webp",
+          "thumb": "public/photos/day13_cappadocia_urgup_arrival/animals/thumbs/20260422_143452.webp",
+          "filename": "20260422_143452.webp"
+        },
+        {
+          "id": "animals-20260422_192319",
+          "category": "animals",
+          "full": "public/photos/day13_cappadocia_urgup_arrival/animals/full/20260422_192319.webp",
+          "thumb": "public/photos/day13_cappadocia_urgup_arrival/animals/thumbs/20260422_192319.webp",
+          "filename": "20260422_192319.webp"
+        }
+      ]
+    }
+  }
+}

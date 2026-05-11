@@ -1,0 +1,343 @@
+{
+  "slug": "day10_kas_coastal_town",
+  "totalCount": 46,
+  "categories": {
+    "people": {
+      "count": 6,
+      "photos": [
+        {
+          "id": "people-20260420_131505",
+          "category": "people",
+          "full": "public/photos/day10_kas_coastal_town/people/full/20260420_131505.webp",
+          "thumb": "public/photos/day10_kas_coastal_town/people/thumbs/20260420_131505.webp",
+          "filename": "20260420_131505.webp"
+        },
+        {
+          "id": "people-20260420_131519",
+          "category": "people",
+          "full": "public/photos/day10_kas_coastal_town/people/full/20260420_131519.webp",
+          "thumb": "public/photos/day10_kas_coastal_town/people/thumbs/20260420_131519.webp",
+          "filename": "20260420_131519.webp"
+        },
+        {
+          "id": "people-20260420_131522",
+          "category": "people",
+          "full": "public/photos/day10_kas_coastal_town/people/full/20260420_131522.webp",
+          "thumb": "public/photos/day10_kas_coastal_town/people/thumbs/20260420_131522.webp",
+          "filename": "20260420_131522.webp"
+        },
+        {
+          "id": "people-20260420_193028",
+          "category": "people",
+          "full": "public/photos/day10_kas_coastal_town/people/full/20260420_193028.webp",
+          "thumb": "public/photos/day10_kas_coastal_town/people/thumbs/20260420_193028.webp",
+          "filename": "20260420_193028.webp"
+        },
+        {
+          "id": "people-img-20260420-wa0000",
+          "category": "people",
+          "full": "public/photos/day10_kas_coastal_town/people/full/img-20260420-wa0000.webp",
+          "thumb": "public/photos/day10_kas_coastal_town/people/thumbs/img-20260420-wa0000.webp",
+          "filename": "img-20260420-wa0000.webp"
+        },
+        {
+          "id": "people-img-20260420-wa0039",
+          "category": "people",
+          "full": "public/photos/day10_kas_coastal_town/people/full/img-20260420-wa0039.webp",
+          "thumb": "public/photos/day10_kas_coastal_town/people/thumbs/img-20260420-wa0039.webp",
+          "filename": "img-20260420-wa0039.webp"
+        }
+      ]
+    },
+    "places": {
+      "count": 16,
+      "photos": [
+        {
+          "id": "places-20260420_114842",
+          "category": "places",
+          "full": "public/photos/day10_kas_coastal_town/places/full/20260420_114842.webp",
+          "thumb": "public/photos/day10_kas_coastal_town/places/thumbs/20260420_114842.webp",
+          "filename": "20260420_114842.webp"
+        },
+        {
+          "id": "places-20260420_115100",
+          "category": "places",
+          "full": "public/photos/day10_kas_coastal_town/places/full/20260420_115100.webp",
+          "thumb": "public/photos/day10_kas_coastal_town/places/thumbs/20260420_115100.webp",
+          "filename": "20260420_115100.webp"
+        },
+        {
+          "id": "places-20260420_141717",
+          "category": "places",
+          "full": "public/photos/day10_kas_coastal_town/places/full/20260420_141717.webp",
+          "thumb": "public/photos/day10_kas_coastal_town/places/thumbs/20260420_141717.webp",
+          "filename": "20260420_141717.webp"
+        },
+        {
+          "id": "places-20260420_154931",
+          "category": "places",
+          "full": "public/photos/day10_kas_coastal_town/places/full/20260420_154931.webp",
+          "thumb": "public/photos/day10_kas_coastal_town/places/thumbs/20260420_154931.webp",
+          "filename": "20260420_154931.webp"
+        },
+        {
+          "id": "places-20260420_160419",
+          "category": "places",
+          "full": "public/photos/day10_kas_coastal_town/places/full/20260420_160419.webp",
+          "thumb": "public/photos/day10_kas_coastal_town/places/thumbs/20260420_160419.webp",
+          "filename": "20260420_160419.webp"
+        },
+        {
+          "id": "places-20260420_161348",
+          "category": "places",
+          "full": "public/photos/day10_kas_coastal_town/places/full/20260420_161348.webp",
+          "thumb": "public/photos/day10_kas_coastal_town/places/thumbs/20260420_161348.webp",
+          "filename": "20260420_161348.webp"
+        },
+        {
+          "id": "places-20260420_161857",
+          "category": "places",
+          "full": "public/photos/day10_kas_coastal_town/places/full/20260420_161857.webp",
+          "thumb": "public/photos/day10_kas_coastal_town/places/thumbs/20260420_161857.webp",
+          "filename": "20260420_161857.webp"
+        },
+        {
+          "id": "places-20260420_171519",
+          "category": "places",
+          "full": "public/photos/day10_kas_coastal_town/places/full/20260420_171519.webp",
+          "thumb": "public/photos/day10_kas_coastal_town/places/thumbs/20260420_171519.webp",
+          "filename": "20260420_171519.webp"
+        },
+        {
+          "id": "places-20260420_173632",
+          "category": "places",
+          "full": "public/photos/day10_kas_coastal_town/places/full/20260420_173632.webp",
+          "thumb": "public/photos/day10_kas_coastal_town/places/thumbs/20260420_173632.webp",
+          "filename": "20260420_173632.webp"
+        },
+        {
+          "id": "places-20260420_185851",
+          "category": "places",
+          "full": "public/photos/day10_kas_coastal_town/places/full/20260420_185851.webp",
+          "thumb": "public/photos/day10_kas_coastal_town/places/thumbs/20260420_185851.webp",
+          "filename": "20260420_185851.webp"
+        },
+        {
+          "id": "places-20260420_185935",
+          "category": "places",
+          "full": "public/photos/day10_kas_coastal_town/places/full/20260420_185935.webp",
+          "thumb": "public/photos/day10_kas_coastal_town/places/thumbs/20260420_185935.webp",
+          "filename": "20260420_185935.webp"
+        },
+        {
+          "id": "places-20260420_190351",
+          "category": "places",
+          "full": "public/photos/day10_kas_coastal_town/places/full/20260420_190351.webp",
+          "thumb": "public/photos/day10_kas_coastal_town/places/thumbs/20260420_190351.webp",
+          "filename": "20260420_190351.webp"
+        },
+        {
+          "id": "places-20260420_192423",
+          "category": "places",
+          "full": "public/photos/day10_kas_coastal_town/places/full/20260420_192423.webp",
+          "thumb": "public/photos/day10_kas_coastal_town/places/thumbs/20260420_192423.webp",
+          "filename": "20260420_192423.webp"
+        },
+        {
+          "id": "places-20260420_192727",
+          "category": "places",
+          "full": "public/photos/day10_kas_coastal_town/places/full/20260420_192727.webp",
+          "thumb": "public/photos/day10_kas_coastal_town/places/thumbs/20260420_192727.webp",
+          "filename": "20260420_192727.webp"
+        },
+        {
+          "id": "places-img-20260420-wa0042",
+          "category": "places",
+          "full": "public/photos/day10_kas_coastal_town/places/full/img-20260420-wa0042.webp",
+          "thumb": "public/photos/day10_kas_coastal_town/places/thumbs/img-20260420-wa0042.webp",
+          "filename": "img-20260420-wa0042.webp"
+        },
+        {
+          "id": "places-img-20260420-wa0046",
+          "category": "places",
+          "full": "public/photos/day10_kas_coastal_town/places/full/img-20260420-wa0046.webp",
+          "thumb": "public/photos/day10_kas_coastal_town/places/thumbs/img-20260420-wa0046.webp",
+          "filename": "img-20260420-wa0046.webp"
+        }
+      ]
+    },
+    "animals": {
+      "count": 24,
+      "photos": [
+        {
+          "id": "animals-20260420_130701",
+          "category": "animals",
+          "full": "public/photos/day10_kas_coastal_town/animals/full/20260420_130701.webp",
+          "thumb": "public/photos/day10_kas_coastal_town/animals/thumbs/20260420_130701.webp",
+          "filename": "20260420_130701.webp"
+        },
+        {
+          "id": "animals-20260420_130941",
+          "category": "animals",
+          "full": "public/photos/day10_kas_coastal_town/animals/full/20260420_130941.webp",
+          "thumb": "public/photos/day10_kas_coastal_town/animals/thumbs/20260420_130941.webp",
+          "filename": "20260420_130941.webp"
+        },
+        {
+          "id": "animals-20260420_131345",
+          "category": "animals",
+          "full": "public/photos/day10_kas_coastal_town/animals/full/20260420_131345.webp",
+          "thumb": "public/photos/day10_kas_coastal_town/animals/thumbs/20260420_131345.webp",
+          "filename": "20260420_131345.webp"
+        },
+        {
+          "id": "animals-20260420_131613",
+          "category": "animals",
+          "full": "public/photos/day10_kas_coastal_town/animals/full/20260420_131613.webp",
+          "thumb": "public/photos/day10_kas_coastal_town/animals/thumbs/20260420_131613.webp",
+          "filename": "20260420_131613.webp"
+        },
+        {
+          "id": "animals-20260420_131646",
+          "category": "animals",
+          "full": "public/photos/day10_kas_coastal_town/animals/full/20260420_131646.webp",
+          "thumb": "public/photos/day10_kas_coastal_town/animals/thumbs/20260420_131646.webp",
+          "filename": "20260420_131646.webp"
+        },
+        {
+          "id": "animals-20260420_134914",
+          "category": "animals",
+          "full": "public/photos/day10_kas_coastal_town/animals/full/20260420_134914.webp",
+          "thumb": "public/photos/day10_kas_coastal_town/animals/thumbs/20260420_134914.webp",
+          "filename": "20260420_134914.webp"
+        },
+        {
+          "id": "animals-20260420_134952",
+          "category": "animals",
+          "full": "public/photos/day10_kas_coastal_town/animals/full/20260420_134952.webp",
+          "thumb": "public/photos/day10_kas_coastal_town/animals/thumbs/20260420_134952.webp",
+          "filename": "20260420_134952.webp"
+        },
+        {
+          "id": "animals-20260420_160209",
+          "category": "animals",
+          "full": "public/photos/day10_kas_coastal_town/animals/full/20260420_160209.webp",
+          "thumb": "public/photos/day10_kas_coastal_town/animals/thumbs/20260420_160209.webp",
+          "filename": "20260420_160209.webp"
+        },
+        {
+          "id": "animals-20260420_161004",
+          "category": "animals",
+          "full": "public/photos/day10_kas_coastal_town/animals/full/20260420_161004.webp",
+          "thumb": "public/photos/day10_kas_coastal_town/animals/thumbs/20260420_161004.webp",
+          "filename": "20260420_161004.webp"
+        },
+        {
+          "id": "animals-20260420_162043",
+          "category": "animals",
+          "full": "public/photos/day10_kas_coastal_town/animals/full/20260420_162043.webp",
+          "thumb": "public/photos/day10_kas_coastal_town/animals/thumbs/20260420_162043.webp",
+          "filename": "20260420_162043.webp"
+        },
+        {
+          "id": "animals-20260420_163051",
+          "category": "animals",
+          "full": "public/photos/day10_kas_coastal_town/animals/full/20260420_163051.webp",
+          "thumb": "public/photos/day10_kas_coastal_town/animals/thumbs/20260420_163051.webp",
+          "filename": "20260420_163051.webp"
+        },
+        {
+          "id": "animals-20260420_163910",
+          "category": "animals",
+          "full": "public/photos/day10_kas_coastal_town/animals/full/20260420_163910.webp",
+          "thumb": "public/photos/day10_kas_coastal_town/animals/thumbs/20260420_163910.webp",
+          "filename": "20260420_163910.webp"
+        },
+        {
+          "id": "animals-20260420_164135",
+          "category": "animals",
+          "full": "public/photos/day10_kas_coastal_town/animals/full/20260420_164135.webp",
+          "thumb": "public/photos/day10_kas_coastal_town/animals/thumbs/20260420_164135.webp",
+          "filename": "20260420_164135.webp"
+        },
+        {
+          "id": "animals-20260420_164140",
+          "category": "animals",
+          "full": "public/photos/day10_kas_coastal_town/animals/full/20260420_164140.webp",
+          "thumb": "public/photos/day10_kas_coastal_town/animals/thumbs/20260420_164140.webp",
+          "filename": "20260420_164140.webp"
+        },
+        {
+          "id": "animals-20260420_165928",
+          "category": "animals",
+          "full": "public/photos/day10_kas_coastal_town/animals/full/20260420_165928.webp",
+          "thumb": "public/photos/day10_kas_coastal_town/animals/thumbs/20260420_165928.webp",
+          "filename": "20260420_165928.webp"
+        },
+        {
+          "id": "animals-20260420_172300",
+          "category": "animals",
+          "full": "public/photos/day10_kas_coastal_town/animals/full/20260420_172300.webp",
+          "thumb": "public/photos/day10_kas_coastal_town/animals/thumbs/20260420_172300.webp",
+          "filename": "20260420_172300.webp"
+        },
+        {
+          "id": "animals-20260420_172302",
+          "category": "animals",
+          "full": "public/photos/day10_kas_coastal_town/animals/full/20260420_172302.webp",
+          "thumb": "public/photos/day10_kas_coastal_town/animals/thumbs/20260420_172302.webp",
+          "filename": "20260420_172302.webp"
+        },
+        {
+          "id": "animals-20260420_184627",
+          "category": "animals",
+          "full": "public/photos/day10_kas_coastal_town/animals/full/20260420_184627.webp",
+          "thumb": "public/photos/day10_kas_coastal_town/animals/thumbs/20260420_184627.webp",
+          "filename": "20260420_184627.webp"
+        },
+        {
+          "id": "animals-20260420_184645",
+          "category": "animals",
+          "full": "public/photos/day10_kas_coastal_town/animals/full/20260420_184645.webp",
+          "thumb": "public/photos/day10_kas_coastal_town/animals/thumbs/20260420_184645.webp",
+          "filename": "20260420_184645.webp"
+        },
+        {
+          "id": "animals-20260420_184702",
+          "category": "animals",
+          "full": "public/photos/day10_kas_coastal_town/animals/full/20260420_184702.webp",
+          "thumb": "public/photos/day10_kas_coastal_town/animals/thumbs/20260420_184702.webp",
+          "filename": "20260420_184702.webp"
+        },
+        {
+          "id": "animals-20260420_184709",
+          "category": "animals",
+          "full": "public/photos/day10_kas_coastal_town/animals/full/20260420_184709.webp",
+          "thumb": "public/photos/day10_kas_coastal_town/animals/thumbs/20260420_184709.webp",
+          "filename": "20260420_184709.webp"
+        },
+        {
+          "id": "animals-20260420_185451",
+          "category": "animals",
+          "full": "public/photos/day10_kas_coastal_town/animals/full/20260420_185451.webp",
+          "thumb": "public/photos/day10_kas_coastal_town/animals/thumbs/20260420_185451.webp",
+          "filename": "20260420_185451.webp"
+        },
+        {
+          "id": "animals-20260420_192941",
+          "category": "animals",
+          "full": "public/photos/day10_kas_coastal_town/animals/full/20260420_192941.webp",
+          "thumb": "public/photos/day10_kas_coastal_town/animals/thumbs/20260420_192941.webp",
+          "filename": "20260420_192941.webp"
+        },
+        {
+          "id": "animals-img-20260420-wa0045",
+          "category": "animals",
+          "full": "public/photos/day10_kas_coastal_town/animals/full/img-20260420-wa0045.webp",
+          "thumb": "public/photos/day10_kas_coastal_town/animals/thumbs/img-20260420-wa0045.webp",
+          "filename": "img-20260420-wa0045.webp"
+        }
+      ]
+    }
+  }
+}

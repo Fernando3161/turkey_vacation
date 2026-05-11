@@ -1,0 +1,118 @@
+{
+  "slug": "day12_konya_mevlana_seljuk_history",
+  "totalCount": 14,
+  "categories": {
+    "people": {
+      "count": 0,
+      "photos": []
+    },
+    "places": {
+      "count": 11,
+      "photos": [
+        {
+          "id": "places-20260422_142610",
+          "category": "places",
+          "full": "public/photos/day12_konya_mevlana_seljuk_history/places/full/20260422_142610.webp",
+          "thumb": "public/photos/day12_konya_mevlana_seljuk_history/places/thumbs/20260422_142610.webp",
+          "filename": "20260422_142610.webp"
+        },
+        {
+          "id": "places-20260422_142621",
+          "category": "places",
+          "full": "public/photos/day12_konya_mevlana_seljuk_history/places/full/20260422_142621.webp",
+          "thumb": "public/photos/day12_konya_mevlana_seljuk_history/places/thumbs/20260422_142621.webp",
+          "filename": "20260422_142621.webp"
+        },
+        {
+          "id": "places-20260422_150504",
+          "category": "places",
+          "full": "public/photos/day12_konya_mevlana_seljuk_history/places/full/20260422_150504.webp",
+          "thumb": "public/photos/day12_konya_mevlana_seljuk_history/places/thumbs/20260422_150504.webp",
+          "filename": "20260422_150504.webp"
+        },
+        {
+          "id": "places-20260422_150518",
+          "category": "places",
+          "full": "public/photos/day12_konya_mevlana_seljuk_history/places/full/20260422_150518.webp",
+          "thumb": "public/photos/day12_konya_mevlana_seljuk_history/places/thumbs/20260422_150518.webp",
+          "filename": "20260422_150518.webp"
+        },
+        {
+          "id": "places-20260422_150656",
+          "category": "places",
+          "full": "public/photos/day12_konya_mevlana_seljuk_history/places/full/20260422_150656.webp",
+          "thumb": "public/photos/day12_konya_mevlana_seljuk_history/places/thumbs/20260422_150656.webp",
+          "filename": "20260422_150656.webp"
+        },
+        {
+          "id": "places-20260422_175733",
+          "category": "places",
+          "full": "public/photos/day12_konya_mevlana_seljuk_history/places/full/20260422_175733.webp",
+          "thumb": "public/photos/day12_konya_mevlana_seljuk_history/places/thumbs/20260422_175733.webp",
+          "filename": "20260422_175733.webp"
+        },
+        {
+          "id": "places-20260422_181733",
+          "category": "places",
+          "full": "public/photos/day12_konya_mevlana_seljuk_history/places/full/20260422_181733.webp",
+          "thumb": "public/photos/day12_konya_mevlana_seljuk_history/places/thumbs/20260422_181733.webp",
+          "filename": "20260422_181733.webp"
+        },
+        {
+          "id": "places-20260422_183313",
+          "category": "places",
+          "full": "public/photos/day12_konya_mevlana_seljuk_history/places/full/20260422_183313.webp",
+          "thumb": "public/photos/day12_konya_mevlana_seljuk_history/places/thumbs/20260422_183313.webp",
+          "filename": "20260422_183313.webp"
+        },
+        {
+          "id": "places-20260422_185957",
+          "category": "places",
+          "full": "public/photos/day12_konya_mevlana_seljuk_history/places/full/20260422_185957.webp",
+          "thumb": "public/photos/day12_konya_mevlana_seljuk_history/places/thumbs/20260422_185957.webp",
+          "filename": "20260422_185957.webp"
+        },
+        {
+          "id": "places-20260422_212013",
+          "category": "places",
+          "full": "public/photos/day12_konya_mevlana_seljuk_history/places/full/20260422_212013.webp",
+          "thumb": "public/photos/day12_konya_mevlana_seljuk_history/places/thumbs/20260422_212013.webp",
+          "filename": "20260422_212013.webp"
+        },
+        {
+          "id": "places-img-20260422-wa0011",
+          "category": "places",
+          "full": "public/photos/day12_konya_mevlana_seljuk_history/places/full/img-20260422-wa0011.webp",
+          "thumb": "public/photos/day12_konya_mevlana_seljuk_history/places/thumbs/img-20260422-wa0011.webp",
+          "filename": "img-20260422-wa0011.webp"
+        }
+      ]
+    },
+    "animals": {
+      "count": 3,
+      "photos": [
+        {
+          "id": "animals-20260422_143452",
+          "category": "animals",
+          "full": "public/photos/day12_konya_mevlana_seljuk_history/animals/full/20260422_143452.webp",
+          "thumb": "public/photos/day12_konya_mevlana_seljuk_history/animals/thumbs/20260422_143452.webp",
+          "filename": "20260422_143452.webp"
+        },
+        {
+          "id": "animals-20260422_184633",
+          "category": "animals",
+          "full": "public/photos/day12_konya_mevlana_seljuk_history/animals/full/20260422_184633.webp",
+          "thumb": "public/photos/day12_konya_mevlana_seljuk_history/animals/thumbs/20260422_184633.webp",
+          "filename": "20260422_184633.webp"
+        },
+        {
+          "id": "animals-20260422_192319",
+          "category": "animals",
+          "full": "public/photos/day12_konya_mevlana_seljuk_history/animals/full/20260422_192319.webp",
+          "thumb": "public/photos/day12_konya_mevlana_seljuk_history/animals/thumbs/20260422_192319.webp",
+          "filename": "20260422_192319.webp"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,483 @@
+{
+  "slug": "day14_cappadocia_valleys_local_dinner",
+  "totalCount": 66,
+  "categories": {
+    "people": {
+      "count": 24,
+      "photos": [
+        {
+          "id": "people-20260424_082223",
+          "category": "people",
+          "full": "public/photos/day14_cappadocia_valleys_local_dinner/people/full/20260424_082223.webp",
+          "thumb": "public/photos/day14_cappadocia_valleys_local_dinner/people/thumbs/20260424_082223.webp",
+          "filename": "20260424_082223.webp"
+        },
+        {
+          "id": "people-img-20260424-wa0021",
+          "category": "people",
+          "full": "public/photos/day14_cappadocia_valleys_local_dinner/people/full/img-20260424-wa0021.webp",
+          "thumb": "public/photos/day14_cappadocia_valleys_local_dinner/people/thumbs/img-20260424-wa0021.webp",
+          "filename": "img-20260424-wa0021.webp"
+        },
+        {
+          "id": "people-img-20260424-wa0027",
+          "category": "people",
+          "full": "public/photos/day14_cappadocia_valleys_local_dinner/people/full/img-20260424-wa0027.webp",
+          "thumb": "public/photos/day14_cappadocia_valleys_local_dinner/people/thumbs/img-20260424-wa0027.webp",
+          "filename": "img-20260424-wa0027.webp"
+        },
+        {
+          "id": "people-img-20260424-wa0036",
+          "category": "people",
+          "full": "public/photos/day14_cappadocia_valleys_local_dinner/people/full/img-20260424-wa0036.webp",
+          "thumb": "public/photos/day14_cappadocia_valleys_local_dinner/people/thumbs/img-20260424-wa0036.webp",
+          "filename": "img-20260424-wa0036.webp"
+        },
+        {
+          "id": "people-img-20260424-wa0038",
+          "category": "people",
+          "full": "public/photos/day14_cappadocia_valleys_local_dinner/people/full/img-20260424-wa0038.webp",
+          "thumb": "public/photos/day14_cappadocia_valleys_local_dinner/people/thumbs/img-20260424-wa0038.webp",
+          "filename": "img-20260424-wa0038.webp"
+        },
+        {
+          "id": "people-img-20260424-wa0049",
+          "category": "people",
+          "full": "public/photos/day14_cappadocia_valleys_local_dinner/people/full/img-20260424-wa0049.webp",
+          "thumb": "public/photos/day14_cappadocia_valleys_local_dinner/people/thumbs/img-20260424-wa0049.webp",
+          "filename": "img-20260424-wa0049.webp"
+        },
+        {
+          "id": "people-img-20260424-wa0063_-_kopie",
+          "category": "people",
+          "full": "public/photos/day14_cappadocia_valleys_local_dinner/people/full/img-20260424-wa0063_-_kopie.webp",
+          "thumb": "public/photos/day14_cappadocia_valleys_local_dinner/people/thumbs/img-20260424-wa0063_-_kopie.webp",
+          "filename": "img-20260424-wa0063_-_kopie.webp"
+        },
+        {
+          "id": "people-img-20260424-wa0063",
+          "category": "people",
+          "full": "public/photos/day14_cappadocia_valleys_local_dinner/people/full/img-20260424-wa0063.webp",
+          "thumb": "public/photos/day14_cappadocia_valleys_local_dinner/people/thumbs/img-20260424-wa0063.webp",
+          "filename": "img-20260424-wa0063.webp"
+        },
+        {
+          "id": "people-img-20260424-wa0070",
+          "category": "people",
+          "full": "public/photos/day14_cappadocia_valleys_local_dinner/people/full/img-20260424-wa0070.webp",
+          "thumb": "public/photos/day14_cappadocia_valleys_local_dinner/people/thumbs/img-20260424-wa0070.webp",
+          "filename": "img-20260424-wa0070.webp"
+        },
+        {
+          "id": "people-img-20260502-wa0066",
+          "category": "people",
+          "full": "public/photos/day14_cappadocia_valleys_local_dinner/people/full/img-20260502-wa0066.webp",
+          "thumb": "public/photos/day14_cappadocia_valleys_local_dinner/people/thumbs/img-20260502-wa0066.webp",
+          "filename": "img-20260502-wa0066.webp"
+        },
+        {
+          "id": "people-img-20260502-wa0092",
+          "category": "people",
+          "full": "public/photos/day14_cappadocia_valleys_local_dinner/people/full/img-20260502-wa0092.webp",
+          "thumb": "public/photos/day14_cappadocia_valleys_local_dinner/people/thumbs/img-20260502-wa0092.webp",
+          "filename": "img-20260502-wa0092.webp"
+        },
+        {
+          "id": "people-img-20260502-wa0098",
+          "category": "people",
+          "full": "public/photos/day14_cappadocia_valleys_local_dinner/people/full/img-20260502-wa0098.webp",
+          "thumb": "public/photos/day14_cappadocia_valleys_local_dinner/people/thumbs/img-20260502-wa0098.webp",
+          "filename": "img-20260502-wa0098.webp"
+        },
+        {
+          "id": "people-img-20260502-wa0109",
+          "category": "people",
+          "full": "public/photos/day14_cappadocia_valleys_local_dinner/people/full/img-20260502-wa0109.webp",
+          "thumb": "public/photos/day14_cappadocia_valleys_local_dinner/people/thumbs/img-20260502-wa0109.webp",
+          "filename": "img-20260502-wa0109.webp"
+        },
+        {
+          "id": "people-img-20260502-wa0117",
+          "category": "people",
+          "full": "public/photos/day14_cappadocia_valleys_local_dinner/people/full/img-20260502-wa0117.webp",
+          "thumb": "public/photos/day14_cappadocia_valleys_local_dinner/people/thumbs/img-20260502-wa0117.webp",
+          "filename": "img-20260502-wa0117.webp"
+        },
+        {
+          "id": "people-img-20260502-wa0120",
+          "category": "people",
+          "full": "public/photos/day14_cappadocia_valleys_local_dinner/people/full/img-20260502-wa0120.webp",
+          "thumb": "public/photos/day14_cappadocia_valleys_local_dinner/people/thumbs/img-20260502-wa0120.webp",
+          "filename": "img-20260502-wa0120.webp"
+        },
+        {
+          "id": "people-img-20260502-wa0122",
+          "category": "people",
+          "full": "public/photos/day14_cappadocia_valleys_local_dinner/people/full/img-20260502-wa0122.webp",
+          "thumb": "public/photos/day14_cappadocia_valleys_local_dinner/people/thumbs/img-20260502-wa0122.webp",
+          "filename": "img-20260502-wa0122.webp"
+        },
+        {
+          "id": "people-img-20260502-wa0131",
+          "category": "people",
+          "full": "public/photos/day14_cappadocia_valleys_local_dinner/people/full/img-20260502-wa0131.webp",
+          "thumb": "public/photos/day14_cappadocia_valleys_local_dinner/people/thumbs/img-20260502-wa0131.webp",
+          "filename": "img-20260502-wa0131.webp"
+        },
+        {
+          "id": "people-img-20260502-wa0133",
+          "category": "people",
+          "full": "public/photos/day14_cappadocia_valleys_local_dinner/people/full/img-20260502-wa0133.webp",
+          "thumb": "public/photos/day14_cappadocia_valleys_local_dinner/people/thumbs/img-20260502-wa0133.webp",
+          "filename": "img-20260502-wa0133.webp"
+        },
+        {
+          "id": "people-img-20260502-wa0147_-_kopie",
+          "category": "people",
+          "full": "public/photos/day14_cappadocia_valleys_local_dinner/people/full/img-20260502-wa0147_-_kopie.webp",
+          "thumb": "public/photos/day14_cappadocia_valleys_local_dinner/people/thumbs/img-20260502-wa0147_-_kopie.webp",
+          "filename": "img-20260502-wa0147_-_kopie.webp"
+        },
+        {
+          "id": "people-whatsapp_image_2026-05-11_at_12.07.09_(1)",
+          "category": "people",
+          "full": "public/photos/day14_cappadocia_valleys_local_dinner/people/full/whatsapp_image_2026-05-11_at_12.07.09_(1).webp",
+          "thumb": "public/photos/day14_cappadocia_valleys_local_dinner/people/thumbs/whatsapp_image_2026-05-11_at_12.07.09_(1).webp",
+          "filename": "whatsapp_image_2026-05-11_at_12.07.09_(1).webp"
+        },
+        {
+          "id": "people-whatsapp_image_2026-05-11_at_12.07.10",
+          "category": "people",
+          "full": "public/photos/day14_cappadocia_valleys_local_dinner/people/full/whatsapp_image_2026-05-11_at_12.07.10.webp",
+          "thumb": "public/photos/day14_cappadocia_valleys_local_dinner/people/thumbs/whatsapp_image_2026-05-11_at_12.07.10.webp",
+          "filename": "whatsapp_image_2026-05-11_at_12.07.10.webp"
+        },
+        {
+          "id": "people-whatsapp_image_2026-05-11_at_12.07.11_(3)",
+          "category": "people",
+          "full": "public/photos/day14_cappadocia_valleys_local_dinner/people/full/whatsapp_image_2026-05-11_at_12.07.11_(3).webp",
+          "thumb": "public/photos/day14_cappadocia_valleys_local_dinner/people/thumbs/whatsapp_image_2026-05-11_at_12.07.11_(3).webp",
+          "filename": "whatsapp_image_2026-05-11_at_12.07.11_(3).webp"
+        },
+        {
+          "id": "people-whatsapp_image_2026-05-11_at_12.07.11_(4)",
+          "category": "people",
+          "full": "public/photos/day14_cappadocia_valleys_local_dinner/people/full/whatsapp_image_2026-05-11_at_12.07.11_(4).webp",
+          "thumb": "public/photos/day14_cappadocia_valleys_local_dinner/people/thumbs/whatsapp_image_2026-05-11_at_12.07.11_(4).webp",
+          "filename": "whatsapp_image_2026-05-11_at_12.07.11_(4).webp"
+        },
+        {
+          "id": "people-whatsapp_image_2026-05-11_at_12.07.11_(5)",
+          "category": "people",
+          "full": "public/photos/day14_cappadocia_valleys_local_dinner/people/full/whatsapp_image_2026-05-11_at_12.07.11_(5).webp",
+          "thumb": "public/photos/day14_cappadocia_valleys_local_dinner/people/thumbs/whatsapp_image_2026-05-11_at_12.07.11_(5).webp",
+          "filename": "whatsapp_image_2026-05-11_at_12.07.11_(5).webp"
+        }
+      ]
+    },
+    "places": {
+      "count": 30,
+      "photos": [
+        {
+          "id": "places-20260424_080427",
+          "category": "places",
+          "full": "public/photos/day14_cappadocia_valleys_local_dinner/places/full/20260424_080427.webp",
+          "thumb": "public/photos/day14_cappadocia_valleys_local_dinner/places/thumbs/20260424_080427.webp",
+          "filename": "20260424_080427.webp"
+        },
+        {
+          "id": "places-20260424_080710",
+          "category": "places",
+          "full": "public/photos/day14_cappadocia_valleys_local_dinner/places/full/20260424_080710.webp",
+          "thumb": "public/photos/day14_cappadocia_valleys_local_dinner/places/thumbs/20260424_080710.webp",
+          "filename": "20260424_080710.webp"
+        },
+        {
+          "id": "places-20260424_081800",
+          "category": "places",
+          "full": "public/photos/day14_cappadocia_valleys_local_dinner/places/full/20260424_081800.webp",
+          "thumb": "public/photos/day14_cappadocia_valleys_local_dinner/places/thumbs/20260424_081800.webp",
+          "filename": "20260424_081800.webp"
+        },
+        {
+          "id": "places-20260424_082400(0)",
+          "category": "places",
+          "full": "public/photos/day14_cappadocia_valleys_local_dinner/places/full/20260424_082400(0).webp",
+          "thumb": "public/photos/day14_cappadocia_valleys_local_dinner/places/thumbs/20260424_082400(0).webp",
+          "filename": "20260424_082400(0).webp"
+        },
+        {
+          "id": "places-20260424_093051",
+          "category": "places",
+          "full": "public/photos/day14_cappadocia_valleys_local_dinner/places/full/20260424_093051.webp",
+          "thumb": "public/photos/day14_cappadocia_valleys_local_dinner/places/thumbs/20260424_093051.webp",
+          "filename": "20260424_093051.webp"
+        },
+        {
+          "id": "places-20260424_093153",
+          "category": "places",
+          "full": "public/photos/day14_cappadocia_valleys_local_dinner/places/full/20260424_093153.webp",
+          "thumb": "public/photos/day14_cappadocia_valleys_local_dinner/places/thumbs/20260424_093153.webp",
+          "filename": "20260424_093153.webp"
+        },
+        {
+          "id": "places-20260424_104957",
+          "category": "places",
+          "full": "public/photos/day14_cappadocia_valleys_local_dinner/places/full/20260424_104957.webp",
+          "thumb": "public/photos/day14_cappadocia_valleys_local_dinner/places/thumbs/20260424_104957.webp",
+          "filename": "20260424_104957.webp"
+        },
+        {
+          "id": "places-20260424_105528",
+          "category": "places",
+          "full": "public/photos/day14_cappadocia_valleys_local_dinner/places/full/20260424_105528.webp",
+          "thumb": "public/photos/day14_cappadocia_valleys_local_dinner/places/thumbs/20260424_105528.webp",
+          "filename": "20260424_105528.webp"
+        },
+        {
+          "id": "places-20260424_110416",
+          "category": "places",
+          "full": "public/photos/day14_cappadocia_valleys_local_dinner/places/full/20260424_110416.webp",
+          "thumb": "public/photos/day14_cappadocia_valleys_local_dinner/places/thumbs/20260424_110416.webp",
+          "filename": "20260424_110416.webp"
+        },
+        {
+          "id": "places-20260424_112850",
+          "category": "places",
+          "full": "public/photos/day14_cappadocia_valleys_local_dinner/places/full/20260424_112850.webp",
+          "thumb": "public/photos/day14_cappadocia_valleys_local_dinner/places/thumbs/20260424_112850.webp",
+          "filename": "20260424_112850.webp"
+        },
+        {
+          "id": "places-20260424_114059",
+          "category": "places",
+          "full": "public/photos/day14_cappadocia_valleys_local_dinner/places/full/20260424_114059.webp",
+          "thumb": "public/photos/day14_cappadocia_valleys_local_dinner/places/thumbs/20260424_114059.webp",
+          "filename": "20260424_114059.webp"
+        },
+        {
+          "id": "places-20260424_115959",
+          "category": "places",
+          "full": "public/photos/day14_cappadocia_valleys_local_dinner/places/full/20260424_115959.webp",
+          "thumb": "public/photos/day14_cappadocia_valleys_local_dinner/places/thumbs/20260424_115959.webp",
+          "filename": "20260424_115959.webp"
+        },
+        {
+          "id": "places-20260424_120512",
+          "category": "places",
+          "full": "public/photos/day14_cappadocia_valleys_local_dinner/places/full/20260424_120512.webp",
+          "thumb": "public/photos/day14_cappadocia_valleys_local_dinner/places/thumbs/20260424_120512.webp",
+          "filename": "20260424_120512.webp"
+        },
+        {
+          "id": "places-20260424_122147",
+          "category": "places",
+          "full": "public/photos/day14_cappadocia_valleys_local_dinner/places/full/20260424_122147.webp",
+          "thumb": "public/photos/day14_cappadocia_valleys_local_dinner/places/thumbs/20260424_122147.webp",
+          "filename": "20260424_122147.webp"
+        },
+        {
+          "id": "places-20260424_135207",
+          "category": "places",
+          "full": "public/photos/day14_cappadocia_valleys_local_dinner/places/full/20260424_135207.webp",
+          "thumb": "public/photos/day14_cappadocia_valleys_local_dinner/places/thumbs/20260424_135207.webp",
+          "filename": "20260424_135207.webp"
+        },
+        {
+          "id": "places-20260424_140657",
+          "category": "places",
+          "full": "public/photos/day14_cappadocia_valleys_local_dinner/places/full/20260424_140657.webp",
+          "thumb": "public/photos/day14_cappadocia_valleys_local_dinner/places/thumbs/20260424_140657.webp",
+          "filename": "20260424_140657.webp"
+        },
+        {
+          "id": "places-20260424_140704",
+          "category": "places",
+          "full": "public/photos/day14_cappadocia_valleys_local_dinner/places/full/20260424_140704.webp",
+          "thumb": "public/photos/day14_cappadocia_valleys_local_dinner/places/thumbs/20260424_140704.webp",
+          "filename": "20260424_140704.webp"
+        },
+        {
+          "id": "places-20260424_152709",
+          "category": "places",
+          "full": "public/photos/day14_cappadocia_valleys_local_dinner/places/full/20260424_152709.webp",
+          "thumb": "public/photos/day14_cappadocia_valleys_local_dinner/places/thumbs/20260424_152709.webp",
+          "filename": "20260424_152709.webp"
+        },
+        {
+          "id": "places-20260424_152834",
+          "category": "places",
+          "full": "public/photos/day14_cappadocia_valleys_local_dinner/places/full/20260424_152834.webp",
+          "thumb": "public/photos/day14_cappadocia_valleys_local_dinner/places/thumbs/20260424_152834.webp",
+          "filename": "20260424_152834.webp"
+        },
+        {
+          "id": "places-20260424_153455",
+          "category": "places",
+          "full": "public/photos/day14_cappadocia_valleys_local_dinner/places/full/20260424_153455.webp",
+          "thumb": "public/photos/day14_cappadocia_valleys_local_dinner/places/thumbs/20260424_153455.webp",
+          "filename": "20260424_153455.webp"
+        },
+        {
+          "id": "places-20260424_153505",
+          "category": "places",
+          "full": "public/photos/day14_cappadocia_valleys_local_dinner/places/full/20260424_153505.webp",
+          "thumb": "public/photos/day14_cappadocia_valleys_local_dinner/places/thumbs/20260424_153505.webp",
+          "filename": "20260424_153505.webp"
+        },
+        {
+          "id": "places-20260424_160822",
+          "category": "places",
+          "full": "public/photos/day14_cappadocia_valleys_local_dinner/places/full/20260424_160822.webp",
+          "thumb": "public/photos/day14_cappadocia_valleys_local_dinner/places/thumbs/20260424_160822.webp",
+          "filename": "20260424_160822.webp"
+        },
+        {
+          "id": "places-20260424_161111",
+          "category": "places",
+          "full": "public/photos/day14_cappadocia_valleys_local_dinner/places/full/20260424_161111.webp",
+          "thumb": "public/photos/day14_cappadocia_valleys_local_dinner/places/thumbs/20260424_161111.webp",
+          "filename": "20260424_161111.webp"
+        },
+        {
+          "id": "places-20260424_161303",
+          "category": "places",
+          "full": "public/photos/day14_cappadocia_valleys_local_dinner/places/full/20260424_161303.webp",
+          "thumb": "public/photos/day14_cappadocia_valleys_local_dinner/places/thumbs/20260424_161303.webp",
+          "filename": "20260424_161303.webp"
+        },
+        {
+          "id": "places-20260424_171741",
+          "category": "places",
+          "full": "public/photos/day14_cappadocia_valleys_local_dinner/places/full/20260424_171741.webp",
+          "thumb": "public/photos/day14_cappadocia_valleys_local_dinner/places/thumbs/20260424_171741.webp",
+          "filename": "20260424_171741.webp"
+        },
+        {
+          "id": "places-20260424_173016",
+          "category": "places",
+          "full": "public/photos/day14_cappadocia_valleys_local_dinner/places/full/20260424_173016.webp",
+          "thumb": "public/photos/day14_cappadocia_valleys_local_dinner/places/thumbs/20260424_173016.webp",
+          "filename": "20260424_173016.webp"
+        },
+        {
+          "id": "places-20260424_190724",
+          "category": "places",
+          "full": "public/photos/day14_cappadocia_valleys_local_dinner/places/full/20260424_190724.webp",
+          "thumb": "public/photos/day14_cappadocia_valleys_local_dinner/places/thumbs/20260424_190724.webp",
+          "filename": "20260424_190724.webp"
+        },
+        {
+          "id": "places-20260424_192519",
+          "category": "places",
+          "full": "public/photos/day14_cappadocia_valleys_local_dinner/places/full/20260424_192519.webp",
+          "thumb": "public/photos/day14_cappadocia_valleys_local_dinner/places/thumbs/20260424_192519.webp",
+          "filename": "20260424_192519.webp"
+        },
+        {
+          "id": "places-20260424_203523",
+          "category": "places",
+          "full": "public/photos/day14_cappadocia_valleys_local_dinner/places/full/20260424_203523.webp",
+          "thumb": "public/photos/day14_cappadocia_valleys_local_dinner/places/thumbs/20260424_203523.webp",
+          "filename": "20260424_203523.webp"
+        },
+        {
+          "id": "places-img-20260502-wa0099",
+          "category": "places",
+          "full": "public/photos/day14_cappadocia_valleys_local_dinner/places/full/img-20260502-wa0099.webp",
+          "thumb": "public/photos/day14_cappadocia_valleys_local_dinner/places/thumbs/img-20260502-wa0099.webp",
+          "filename": "img-20260502-wa0099.webp"
+        }
+      ]
+    },
+    "animals": {
+      "count": 12,
+      "photos": [
+        {
+          "id": "animals-20260424_111446",
+          "category": "animals",
+          "full": "public/photos/day14_cappadocia_valleys_local_dinner/animals/full/20260424_111446.webp",
+          "thumb": "public/photos/day14_cappadocia_valleys_local_dinner/animals/thumbs/20260424_111446.webp",
+          "filename": "20260424_111446.webp"
+        },
+        {
+          "id": "animals-20260424_111552",
+          "category": "animals",
+          "full": "public/photos/day14_cappadocia_valleys_local_dinner/animals/full/20260424_111552.webp",
+          "thumb": "public/photos/day14_cappadocia_valleys_local_dinner/animals/thumbs/20260424_111552.webp",
+          "filename": "20260424_111552.webp"
+        },
+        {
+          "id": "animals-20260424_132404",
+          "category": "animals",
+          "full": "public/photos/day14_cappadocia_valleys_local_dinner/animals/full/20260424_132404.webp",
+          "thumb": "public/photos/day14_cappadocia_valleys_local_dinner/animals/thumbs/20260424_132404.webp",
+          "filename": "20260424_132404.webp"
+        },
+        {
+          "id": "animals-20260424_160410",
+          "category": "animals",
+          "full": "public/photos/day14_cappadocia_valleys_local_dinner/animals/full/20260424_160410.webp",
+          "thumb": "public/photos/day14_cappadocia_valleys_local_dinner/animals/thumbs/20260424_160410.webp",
+          "filename": "20260424_160410.webp"
+        },
+        {
+          "id": "animals-20260424_163546",
+          "category": "animals",
+          "full": "public/photos/day14_cappadocia_valleys_local_dinner/animals/full/20260424_163546.webp",
+          "thumb": "public/photos/day14_cappadocia_valleys_local_dinner/animals/thumbs/20260424_163546.webp",
+          "filename": "20260424_163546.webp"
+        },
+        {
+          "id": "animals-20260424_163624",
+          "category": "animals",
+          "full": "public/photos/day14_cappadocia_valleys_local_dinner/animals/full/20260424_163624.webp",
+          "thumb": "public/photos/day14_cappadocia_valleys_local_dinner/animals/thumbs/20260424_163624.webp",
+          "filename": "20260424_163624.webp"
+        },
+        {
+          "id": "animals-20260424_174147",
+          "category": "animals",
+          "full": "public/photos/day14_cappadocia_valleys_local_dinner/animals/full/20260424_174147.webp",
+          "thumb": "public/photos/day14_cappadocia_valleys_local_dinner/animals/thumbs/20260424_174147.webp",
+          "filename": "20260424_174147.webp"
+        },
+        {
+          "id": "animals-20260424_174220",
+          "category": "animals",
+          "full": "public/photos/day14_cappadocia_valleys_local_dinner/animals/full/20260424_174220.webp",
+          "thumb": "public/photos/day14_cappadocia_valleys_local_dinner/animals/thumbs/20260424_174220.webp",
+          "filename": "20260424_174220.webp"
+        },
+        {
+          "id": "animals-20260424_174223",
+          "category": "animals",
+          "full": "public/photos/day14_cappadocia_valleys_local_dinner/animals/full/20260424_174223.webp",
+          "thumb": "public/photos/day14_cappadocia_valleys_local_dinner/animals/thumbs/20260424_174223.webp",
+          "filename": "20260424_174223.webp"
+        },
+        {
+          "id": "animals-20260424_174234",
+          "category": "animals",
+          "full": "public/photos/day14_cappadocia_valleys_local_dinner/animals/full/20260424_174234.webp",
+          "thumb": "public/photos/day14_cappadocia_valleys_local_dinner/animals/thumbs/20260424_174234.webp",
+          "filename": "20260424_174234.webp"
+        },
+        {
+          "id": "animals-20260424_174254",
+          "category": "animals",
+          "full": "public/photos/day14_cappadocia_valleys_local_dinner/animals/full/20260424_174254.webp",
+          "thumb": "public/photos/day14_cappadocia_valleys_local_dinner/animals/thumbs/20260424_174254.webp",
+          "filename": "20260424_174254.webp"
+        },
+        {
+          "id": "animals-img-20260424-wa0048",
+          "category": "animals",
+          "full": "public/photos/day14_cappadocia_valleys_local_dinner/animals/full/img-20260424-wa0048.webp",
+          "thumb": "public/photos/day14_cappadocia_valleys_local_dinner/animals/thumbs/img-20260424-wa0048.webp",
+          "filename": "img-20260424-wa0048.webp"
+        }
+      ]
+    }
+  }
+}

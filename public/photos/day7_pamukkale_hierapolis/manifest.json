@@ -1,0 +1,252 @@
+{
+  "slug": "day7_pamukkale_hierapolis",
+  "totalCount": 33,
+  "categories": {
+    "people": {
+      "count": 13,
+      "photos": [
+        {
+          "id": "people-20260417_161932",
+          "category": "people",
+          "full": "public/photos/day7_pamukkale_hierapolis/people/full/20260417_161932.webp",
+          "thumb": "public/photos/day7_pamukkale_hierapolis/people/thumbs/20260417_161932.webp",
+          "filename": "20260417_161932.webp"
+        },
+        {
+          "id": "people-20260417_165751",
+          "category": "people",
+          "full": "public/photos/day7_pamukkale_hierapolis/people/full/20260417_165751.webp",
+          "thumb": "public/photos/day7_pamukkale_hierapolis/people/thumbs/20260417_165751.webp",
+          "filename": "20260417_165751.webp"
+        },
+        {
+          "id": "people-20260417_165932",
+          "category": "people",
+          "full": "public/photos/day7_pamukkale_hierapolis/people/full/20260417_165932.webp",
+          "thumb": "public/photos/day7_pamukkale_hierapolis/people/thumbs/20260417_165932.webp",
+          "filename": "20260417_165932.webp"
+        },
+        {
+          "id": "people-20260417_170639",
+          "category": "people",
+          "full": "public/photos/day7_pamukkale_hierapolis/people/full/20260417_170639.webp",
+          "thumb": "public/photos/day7_pamukkale_hierapolis/people/thumbs/20260417_170639.webp",
+          "filename": "20260417_170639.webp"
+        },
+        {
+          "id": "people-20260417_170701",
+          "category": "people",
+          "full": "public/photos/day7_pamukkale_hierapolis/people/full/20260417_170701.webp",
+          "thumb": "public/photos/day7_pamukkale_hierapolis/people/thumbs/20260417_170701.webp",
+          "filename": "20260417_170701.webp"
+        },
+        {
+          "id": "people-20260417_170709",
+          "category": "people",
+          "full": "public/photos/day7_pamukkale_hierapolis/people/full/20260417_170709.webp",
+          "thumb": "public/photos/day7_pamukkale_hierapolis/people/thumbs/20260417_170709.webp",
+          "filename": "20260417_170709.webp"
+        },
+        {
+          "id": "people-20260417_170730",
+          "category": "people",
+          "full": "public/photos/day7_pamukkale_hierapolis/people/full/20260417_170730.webp",
+          "thumb": "public/photos/day7_pamukkale_hierapolis/people/thumbs/20260417_170730.webp",
+          "filename": "20260417_170730.webp"
+        },
+        {
+          "id": "people-img-20260417-wa0007",
+          "category": "people",
+          "full": "public/photos/day7_pamukkale_hierapolis/people/full/img-20260417-wa0007.webp",
+          "thumb": "public/photos/day7_pamukkale_hierapolis/people/thumbs/img-20260417-wa0007.webp",
+          "filename": "img-20260417-wa0007.webp"
+        },
+        {
+          "id": "people-img-20260417-wa0009",
+          "category": "people",
+          "full": "public/photos/day7_pamukkale_hierapolis/people/full/img-20260417-wa0009.webp",
+          "thumb": "public/photos/day7_pamukkale_hierapolis/people/thumbs/img-20260417-wa0009.webp",
+          "filename": "img-20260417-wa0009.webp"
+        },
+        {
+          "id": "people-img-20260417-wa0012",
+          "category": "people",
+          "full": "public/photos/day7_pamukkale_hierapolis/people/full/img-20260417-wa0012.webp",
+          "thumb": "public/photos/day7_pamukkale_hierapolis/people/thumbs/img-20260417-wa0012.webp",
+          "filename": "img-20260417-wa0012.webp"
+        },
+        {
+          "id": "people-img-20260417-wa0015",
+          "category": "people",
+          "full": "public/photos/day7_pamukkale_hierapolis/people/full/img-20260417-wa0015.webp",
+          "thumb": "public/photos/day7_pamukkale_hierapolis/people/thumbs/img-20260417-wa0015.webp",
+          "filename": "img-20260417-wa0015.webp"
+        },
+        {
+          "id": "people-img-20260417-wa0017",
+          "category": "people",
+          "full": "public/photos/day7_pamukkale_hierapolis/people/full/img-20260417-wa0017.webp",
+          "thumb": "public/photos/day7_pamukkale_hierapolis/people/thumbs/img-20260417-wa0017.webp",
+          "filename": "img-20260417-wa0017.webp"
+        },
+        {
+          "id": "people-img-20260417-wa0018",
+          "category": "people",
+          "full": "public/photos/day7_pamukkale_hierapolis/people/full/img-20260417-wa0018.webp",
+          "thumb": "public/photos/day7_pamukkale_hierapolis/people/thumbs/img-20260417-wa0018.webp",
+          "filename": "img-20260417-wa0018.webp"
+        }
+      ]
+    },
+    "places": {
+      "count": 12,
+      "photos": [
+        {
+          "id": "places-20260417_144527",
+          "category": "places",
+          "full": "public/photos/day7_pamukkale_hierapolis/places/full/20260417_144527.webp",
+          "thumb": "public/photos/day7_pamukkale_hierapolis/places/thumbs/20260417_144527.webp",
+          "filename": "20260417_144527.webp"
+        },
+        {
+          "id": "places-20260417_144621",
+          "category": "places",
+          "full": "public/photos/day7_pamukkale_hierapolis/places/full/20260417_144621.webp",
+          "thumb": "public/photos/day7_pamukkale_hierapolis/places/thumbs/20260417_144621.webp",
+          "filename": "20260417_144621.webp"
+        },
+        {
+          "id": "places-20260417_145042",
+          "category": "places",
+          "full": "public/photos/day7_pamukkale_hierapolis/places/full/20260417_145042.webp",
+          "thumb": "public/photos/day7_pamukkale_hierapolis/places/thumbs/20260417_145042.webp",
+          "filename": "20260417_145042.webp"
+        },
+        {
+          "id": "places-20260417_152335",
+          "category": "places",
+          "full": "public/photos/day7_pamukkale_hierapolis/places/full/20260417_152335.webp",
+          "thumb": "public/photos/day7_pamukkale_hierapolis/places/thumbs/20260417_152335.webp",
+          "filename": "20260417_152335.webp"
+        },
+        {
+          "id": "places-20260417_152543",
+          "category": "places",
+          "full": "public/photos/day7_pamukkale_hierapolis/places/full/20260417_152543.webp",
+          "thumb": "public/photos/day7_pamukkale_hierapolis/places/thumbs/20260417_152543.webp",
+          "filename": "20260417_152543.webp"
+        },
+        {
+          "id": "places-20260417_153533",
+          "category": "places",
+          "full": "public/photos/day7_pamukkale_hierapolis/places/full/20260417_153533.webp",
+          "thumb": "public/photos/day7_pamukkale_hierapolis/places/thumbs/20260417_153533.webp",
+          "filename": "20260417_153533.webp"
+        },
+        {
+          "id": "places-20260417_161932",
+          "category": "places",
+          "full": "public/photos/day7_pamukkale_hierapolis/places/full/20260417_161932.webp",
+          "thumb": "public/photos/day7_pamukkale_hierapolis/places/thumbs/20260417_161932.webp",
+          "filename": "20260417_161932.webp"
+        },
+        {
+          "id": "places-20260417_165049",
+          "category": "places",
+          "full": "public/photos/day7_pamukkale_hierapolis/places/full/20260417_165049.webp",
+          "thumb": "public/photos/day7_pamukkale_hierapolis/places/thumbs/20260417_165049.webp",
+          "filename": "20260417_165049.webp"
+        },
+        {
+          "id": "places-20260417_174155",
+          "category": "places",
+          "full": "public/photos/day7_pamukkale_hierapolis/places/full/20260417_174155.webp",
+          "thumb": "public/photos/day7_pamukkale_hierapolis/places/thumbs/20260417_174155.webp",
+          "filename": "20260417_174155.webp"
+        },
+        {
+          "id": "places-20260417_174201",
+          "category": "places",
+          "full": "public/photos/day7_pamukkale_hierapolis/places/full/20260417_174201.webp",
+          "thumb": "public/photos/day7_pamukkale_hierapolis/places/thumbs/20260417_174201.webp",
+          "filename": "20260417_174201.webp"
+        },
+        {
+          "id": "places-20260417_174221",
+          "category": "places",
+          "full": "public/photos/day7_pamukkale_hierapolis/places/full/20260417_174221.webp",
+          "thumb": "public/photos/day7_pamukkale_hierapolis/places/thumbs/20260417_174221.webp",
+          "filename": "20260417_174221.webp"
+        },
+        {
+          "id": "places-20260417_200912",
+          "category": "places",
+          "full": "public/photos/day7_pamukkale_hierapolis/places/full/20260417_200912.webp",
+          "thumb": "public/photos/day7_pamukkale_hierapolis/places/thumbs/20260417_200912.webp",
+          "filename": "20260417_200912.webp"
+        }
+      ]
+    },
+    "animals": {
+      "count": 8,
+      "photos": [
+        {
+          "id": "animals-20260417_134645",
+          "category": "animals",
+          "full": "public/photos/day7_pamukkale_hierapolis/animals/full/20260417_134645.webp",
+          "thumb": "public/photos/day7_pamukkale_hierapolis/animals/thumbs/20260417_134645.webp",
+          "filename": "20260417_134645.webp"
+        },
+        {
+          "id": "animals-20260417_154857",
+          "category": "animals",
+          "full": "public/photos/day7_pamukkale_hierapolis/animals/full/20260417_154857.webp",
+          "thumb": "public/photos/day7_pamukkale_hierapolis/animals/thumbs/20260417_154857.webp",
+          "filename": "20260417_154857.webp"
+        },
+        {
+          "id": "animals-20260417_155005",
+          "category": "animals",
+          "full": "public/photos/day7_pamukkale_hierapolis/animals/full/20260417_155005.webp",
+          "thumb": "public/photos/day7_pamukkale_hierapolis/animals/thumbs/20260417_155005.webp",
+          "filename": "20260417_155005.webp"
+        },
+        {
+          "id": "animals-20260417_155112",
+          "category": "animals",
+          "full": "public/photos/day7_pamukkale_hierapolis/animals/full/20260417_155112.webp",
+          "thumb": "public/photos/day7_pamukkale_hierapolis/animals/thumbs/20260417_155112.webp",
+          "filename": "20260417_155112.webp"
+        },
+        {
+          "id": "animals-20260417_170730",
+          "category": "animals",
+          "full": "public/photos/day7_pamukkale_hierapolis/animals/full/20260417_170730.webp",
+          "thumb": "public/photos/day7_pamukkale_hierapolis/animals/thumbs/20260417_170730.webp",
+          "filename": "20260417_170730.webp"
+        },
+        {
+          "id": "animals-20260417_181912",
+          "category": "animals",
+          "full": "public/photos/day7_pamukkale_hierapolis/animals/full/20260417_181912.webp",
+          "thumb": "public/photos/day7_pamukkale_hierapolis/animals/thumbs/20260417_181912.webp",
+          "filename": "20260417_181912.webp"
+        },
+        {
+          "id": "animals-20260417_201839",
+          "category": "animals",
+          "full": "public/photos/day7_pamukkale_hierapolis/animals/full/20260417_201839.webp",
+          "thumb": "public/photos/day7_pamukkale_hierapolis/animals/thumbs/20260417_201839.webp",
+          "filename": "20260417_201839.webp"
+        },
+        {
+          "id": "animals-20260417_201842",
+          "category": "animals",
+          "full": "public/photos/day7_pamukkale_hierapolis/animals/full/20260417_201842.webp",
+          "thumb": "public/photos/day7_pamukkale_hierapolis/animals/thumbs/20260417_201842.webp",
+          "filename": "20260417_201842.webp"
+        }
+      ]
+    }
+  }
+}

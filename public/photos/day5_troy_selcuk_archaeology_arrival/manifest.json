@@ -1,0 +1,315 @@
+{
+  "slug": "day5_troy_selcuk_archaeology_arrival",
+  "totalCount": 42,
+  "categories": {
+    "people": {
+      "count": 5,
+      "photos": [
+        {
+          "id": "people-20260415_094711",
+          "category": "people",
+          "full": "public/photos/day5_troy_selcuk_archaeology_arrival/people/full/20260415_094711.webp",
+          "thumb": "public/photos/day5_troy_selcuk_archaeology_arrival/people/thumbs/20260415_094711.webp",
+          "filename": "20260415_094711.webp"
+        },
+        {
+          "id": "people-20260415_094729",
+          "category": "people",
+          "full": "public/photos/day5_troy_selcuk_archaeology_arrival/people/full/20260415_094729.webp",
+          "thumb": "public/photos/day5_troy_selcuk_archaeology_arrival/people/thumbs/20260415_094729.webp",
+          "filename": "20260415_094729.webp"
+        },
+        {
+          "id": "people-20260415_102856",
+          "category": "people",
+          "full": "public/photos/day5_troy_selcuk_archaeology_arrival/people/full/20260415_102856.webp",
+          "thumb": "public/photos/day5_troy_selcuk_archaeology_arrival/people/thumbs/20260415_102856.webp",
+          "filename": "20260415_102856.webp"
+        },
+        {
+          "id": "people-20260415_110507",
+          "category": "people",
+          "full": "public/photos/day5_troy_selcuk_archaeology_arrival/people/full/20260415_110507.webp",
+          "thumb": "public/photos/day5_troy_selcuk_archaeology_arrival/people/thumbs/20260415_110507.webp",
+          "filename": "20260415_110507.webp"
+        },
+        {
+          "id": "people-img-20260415-wa0009",
+          "category": "people",
+          "full": "public/photos/day5_troy_selcuk_archaeology_arrival/people/full/img-20260415-wa0009.webp",
+          "thumb": "public/photos/day5_troy_selcuk_archaeology_arrival/people/thumbs/img-20260415-wa0009.webp",
+          "filename": "img-20260415-wa0009.webp"
+        }
+      ]
+    },
+    "places": {
+      "count": 23,
+      "photos": [
+        {
+          "id": "places-20260415_091927",
+          "category": "places",
+          "full": "public/photos/day5_troy_selcuk_archaeology_arrival/places/full/20260415_091927.webp",
+          "thumb": "public/photos/day5_troy_selcuk_archaeology_arrival/places/thumbs/20260415_091927.webp",
+          "filename": "20260415_091927.webp"
+        },
+        {
+          "id": "places-20260415_094706",
+          "category": "places",
+          "full": "public/photos/day5_troy_selcuk_archaeology_arrival/places/full/20260415_094706.webp",
+          "thumb": "public/photos/day5_troy_selcuk_archaeology_arrival/places/thumbs/20260415_094706.webp",
+          "filename": "20260415_094706.webp"
+        },
+        {
+          "id": "places-20260415_094711",
+          "category": "places",
+          "full": "public/photos/day5_troy_selcuk_archaeology_arrival/places/full/20260415_094711.webp",
+          "thumb": "public/photos/day5_troy_selcuk_archaeology_arrival/places/thumbs/20260415_094711.webp",
+          "filename": "20260415_094711.webp"
+        },
+        {
+          "id": "places-20260415_094816",
+          "category": "places",
+          "full": "public/photos/day5_troy_selcuk_archaeology_arrival/places/full/20260415_094816.webp",
+          "thumb": "public/photos/day5_troy_selcuk_archaeology_arrival/places/thumbs/20260415_094816.webp",
+          "filename": "20260415_094816.webp"
+        },
+        {
+          "id": "places-20260415_100817",
+          "category": "places",
+          "full": "public/photos/day5_troy_selcuk_archaeology_arrival/places/full/20260415_100817.webp",
+          "thumb": "public/photos/day5_troy_selcuk_archaeology_arrival/places/thumbs/20260415_100817.webp",
+          "filename": "20260415_100817.webp"
+        },
+        {
+          "id": "places-20260415_101249",
+          "category": "places",
+          "full": "public/photos/day5_troy_selcuk_archaeology_arrival/places/full/20260415_101249.webp",
+          "thumb": "public/photos/day5_troy_selcuk_archaeology_arrival/places/thumbs/20260415_101249.webp",
+          "filename": "20260415_101249.webp"
+        },
+        {
+          "id": "places-20260415_101250",
+          "category": "places",
+          "full": "public/photos/day5_troy_selcuk_archaeology_arrival/places/full/20260415_101250.webp",
+          "thumb": "public/photos/day5_troy_selcuk_archaeology_arrival/places/thumbs/20260415_101250.webp",
+          "filename": "20260415_101250.webp"
+        },
+        {
+          "id": "places-20260415_102035",
+          "category": "places",
+          "full": "public/photos/day5_troy_selcuk_archaeology_arrival/places/full/20260415_102035.webp",
+          "thumb": "public/photos/day5_troy_selcuk_archaeology_arrival/places/thumbs/20260415_102035.webp",
+          "filename": "20260415_102035.webp"
+        },
+        {
+          "id": "places-20260415_102054",
+          "category": "places",
+          "full": "public/photos/day5_troy_selcuk_archaeology_arrival/places/full/20260415_102054.webp",
+          "thumb": "public/photos/day5_troy_selcuk_archaeology_arrival/places/thumbs/20260415_102054.webp",
+          "filename": "20260415_102054.webp"
+        },
+        {
+          "id": "places-20260415_102857",
+          "category": "places",
+          "full": "public/photos/day5_troy_selcuk_archaeology_arrival/places/full/20260415_102857.webp",
+          "thumb": "public/photos/day5_troy_selcuk_archaeology_arrival/places/thumbs/20260415_102857.webp",
+          "filename": "20260415_102857.webp"
+        },
+        {
+          "id": "places-20260415_103431",
+          "category": "places",
+          "full": "public/photos/day5_troy_selcuk_archaeology_arrival/places/full/20260415_103431.webp",
+          "thumb": "public/photos/day5_troy_selcuk_archaeology_arrival/places/thumbs/20260415_103431.webp",
+          "filename": "20260415_103431.webp"
+        },
+        {
+          "id": "places-20260415_103813",
+          "category": "places",
+          "full": "public/photos/day5_troy_selcuk_archaeology_arrival/places/full/20260415_103813.webp",
+          "thumb": "public/photos/day5_troy_selcuk_archaeology_arrival/places/thumbs/20260415_103813.webp",
+          "filename": "20260415_103813.webp"
+        },
+        {
+          "id": "places-20260415_104237",
+          "category": "places",
+          "full": "public/photos/day5_troy_selcuk_archaeology_arrival/places/full/20260415_104237.webp",
+          "thumb": "public/photos/day5_troy_selcuk_archaeology_arrival/places/thumbs/20260415_104237.webp",
+          "filename": "20260415_104237.webp"
+        },
+        {
+          "id": "places-20260415_104456",
+          "category": "places",
+          "full": "public/photos/day5_troy_selcuk_archaeology_arrival/places/full/20260415_104456.webp",
+          "thumb": "public/photos/day5_troy_selcuk_archaeology_arrival/places/thumbs/20260415_104456.webp",
+          "filename": "20260415_104456.webp"
+        },
+        {
+          "id": "places-20260415_105514",
+          "category": "places",
+          "full": "public/photos/day5_troy_selcuk_archaeology_arrival/places/full/20260415_105514.webp",
+          "thumb": "public/photos/day5_troy_selcuk_archaeology_arrival/places/thumbs/20260415_105514.webp",
+          "filename": "20260415_105514.webp"
+        },
+        {
+          "id": "places-20260415_105817",
+          "category": "places",
+          "full": "public/photos/day5_troy_selcuk_archaeology_arrival/places/full/20260415_105817.webp",
+          "thumb": "public/photos/day5_troy_selcuk_archaeology_arrival/places/thumbs/20260415_105817.webp",
+          "filename": "20260415_105817.webp"
+        },
+        {
+          "id": "places-20260415_110350",
+          "category": "places",
+          "full": "public/photos/day5_troy_selcuk_archaeology_arrival/places/full/20260415_110350.webp",
+          "thumb": "public/photos/day5_troy_selcuk_archaeology_arrival/places/thumbs/20260415_110350.webp",
+          "filename": "20260415_110350.webp"
+        },
+        {
+          "id": "places-20260415_113527",
+          "category": "places",
+          "full": "public/photos/day5_troy_selcuk_archaeology_arrival/places/full/20260415_113527.webp",
+          "thumb": "public/photos/day5_troy_selcuk_archaeology_arrival/places/thumbs/20260415_113527.webp",
+          "filename": "20260415_113527.webp"
+        },
+        {
+          "id": "places-20260415_114001",
+          "category": "places",
+          "full": "public/photos/day5_troy_selcuk_archaeology_arrival/places/full/20260415_114001.webp",
+          "thumb": "public/photos/day5_troy_selcuk_archaeology_arrival/places/thumbs/20260415_114001.webp",
+          "filename": "20260415_114001.webp"
+        },
+        {
+          "id": "places-20260415_120855",
+          "category": "places",
+          "full": "public/photos/day5_troy_selcuk_archaeology_arrival/places/full/20260415_120855.webp",
+          "thumb": "public/photos/day5_troy_selcuk_archaeology_arrival/places/thumbs/20260415_120855.webp",
+          "filename": "20260415_120855.webp"
+        },
+        {
+          "id": "places-20260415_122607",
+          "category": "places",
+          "full": "public/photos/day5_troy_selcuk_archaeology_arrival/places/full/20260415_122607.webp",
+          "thumb": "public/photos/day5_troy_selcuk_archaeology_arrival/places/thumbs/20260415_122607.webp",
+          "filename": "20260415_122607.webp"
+        },
+        {
+          "id": "places-20260415_192024",
+          "category": "places",
+          "full": "public/photos/day5_troy_selcuk_archaeology_arrival/places/full/20260415_192024.webp",
+          "thumb": "public/photos/day5_troy_selcuk_archaeology_arrival/places/thumbs/20260415_192024.webp",
+          "filename": "20260415_192024.webp"
+        },
+        {
+          "id": "places-20260415_202553",
+          "category": "places",
+          "full": "public/photos/day5_troy_selcuk_archaeology_arrival/places/full/20260415_202553.webp",
+          "thumb": "public/photos/day5_troy_selcuk_archaeology_arrival/places/thumbs/20260415_202553.webp",
+          "filename": "20260415_202553.webp"
+        }
+      ]
+    },
+    "animals": {
+      "count": 14,
+      "photos": [
+        {
+          "id": "animals-20260415_083812",
+          "category": "animals",
+          "full": "public/photos/day5_troy_selcuk_archaeology_arrival/animals/full/20260415_083812.webp",
+          "thumb": "public/photos/day5_troy_selcuk_archaeology_arrival/animals/thumbs/20260415_083812.webp",
+          "filename": "20260415_083812.webp"
+        },
+        {
+          "id": "animals-20260415_083816",
+          "category": "animals",
+          "full": "public/photos/day5_troy_selcuk_archaeology_arrival/animals/full/20260415_083816.webp",
+          "thumb": "public/photos/day5_troy_selcuk_archaeology_arrival/animals/thumbs/20260415_083816.webp",
+          "filename": "20260415_083816.webp"
+        },
+        {
+          "id": "animals-20260415_094457",
+          "category": "animals",
+          "full": "public/photos/day5_troy_selcuk_archaeology_arrival/animals/full/20260415_094457.webp",
+          "thumb": "public/photos/day5_troy_selcuk_archaeology_arrival/animals/thumbs/20260415_094457.webp",
+          "filename": "20260415_094457.webp"
+        },
+        {
+          "id": "animals-20260415_094703(0)",
+          "category": "animals",
+          "full": "public/photos/day5_troy_selcuk_archaeology_arrival/animals/full/20260415_094703(0).webp",
+          "thumb": "public/photos/day5_troy_selcuk_archaeology_arrival/animals/thumbs/20260415_094703(0).webp",
+          "filename": "20260415_094703(0).webp"
+        },
+        {
+          "id": "animals-20260415_101422",
+          "category": "animals",
+          "full": "public/photos/day5_troy_selcuk_archaeology_arrival/animals/full/20260415_101422.webp",
+          "thumb": "public/photos/day5_troy_selcuk_archaeology_arrival/animals/thumbs/20260415_101422.webp",
+          "filename": "20260415_101422.webp"
+        },
+        {
+          "id": "animals-20260415_101437",
+          "category": "animals",
+          "full": "public/photos/day5_troy_selcuk_archaeology_arrival/animals/full/20260415_101437.webp",
+          "thumb": "public/photos/day5_troy_selcuk_archaeology_arrival/animals/thumbs/20260415_101437.webp",
+          "filename": "20260415_101437.webp"
+        },
+        {
+          "id": "animals-20260415_101842",
+          "category": "animals",
+          "full": "public/photos/day5_troy_selcuk_archaeology_arrival/animals/full/20260415_101842.webp",
+          "thumb": "public/photos/day5_troy_selcuk_archaeology_arrival/animals/thumbs/20260415_101842.webp",
+          "filename": "20260415_101842.webp"
+        },
+        {
+          "id": "animals-20260415_110257",
+          "category": "animals",
+          "full": "public/photos/day5_troy_selcuk_archaeology_arrival/animals/full/20260415_110257.webp",
+          "thumb": "public/photos/day5_troy_selcuk_archaeology_arrival/animals/thumbs/20260415_110257.webp",
+          "filename": "20260415_110257.webp"
+        },
+        {
+          "id": "animals-20260415_165958",
+          "category": "animals",
+          "full": "public/photos/day5_troy_selcuk_archaeology_arrival/animals/full/20260415_165958.webp",
+          "thumb": "public/photos/day5_troy_selcuk_archaeology_arrival/animals/thumbs/20260415_165958.webp",
+          "filename": "20260415_165958.webp"
+        },
+        {
+          "id": "animals-20260415_195748",
+          "category": "animals",
+          "full": "public/photos/day5_troy_selcuk_archaeology_arrival/animals/full/20260415_195748.webp",
+          "thumb": "public/photos/day5_troy_selcuk_archaeology_arrival/animals/thumbs/20260415_195748.webp",
+          "filename": "20260415_195748.webp"
+        },
+        {
+          "id": "animals-20260415_195842",
+          "category": "animals",
+          "full": "public/photos/day5_troy_selcuk_archaeology_arrival/animals/full/20260415_195842.webp",
+          "thumb": "public/photos/day5_troy_selcuk_archaeology_arrival/animals/thumbs/20260415_195842.webp",
+          "filename": "20260415_195842.webp"
+        },
+        {
+          "id": "animals-20260415_202917",
+          "category": "animals",
+          "full": "public/photos/day5_troy_selcuk_archaeology_arrival/animals/full/20260415_202917.webp",
+          "thumb": "public/photos/day5_troy_selcuk_archaeology_arrival/animals/thumbs/20260415_202917.webp",
+          "filename": "20260415_202917.webp"
+        },
+        {
+          "id": "animals-20260415_203638",
+          "category": "animals",
+          "full": "public/photos/day5_troy_selcuk_archaeology_arrival/animals/full/20260415_203638.webp",
+          "thumb": "public/photos/day5_troy_selcuk_archaeology_arrival/animals/thumbs/20260415_203638.webp",
+          "filename": "20260415_203638.webp"
+        },
+        {
+          "id": "animals-20260415_205043",
+          "category": "animals",
+          "full": "public/photos/day5_troy_selcuk_archaeology_arrival/animals/full/20260415_205043.webp",
+          "thumb": "public/photos/day5_troy_selcuk_archaeology_arrival/animals/thumbs/20260415_205043.webp",
+          "filename": "20260415_205043.webp"
+        }
+      ]
+    }
+  }
+}

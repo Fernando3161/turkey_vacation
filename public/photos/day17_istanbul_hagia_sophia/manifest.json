@@ -1,0 +1,510 @@
+{
+  "slug": "day17_istanbul_hagia_sophia",
+  "totalCount": 70,
+  "categories": {
+    "people": {
+      "count": 0,
+      "photos": []
+    },
+    "places": {
+      "count": 55,
+      "photos": [
+        {
+          "id": "places-20260427_080903",
+          "category": "places",
+          "full": "public/photos/day17_istanbul_hagia_sophia/places/full/20260427_080903.webp",
+          "thumb": "public/photos/day17_istanbul_hagia_sophia/places/thumbs/20260427_080903.webp",
+          "filename": "20260427_080903.webp"
+        },
+        {
+          "id": "places-20260427_103720",
+          "category": "places",
+          "full": "public/photos/day17_istanbul_hagia_sophia/places/full/20260427_103720.webp",
+          "thumb": "public/photos/day17_istanbul_hagia_sophia/places/thumbs/20260427_103720.webp",
+          "filename": "20260427_103720.webp"
+        },
+        {
+          "id": "places-20260427_104225",
+          "category": "places",
+          "full": "public/photos/day17_istanbul_hagia_sophia/places/full/20260427_104225.webp",
+          "thumb": "public/photos/day17_istanbul_hagia_sophia/places/thumbs/20260427_104225.webp",
+          "filename": "20260427_104225.webp"
+        },
+        {
+          "id": "places-20260427_104227",
+          "category": "places",
+          "full": "public/photos/day17_istanbul_hagia_sophia/places/full/20260427_104227.webp",
+          "thumb": "public/photos/day17_istanbul_hagia_sophia/places/thumbs/20260427_104227.webp",
+          "filename": "20260427_104227.webp"
+        },
+        {
+          "id": "places-20260427_114123",
+          "category": "places",
+          "full": "public/photos/day17_istanbul_hagia_sophia/places/full/20260427_114123.webp",
+          "thumb": "public/photos/day17_istanbul_hagia_sophia/places/thumbs/20260427_114123.webp",
+          "filename": "20260427_114123.webp"
+        },
+        {
+          "id": "places-20260427_114449",
+          "category": "places",
+          "full": "public/photos/day17_istanbul_hagia_sophia/places/full/20260427_114449.webp",
+          "thumb": "public/photos/day17_istanbul_hagia_sophia/places/thumbs/20260427_114449.webp",
+          "filename": "20260427_114449.webp"
+        },
+        {
+          "id": "places-20260427_114605",
+          "category": "places",
+          "full": "public/photos/day17_istanbul_hagia_sophia/places/full/20260427_114605.webp",
+          "thumb": "public/photos/day17_istanbul_hagia_sophia/places/thumbs/20260427_114605.webp",
+          "filename": "20260427_114605.webp"
+        },
+        {
+          "id": "places-20260427_114808",
+          "category": "places",
+          "full": "public/photos/day17_istanbul_hagia_sophia/places/full/20260427_114808.webp",
+          "thumb": "public/photos/day17_istanbul_hagia_sophia/places/thumbs/20260427_114808.webp",
+          "filename": "20260427_114808.webp"
+        },
+        {
+          "id": "places-20260427_115007",
+          "category": "places",
+          "full": "public/photos/day17_istanbul_hagia_sophia/places/full/20260427_115007.webp",
+          "thumb": "public/photos/day17_istanbul_hagia_sophia/places/thumbs/20260427_115007.webp",
+          "filename": "20260427_115007.webp"
+        },
+        {
+          "id": "places-20260427_115304",
+          "category": "places",
+          "full": "public/photos/day17_istanbul_hagia_sophia/places/full/20260427_115304.webp",
+          "thumb": "public/photos/day17_istanbul_hagia_sophia/places/thumbs/20260427_115304.webp",
+          "filename": "20260427_115304.webp"
+        },
+        {
+          "id": "places-20260427_120319",
+          "category": "places",
+          "full": "public/photos/day17_istanbul_hagia_sophia/places/full/20260427_120319.webp",
+          "thumb": "public/photos/day17_istanbul_hagia_sophia/places/thumbs/20260427_120319.webp",
+          "filename": "20260427_120319.webp"
+        },
+        {
+          "id": "places-20260427_120351",
+          "category": "places",
+          "full": "public/photos/day17_istanbul_hagia_sophia/places/full/20260427_120351.webp",
+          "thumb": "public/photos/day17_istanbul_hagia_sophia/places/thumbs/20260427_120351.webp",
+          "filename": "20260427_120351.webp"
+        },
+        {
+          "id": "places-20260427_120639",
+          "category": "places",
+          "full": "public/photos/day17_istanbul_hagia_sophia/places/full/20260427_120639.webp",
+          "thumb": "public/photos/day17_istanbul_hagia_sophia/places/thumbs/20260427_120639.webp",
+          "filename": "20260427_120639.webp"
+        },
+        {
+          "id": "places-20260427_120831",
+          "category": "places",
+          "full": "public/photos/day17_istanbul_hagia_sophia/places/full/20260427_120831.webp",
+          "thumb": "public/photos/day17_istanbul_hagia_sophia/places/thumbs/20260427_120831.webp",
+          "filename": "20260427_120831.webp"
+        },
+        {
+          "id": "places-20260427_120850",
+          "category": "places",
+          "full": "public/photos/day17_istanbul_hagia_sophia/places/full/20260427_120850.webp",
+          "thumb": "public/photos/day17_istanbul_hagia_sophia/places/thumbs/20260427_120850.webp",
+          "filename": "20260427_120850.webp"
+        },
+        {
+          "id": "places-20260427_120908",
+          "category": "places",
+          "full": "public/photos/day17_istanbul_hagia_sophia/places/full/20260427_120908.webp",
+          "thumb": "public/photos/day17_istanbul_hagia_sophia/places/thumbs/20260427_120908.webp",
+          "filename": "20260427_120908.webp"
+        },
+        {
+          "id": "places-20260427_121910",
+          "category": "places",
+          "full": "public/photos/day17_istanbul_hagia_sophia/places/full/20260427_121910.webp",
+          "thumb": "public/photos/day17_istanbul_hagia_sophia/places/thumbs/20260427_121910.webp",
+          "filename": "20260427_121910.webp"
+        },
+        {
+          "id": "places-20260427_122804",
+          "category": "places",
+          "full": "public/photos/day17_istanbul_hagia_sophia/places/full/20260427_122804.webp",
+          "thumb": "public/photos/day17_istanbul_hagia_sophia/places/thumbs/20260427_122804.webp",
+          "filename": "20260427_122804.webp"
+        },
+        {
+          "id": "places-20260427_122811",
+          "category": "places",
+          "full": "public/photos/day17_istanbul_hagia_sophia/places/full/20260427_122811.webp",
+          "thumb": "public/photos/day17_istanbul_hagia_sophia/places/thumbs/20260427_122811.webp",
+          "filename": "20260427_122811.webp"
+        },
+        {
+          "id": "places-20260427_123210",
+          "category": "places",
+          "full": "public/photos/day17_istanbul_hagia_sophia/places/full/20260427_123210.webp",
+          "thumb": "public/photos/day17_istanbul_hagia_sophia/places/thumbs/20260427_123210.webp",
+          "filename": "20260427_123210.webp"
+        },
+        {
+          "id": "places-20260427_123433",
+          "category": "places",
+          "full": "public/photos/day17_istanbul_hagia_sophia/places/full/20260427_123433.webp",
+          "thumb": "public/photos/day17_istanbul_hagia_sophia/places/thumbs/20260427_123433.webp",
+          "filename": "20260427_123433.webp"
+        },
+        {
+          "id": "places-20260427_123442",
+          "category": "places",
+          "full": "public/photos/day17_istanbul_hagia_sophia/places/full/20260427_123442.webp",
+          "thumb": "public/photos/day17_istanbul_hagia_sophia/places/thumbs/20260427_123442.webp",
+          "filename": "20260427_123442.webp"
+        },
+        {
+          "id": "places-20260427_123450",
+          "category": "places",
+          "full": "public/photos/day17_istanbul_hagia_sophia/places/full/20260427_123450.webp",
+          "thumb": "public/photos/day17_istanbul_hagia_sophia/places/thumbs/20260427_123450.webp",
+          "filename": "20260427_123450.webp"
+        },
+        {
+          "id": "places-20260427_124040",
+          "category": "places",
+          "full": "public/photos/day17_istanbul_hagia_sophia/places/full/20260427_124040.webp",
+          "thumb": "public/photos/day17_istanbul_hagia_sophia/places/thumbs/20260427_124040.webp",
+          "filename": "20260427_124040.webp"
+        },
+        {
+          "id": "places-20260427_124119",
+          "category": "places",
+          "full": "public/photos/day17_istanbul_hagia_sophia/places/full/20260427_124119.webp",
+          "thumb": "public/photos/day17_istanbul_hagia_sophia/places/thumbs/20260427_124119.webp",
+          "filename": "20260427_124119.webp"
+        },
+        {
+          "id": "places-20260427_124126",
+          "category": "places",
+          "full": "public/photos/day17_istanbul_hagia_sophia/places/full/20260427_124126.webp",
+          "thumb": "public/photos/day17_istanbul_hagia_sophia/places/thumbs/20260427_124126.webp",
+          "filename": "20260427_124126.webp"
+        },
+        {
+          "id": "places-20260427_124606",
+          "category": "places",
+          "full": "public/photos/day17_istanbul_hagia_sophia/places/full/20260427_124606.webp",
+          "thumb": "public/photos/day17_istanbul_hagia_sophia/places/thumbs/20260427_124606.webp",
+          "filename": "20260427_124606.webp"
+        },
+        {
+          "id": "places-20260427_124646",
+          "category": "places",
+          "full": "public/photos/day17_istanbul_hagia_sophia/places/full/20260427_124646.webp",
+          "thumb": "public/photos/day17_istanbul_hagia_sophia/places/thumbs/20260427_124646.webp",
+          "filename": "20260427_124646.webp"
+        },
+        {
+          "id": "places-20260427_124706",
+          "category": "places",
+          "full": "public/photos/day17_istanbul_hagia_sophia/places/full/20260427_124706.webp",
+          "thumb": "public/photos/day17_istanbul_hagia_sophia/places/thumbs/20260427_124706.webp",
+          "filename": "20260427_124706.webp"
+        },
+        {
+          "id": "places-20260427_124718",
+          "category": "places",
+          "full": "public/photos/day17_istanbul_hagia_sophia/places/full/20260427_124718.webp",
+          "thumb": "public/photos/day17_istanbul_hagia_sophia/places/thumbs/20260427_124718.webp",
+          "filename": "20260427_124718.webp"
+        },
+        {
+          "id": "places-20260427_124728",
+          "category": "places",
+          "full": "public/photos/day17_istanbul_hagia_sophia/places/full/20260427_124728.webp",
+          "thumb": "public/photos/day17_istanbul_hagia_sophia/places/thumbs/20260427_124728.webp",
+          "filename": "20260427_124728.webp"
+        },
+        {
+          "id": "places-20260427_124810",
+          "category": "places",
+          "full": "public/photos/day17_istanbul_hagia_sophia/places/full/20260427_124810.webp",
+          "thumb": "public/photos/day17_istanbul_hagia_sophia/places/thumbs/20260427_124810.webp",
+          "filename": "20260427_124810.webp"
+        },
+        {
+          "id": "places-20260427_124825",
+          "category": "places",
+          "full": "public/photos/day17_istanbul_hagia_sophia/places/full/20260427_124825.webp",
+          "thumb": "public/photos/day17_istanbul_hagia_sophia/places/thumbs/20260427_124825.webp",
+          "filename": "20260427_124825.webp"
+        },
+        {
+          "id": "places-20260427_125605",
+          "category": "places",
+          "full": "public/photos/day17_istanbul_hagia_sophia/places/full/20260427_125605.webp",
+          "thumb": "public/photos/day17_istanbul_hagia_sophia/places/thumbs/20260427_125605.webp",
+          "filename": "20260427_125605.webp"
+        },
+        {
+          "id": "places-20260427_125620",
+          "category": "places",
+          "full": "public/photos/day17_istanbul_hagia_sophia/places/full/20260427_125620.webp",
+          "thumb": "public/photos/day17_istanbul_hagia_sophia/places/thumbs/20260427_125620.webp",
+          "filename": "20260427_125620.webp"
+        },
+        {
+          "id": "places-20260427_125643",
+          "category": "places",
+          "full": "public/photos/day17_istanbul_hagia_sophia/places/full/20260427_125643.webp",
+          "thumb": "public/photos/day17_istanbul_hagia_sophia/places/thumbs/20260427_125643.webp",
+          "filename": "20260427_125643.webp"
+        },
+        {
+          "id": "places-20260427_125820",
+          "category": "places",
+          "full": "public/photos/day17_istanbul_hagia_sophia/places/full/20260427_125820.webp",
+          "thumb": "public/photos/day17_istanbul_hagia_sophia/places/thumbs/20260427_125820.webp",
+          "filename": "20260427_125820.webp"
+        },
+        {
+          "id": "places-20260427_125844",
+          "category": "places",
+          "full": "public/photos/day17_istanbul_hagia_sophia/places/full/20260427_125844.webp",
+          "thumb": "public/photos/day17_istanbul_hagia_sophia/places/thumbs/20260427_125844.webp",
+          "filename": "20260427_125844.webp"
+        },
+        {
+          "id": "places-20260427_130354",
+          "category": "places",
+          "full": "public/photos/day17_istanbul_hagia_sophia/places/full/20260427_130354.webp",
+          "thumb": "public/photos/day17_istanbul_hagia_sophia/places/thumbs/20260427_130354.webp",
+          "filename": "20260427_130354.webp"
+        },
+        {
+          "id": "places-20260427_131001",
+          "category": "places",
+          "full": "public/photos/day17_istanbul_hagia_sophia/places/full/20260427_131001.webp",
+          "thumb": "public/photos/day17_istanbul_hagia_sophia/places/thumbs/20260427_131001.webp",
+          "filename": "20260427_131001.webp"
+        },
+        {
+          "id": "places-20260427_131259",
+          "category": "places",
+          "full": "public/photos/day17_istanbul_hagia_sophia/places/full/20260427_131259.webp",
+          "thumb": "public/photos/day17_istanbul_hagia_sophia/places/thumbs/20260427_131259.webp",
+          "filename": "20260427_131259.webp"
+        },
+        {
+          "id": "places-20260427_140157",
+          "category": "places",
+          "full": "public/photos/day17_istanbul_hagia_sophia/places/full/20260427_140157.webp",
+          "thumb": "public/photos/day17_istanbul_hagia_sophia/places/thumbs/20260427_140157.webp",
+          "filename": "20260427_140157.webp"
+        },
+        {
+          "id": "places-20260427_145757",
+          "category": "places",
+          "full": "public/photos/day17_istanbul_hagia_sophia/places/full/20260427_145757.webp",
+          "thumb": "public/photos/day17_istanbul_hagia_sophia/places/thumbs/20260427_145757.webp",
+          "filename": "20260427_145757.webp"
+        },
+        {
+          "id": "places-20260427_145836",
+          "category": "places",
+          "full": "public/photos/day17_istanbul_hagia_sophia/places/full/20260427_145836.webp",
+          "thumb": "public/photos/day17_istanbul_hagia_sophia/places/thumbs/20260427_145836.webp",
+          "filename": "20260427_145836.webp"
+        },
+        {
+          "id": "places-20260427_145927",
+          "category": "places",
+          "full": "public/photos/day17_istanbul_hagia_sophia/places/full/20260427_145927.webp",
+          "thumb": "public/photos/day17_istanbul_hagia_sophia/places/thumbs/20260427_145927.webp",
+          "filename": "20260427_145927.webp"
+        },
+        {
+          "id": "places-20260427_150803",
+          "category": "places",
+          "full": "public/photos/day17_istanbul_hagia_sophia/places/full/20260427_150803.webp",
+          "thumb": "public/photos/day17_istanbul_hagia_sophia/places/thumbs/20260427_150803.webp",
+          "filename": "20260427_150803.webp"
+        },
+        {
+          "id": "places-20260427_153845",
+          "category": "places",
+          "full": "public/photos/day17_istanbul_hagia_sophia/places/full/20260427_153845.webp",
+          "thumb": "public/photos/day17_istanbul_hagia_sophia/places/thumbs/20260427_153845.webp",
+          "filename": "20260427_153845.webp"
+        },
+        {
+          "id": "places-20260427_191330",
+          "category": "places",
+          "full": "public/photos/day17_istanbul_hagia_sophia/places/full/20260427_191330.webp",
+          "thumb": "public/photos/day17_istanbul_hagia_sophia/places/thumbs/20260427_191330.webp",
+          "filename": "20260427_191330.webp"
+        },
+        {
+          "id": "places-20260427_191651",
+          "category": "places",
+          "full": "public/photos/day17_istanbul_hagia_sophia/places/full/20260427_191651.webp",
+          "thumb": "public/photos/day17_istanbul_hagia_sophia/places/thumbs/20260427_191651.webp",
+          "filename": "20260427_191651.webp"
+        },
+        {
+          "id": "places-20260427_191718",
+          "category": "places",
+          "full": "public/photos/day17_istanbul_hagia_sophia/places/full/20260427_191718.webp",
+          "thumb": "public/photos/day17_istanbul_hagia_sophia/places/thumbs/20260427_191718.webp",
+          "filename": "20260427_191718.webp"
+        },
+        {
+          "id": "places-20260427_191723",
+          "category": "places",
+          "full": "public/photos/day17_istanbul_hagia_sophia/places/full/20260427_191723.webp",
+          "thumb": "public/photos/day17_istanbul_hagia_sophia/places/thumbs/20260427_191723.webp",
+          "filename": "20260427_191723.webp"
+        },
+        {
+          "id": "places-20260427_191724",
+          "category": "places",
+          "full": "public/photos/day17_istanbul_hagia_sophia/places/full/20260427_191724.webp",
+          "thumb": "public/photos/day17_istanbul_hagia_sophia/places/thumbs/20260427_191724.webp",
+          "filename": "20260427_191724.webp"
+        },
+        {
+          "id": "places-20260427_191749",
+          "category": "places",
+          "full": "public/photos/day17_istanbul_hagia_sophia/places/full/20260427_191749.webp",
+          "thumb": "public/photos/day17_istanbul_hagia_sophia/places/thumbs/20260427_191749.webp",
+          "filename": "20260427_191749.webp"
+        },
+        {
+          "id": "places-20260427_192847",
+          "category": "places",
+          "full": "public/photos/day17_istanbul_hagia_sophia/places/full/20260427_192847.webp",
+          "thumb": "public/photos/day17_istanbul_hagia_sophia/places/thumbs/20260427_192847.webp",
+          "filename": "20260427_192847.webp"
+        },
+        {
+          "id": "places-20260427_192943",
+          "category": "places",
+          "full": "public/photos/day17_istanbul_hagia_sophia/places/full/20260427_192943.webp",
+          "thumb": "public/photos/day17_istanbul_hagia_sophia/places/thumbs/20260427_192943.webp",
+          "filename": "20260427_192943.webp"
+        }
+      ]
+    },
+    "animals": {
+      "count": 15,
+      "photos": [
+        {
+          "id": "animals-20260427_112213",
+          "category": "animals",
+          "full": "public/photos/day17_istanbul_hagia_sophia/animals/full/20260427_112213.webp",
+          "thumb": "public/photos/day17_istanbul_hagia_sophia/animals/thumbs/20260427_112213.webp",
+          "filename": "20260427_112213.webp"
+        },
+        {
+          "id": "animals-20260427_113404",
+          "category": "animals",
+          "full": "public/photos/day17_istanbul_hagia_sophia/animals/full/20260427_113404.webp",
+          "thumb": "public/photos/day17_istanbul_hagia_sophia/animals/thumbs/20260427_113404.webp",
+          "filename": "20260427_113404.webp"
+        },
+        {
+          "id": "animals-20260427_134508",
+          "category": "animals",
+          "full": "public/photos/day17_istanbul_hagia_sophia/animals/full/20260427_134508.webp",
+          "thumb": "public/photos/day17_istanbul_hagia_sophia/animals/thumbs/20260427_134508.webp",
+          "filename": "20260427_134508.webp"
+        },
+        {
+          "id": "animals-20260427_135813",
+          "category": "animals",
+          "full": "public/photos/day17_istanbul_hagia_sophia/animals/full/20260427_135813.webp",
+          "thumb": "public/photos/day17_istanbul_hagia_sophia/animals/thumbs/20260427_135813.webp",
+          "filename": "20260427_135813.webp"
+        },
+        {
+          "id": "animals-20260427_135833",
+          "category": "animals",
+          "full": "public/photos/day17_istanbul_hagia_sophia/animals/full/20260427_135833.webp",
+          "thumb": "public/photos/day17_istanbul_hagia_sophia/animals/thumbs/20260427_135833.webp",
+          "filename": "20260427_135833.webp"
+        },
+        {
+          "id": "animals-20260427_135845",
+          "category": "animals",
+          "full": "public/photos/day17_istanbul_hagia_sophia/animals/full/20260427_135845.webp",
+          "thumb": "public/photos/day17_istanbul_hagia_sophia/animals/thumbs/20260427_135845.webp",
+          "filename": "20260427_135845.webp"
+        },
+        {
+          "id": "animals-20260427_154559",
+          "category": "animals",
+          "full": "public/photos/day17_istanbul_hagia_sophia/animals/full/20260427_154559.webp",
+          "thumb": "public/photos/day17_istanbul_hagia_sophia/animals/thumbs/20260427_154559.webp",
+          "filename": "20260427_154559.webp"
+        },
+        {
+          "id": "animals-20260427_154608",
+          "category": "animals",
+          "full": "public/photos/day17_istanbul_hagia_sophia/animals/full/20260427_154608.webp",
+          "thumb": "public/photos/day17_istanbul_hagia_sophia/animals/thumbs/20260427_154608.webp",
+          "filename": "20260427_154608.webp"
+        },
+        {
+          "id": "animals-20260427_154611",
+          "category": "animals",
+          "full": "public/photos/day17_istanbul_hagia_sophia/animals/full/20260427_154611.webp",
+          "thumb": "public/photos/day17_istanbul_hagia_sophia/animals/thumbs/20260427_154611.webp",
+          "filename": "20260427_154611.webp"
+        },
+        {
+          "id": "animals-20260427_172200",
+          "category": "animals",
+          "full": "public/photos/day17_istanbul_hagia_sophia/animals/full/20260427_172200.webp",
+          "thumb": "public/photos/day17_istanbul_hagia_sophia/animals/thumbs/20260427_172200.webp",
+          "filename": "20260427_172200.webp"
+        },
+        {
+          "id": "animals-20260427_182452",
+          "category": "animals",
+          "full": "public/photos/day17_istanbul_hagia_sophia/animals/full/20260427_182452.webp",
+          "thumb": "public/photos/day17_istanbul_hagia_sophia/animals/thumbs/20260427_182452.webp",
+          "filename": "20260427_182452.webp"
+        },
+        {
+          "id": "animals-20260427_182506",
+          "category": "animals",
+          "full": "public/photos/day17_istanbul_hagia_sophia/animals/full/20260427_182506.webp",
+          "thumb": "public/photos/day17_istanbul_hagia_sophia/animals/thumbs/20260427_182506.webp",
+          "filename": "20260427_182506.webp"
+        },
+        {
+          "id": "animals-20260427_190237",
+          "category": "animals",
+          "full": "public/photos/day17_istanbul_hagia_sophia/animals/full/20260427_190237.webp",
+          "thumb": "public/photos/day17_istanbul_hagia_sophia/animals/thumbs/20260427_190237.webp",
+          "filename": "20260427_190237.webp"
+        },
+        {
+          "id": "animals-20260427_190744",
+          "category": "animals",
+          "full": "public/photos/day17_istanbul_hagia_sophia/animals/full/20260427_190744.webp",
+          "thumb": "public/photos/day17_istanbul_hagia_sophia/animals/thumbs/20260427_190744.webp",
+          "filename": "20260427_190744.webp"
+        },
+        {
+          "id": "animals-20260427_215839",
+          "category": "animals",
+          "full": "public/photos/day17_istanbul_hagia_sophia/animals/full/20260427_215839.webp",
+          "thumb": "public/photos/day17_istanbul_hagia_sophia/animals/thumbs/20260427_215839.webp",
+          "filename": "20260427_215839.webp"
+        }
+      ]
+    }
+  }
+}

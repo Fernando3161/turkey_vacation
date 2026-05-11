@@ -1,0 +1,455 @@
+{
+  "slug": "day6_selcuk_ephesus",
+  "totalCount": 62,
+  "categories": {
+    "people": {
+      "count": 8,
+      "photos": [
+        {
+          "id": "people-20260416_094031",
+          "category": "people",
+          "full": "public/photos/day6_selcuk_ephesus/people/full/20260416_094031.webp",
+          "thumb": "public/photos/day6_selcuk_ephesus/people/thumbs/20260416_094031.webp",
+          "filename": "20260416_094031.webp"
+        },
+        {
+          "id": "people-20260416_102438",
+          "category": "people",
+          "full": "public/photos/day6_selcuk_ephesus/people/full/20260416_102438.webp",
+          "thumb": "public/photos/day6_selcuk_ephesus/people/thumbs/20260416_102438.webp",
+          "filename": "20260416_102438.webp"
+        },
+        {
+          "id": "people-20260416_152154",
+          "category": "people",
+          "full": "public/photos/day6_selcuk_ephesus/people/full/20260416_152154.webp",
+          "thumb": "public/photos/day6_selcuk_ephesus/people/thumbs/20260416_152154.webp",
+          "filename": "20260416_152154.webp"
+        },
+        {
+          "id": "people-img-20260416-wa0030",
+          "category": "people",
+          "full": "public/photos/day6_selcuk_ephesus/people/full/img-20260416-wa0030.webp",
+          "thumb": "public/photos/day6_selcuk_ephesus/people/thumbs/img-20260416-wa0030.webp",
+          "filename": "img-20260416-wa0030.webp"
+        },
+        {
+          "id": "people-img-20260416-wa0031",
+          "category": "people",
+          "full": "public/photos/day6_selcuk_ephesus/people/full/img-20260416-wa0031.webp",
+          "thumb": "public/photos/day6_selcuk_ephesus/people/thumbs/img-20260416-wa0031.webp",
+          "filename": "img-20260416-wa0031.webp"
+        },
+        {
+          "id": "people-img-20260416-wa0049",
+          "category": "people",
+          "full": "public/photos/day6_selcuk_ephesus/people/full/img-20260416-wa0049.webp",
+          "thumb": "public/photos/day6_selcuk_ephesus/people/thumbs/img-20260416-wa0049.webp",
+          "filename": "img-20260416-wa0049.webp"
+        },
+        {
+          "id": "people-img-20260416-wa0083",
+          "category": "people",
+          "full": "public/photos/day6_selcuk_ephesus/people/full/img-20260416-wa0083.webp",
+          "thumb": "public/photos/day6_selcuk_ephesus/people/thumbs/img-20260416-wa0083.webp",
+          "filename": "img-20260416-wa0083.webp"
+        },
+        {
+          "id": "people-whatsapp_image_2026-05-11_at_11.03.20",
+          "category": "people",
+          "full": "public/photos/day6_selcuk_ephesus/people/full/whatsapp_image_2026-05-11_at_11.03.20.webp",
+          "thumb": "public/photos/day6_selcuk_ephesus/people/thumbs/whatsapp_image_2026-05-11_at_11.03.20.webp",
+          "filename": "whatsapp_image_2026-05-11_at_11.03.20.webp"
+        }
+      ]
+    },
+    "places": {
+      "count": 25,
+      "photos": [
+        {
+          "id": "places-20260416_093440",
+          "category": "places",
+          "full": "public/photos/day6_selcuk_ephesus/places/full/20260416_093440.webp",
+          "thumb": "public/photos/day6_selcuk_ephesus/places/thumbs/20260416_093440.webp",
+          "filename": "20260416_093440.webp"
+        },
+        {
+          "id": "places-20260416_093521",
+          "category": "places",
+          "full": "public/photos/day6_selcuk_ephesus/places/full/20260416_093521.webp",
+          "thumb": "public/photos/day6_selcuk_ephesus/places/thumbs/20260416_093521.webp",
+          "filename": "20260416_093521.webp"
+        },
+        {
+          "id": "places-20260416_093902",
+          "category": "places",
+          "full": "public/photos/day6_selcuk_ephesus/places/full/20260416_093902.webp",
+          "thumb": "public/photos/day6_selcuk_ephesus/places/thumbs/20260416_093902.webp",
+          "filename": "20260416_093902.webp"
+        },
+        {
+          "id": "places-20260416_094907",
+          "category": "places",
+          "full": "public/photos/day6_selcuk_ephesus/places/full/20260416_094907.webp",
+          "thumb": "public/photos/day6_selcuk_ephesus/places/thumbs/20260416_094907.webp",
+          "filename": "20260416_094907.webp"
+        },
+        {
+          "id": "places-20260416_094913",
+          "category": "places",
+          "full": "public/photos/day6_selcuk_ephesus/places/full/20260416_094913.webp",
+          "thumb": "public/photos/day6_selcuk_ephesus/places/thumbs/20260416_094913.webp",
+          "filename": "20260416_094913.webp"
+        },
+        {
+          "id": "places-20260416_094950",
+          "category": "places",
+          "full": "public/photos/day6_selcuk_ephesus/places/full/20260416_094950.webp",
+          "thumb": "public/photos/day6_selcuk_ephesus/places/thumbs/20260416_094950.webp",
+          "filename": "20260416_094950.webp"
+        },
+        {
+          "id": "places-20260416_101757",
+          "category": "places",
+          "full": "public/photos/day6_selcuk_ephesus/places/full/20260416_101757.webp",
+          "thumb": "public/photos/day6_selcuk_ephesus/places/thumbs/20260416_101757.webp",
+          "filename": "20260416_101757.webp"
+        },
+        {
+          "id": "places-20260416_102311",
+          "category": "places",
+          "full": "public/photos/day6_selcuk_ephesus/places/full/20260416_102311.webp",
+          "thumb": "public/photos/day6_selcuk_ephesus/places/thumbs/20260416_102311.webp",
+          "filename": "20260416_102311.webp"
+        },
+        {
+          "id": "places-20260416_103113",
+          "category": "places",
+          "full": "public/photos/day6_selcuk_ephesus/places/full/20260416_103113.webp",
+          "thumb": "public/photos/day6_selcuk_ephesus/places/thumbs/20260416_103113.webp",
+          "filename": "20260416_103113.webp"
+        },
+        {
+          "id": "places-20260416_103714",
+          "category": "places",
+          "full": "public/photos/day6_selcuk_ephesus/places/full/20260416_103714.webp",
+          "thumb": "public/photos/day6_selcuk_ephesus/places/thumbs/20260416_103714.webp",
+          "filename": "20260416_103714.webp"
+        },
+        {
+          "id": "places-20260416_105306",
+          "category": "places",
+          "full": "public/photos/day6_selcuk_ephesus/places/full/20260416_105306.webp",
+          "thumb": "public/photos/day6_selcuk_ephesus/places/thumbs/20260416_105306.webp",
+          "filename": "20260416_105306.webp"
+        },
+        {
+          "id": "places-20260416_113052",
+          "category": "places",
+          "full": "public/photos/day6_selcuk_ephesus/places/full/20260416_113052.webp",
+          "thumb": "public/photos/day6_selcuk_ephesus/places/thumbs/20260416_113052.webp",
+          "filename": "20260416_113052.webp"
+        },
+        {
+          "id": "places-20260416_114651(0)",
+          "category": "places",
+          "full": "public/photos/day6_selcuk_ephesus/places/full/20260416_114651(0).webp",
+          "thumb": "public/photos/day6_selcuk_ephesus/places/thumbs/20260416_114651(0).webp",
+          "filename": "20260416_114651(0).webp"
+        },
+        {
+          "id": "places-20260416_114653",
+          "category": "places",
+          "full": "public/photos/day6_selcuk_ephesus/places/full/20260416_114653.webp",
+          "thumb": "public/photos/day6_selcuk_ephesus/places/thumbs/20260416_114653.webp",
+          "filename": "20260416_114653.webp"
+        },
+        {
+          "id": "places-20260416_114813",
+          "category": "places",
+          "full": "public/photos/day6_selcuk_ephesus/places/full/20260416_114813.webp",
+          "thumb": "public/photos/day6_selcuk_ephesus/places/thumbs/20260416_114813.webp",
+          "filename": "20260416_114813.webp"
+        },
+        {
+          "id": "places-20260416_135231",
+          "category": "places",
+          "full": "public/photos/day6_selcuk_ephesus/places/full/20260416_135231.webp",
+          "thumb": "public/photos/day6_selcuk_ephesus/places/thumbs/20260416_135231.webp",
+          "filename": "20260416_135231.webp"
+        },
+        {
+          "id": "places-20260416_135328",
+          "category": "places",
+          "full": "public/photos/day6_selcuk_ephesus/places/full/20260416_135328.webp",
+          "thumb": "public/photos/day6_selcuk_ephesus/places/thumbs/20260416_135328.webp",
+          "filename": "20260416_135328.webp"
+        },
+        {
+          "id": "places-20260416_141858",
+          "category": "places",
+          "full": "public/photos/day6_selcuk_ephesus/places/full/20260416_141858.webp",
+          "thumb": "public/photos/day6_selcuk_ephesus/places/thumbs/20260416_141858.webp",
+          "filename": "20260416_141858.webp"
+        },
+        {
+          "id": "places-20260416_150404",
+          "category": "places",
+          "full": "public/photos/day6_selcuk_ephesus/places/full/20260416_150404.webp",
+          "thumb": "public/photos/day6_selcuk_ephesus/places/thumbs/20260416_150404.webp",
+          "filename": "20260416_150404.webp"
+        },
+        {
+          "id": "places-20260416_150949",
+          "category": "places",
+          "full": "public/photos/day6_selcuk_ephesus/places/full/20260416_150949.webp",
+          "thumb": "public/photos/day6_selcuk_ephesus/places/thumbs/20260416_150949.webp",
+          "filename": "20260416_150949.webp"
+        },
+        {
+          "id": "places-20260416_152017",
+          "category": "places",
+          "full": "public/photos/day6_selcuk_ephesus/places/full/20260416_152017.webp",
+          "thumb": "public/photos/day6_selcuk_ephesus/places/thumbs/20260416_152017.webp",
+          "filename": "20260416_152017.webp"
+        },
+        {
+          "id": "places-20260416_154513",
+          "category": "places",
+          "full": "public/photos/day6_selcuk_ephesus/places/full/20260416_154513.webp",
+          "thumb": "public/photos/day6_selcuk_ephesus/places/thumbs/20260416_154513.webp",
+          "filename": "20260416_154513.webp"
+        },
+        {
+          "id": "places-20260416_160122",
+          "category": "places",
+          "full": "public/photos/day6_selcuk_ephesus/places/full/20260416_160122.webp",
+          "thumb": "public/photos/day6_selcuk_ephesus/places/thumbs/20260416_160122.webp",
+          "filename": "20260416_160122.webp"
+        },
+        {
+          "id": "places-20260416_160821",
+          "category": "places",
+          "full": "public/photos/day6_selcuk_ephesus/places/full/20260416_160821.webp",
+          "thumb": "public/photos/day6_selcuk_ephesus/places/thumbs/20260416_160821.webp",
+          "filename": "20260416_160821.webp"
+        },
+        {
+          "id": "places-20260416_205812",
+          "category": "places",
+          "full": "public/photos/day6_selcuk_ephesus/places/full/20260416_205812.webp",
+          "thumb": "public/photos/day6_selcuk_ephesus/places/thumbs/20260416_205812.webp",
+          "filename": "20260416_205812.webp"
+        }
+      ]
+    },
+    "animals": {
+      "count": 29,
+      "photos": [
+        {
+          "id": "animals-20260416_093159",
+          "category": "animals",
+          "full": "public/photos/day6_selcuk_ephesus/animals/full/20260416_093159.webp",
+          "thumb": "public/photos/day6_selcuk_ephesus/animals/thumbs/20260416_093159.webp",
+          "filename": "20260416_093159.webp"
+        },
+        {
+          "id": "animals-20260416_093431",
+          "category": "animals",
+          "full": "public/photos/day6_selcuk_ephesus/animals/full/20260416_093431.webp",
+          "thumb": "public/photos/day6_selcuk_ephesus/animals/thumbs/20260416_093431.webp",
+          "filename": "20260416_093431.webp"
+        },
+        {
+          "id": "animals-20260416_094145",
+          "category": "animals",
+          "full": "public/photos/day6_selcuk_ephesus/animals/full/20260416_094145.webp",
+          "thumb": "public/photos/day6_selcuk_ephesus/animals/thumbs/20260416_094145.webp",
+          "filename": "20260416_094145.webp"
+        },
+        {
+          "id": "animals-20260416_104745",
+          "category": "animals",
+          "full": "public/photos/day6_selcuk_ephesus/animals/full/20260416_104745.webp",
+          "thumb": "public/photos/day6_selcuk_ephesus/animals/thumbs/20260416_104745.webp",
+          "filename": "20260416_104745.webp"
+        },
+        {
+          "id": "animals-20260416_110747",
+          "category": "animals",
+          "full": "public/photos/day6_selcuk_ephesus/animals/full/20260416_110747.webp",
+          "thumb": "public/photos/day6_selcuk_ephesus/animals/thumbs/20260416_110747.webp",
+          "filename": "20260416_110747.webp"
+        },
+        {
+          "id": "animals-20260416_111038",
+          "category": "animals",
+          "full": "public/photos/day6_selcuk_ephesus/animals/full/20260416_111038.webp",
+          "thumb": "public/photos/day6_selcuk_ephesus/animals/thumbs/20260416_111038.webp",
+          "filename": "20260416_111038.webp"
+        },
+        {
+          "id": "animals-20260416_111107",
+          "category": "animals",
+          "full": "public/photos/day6_selcuk_ephesus/animals/full/20260416_111107.webp",
+          "thumb": "public/photos/day6_selcuk_ephesus/animals/thumbs/20260416_111107.webp",
+          "filename": "20260416_111107.webp"
+        },
+        {
+          "id": "animals-20260416_111120",
+          "category": "animals",
+          "full": "public/photos/day6_selcuk_ephesus/animals/full/20260416_111120.webp",
+          "thumb": "public/photos/day6_selcuk_ephesus/animals/thumbs/20260416_111120.webp",
+          "filename": "20260416_111120.webp"
+        },
+        {
+          "id": "animals-20260416_111126",
+          "category": "animals",
+          "full": "public/photos/day6_selcuk_ephesus/animals/full/20260416_111126.webp",
+          "thumb": "public/photos/day6_selcuk_ephesus/animals/thumbs/20260416_111126.webp",
+          "filename": "20260416_111126.webp"
+        },
+        {
+          "id": "animals-20260416_111129",
+          "category": "animals",
+          "full": "public/photos/day6_selcuk_ephesus/animals/full/20260416_111129.webp",
+          "thumb": "public/photos/day6_selcuk_ephesus/animals/thumbs/20260416_111129.webp",
+          "filename": "20260416_111129.webp"
+        },
+        {
+          "id": "animals-20260416_133006",
+          "category": "animals",
+          "full": "public/photos/day6_selcuk_ephesus/animals/full/20260416_133006.webp",
+          "thumb": "public/photos/day6_selcuk_ephesus/animals/thumbs/20260416_133006.webp",
+          "filename": "20260416_133006.webp"
+        },
+        {
+          "id": "animals-20260416_133205",
+          "category": "animals",
+          "full": "public/photos/day6_selcuk_ephesus/animals/full/20260416_133205.webp",
+          "thumb": "public/photos/day6_selcuk_ephesus/animals/thumbs/20260416_133205.webp",
+          "filename": "20260416_133205.webp"
+        },
+        {
+          "id": "animals-20260416_141115",
+          "category": "animals",
+          "full": "public/photos/day6_selcuk_ephesus/animals/full/20260416_141115.webp",
+          "thumb": "public/photos/day6_selcuk_ephesus/animals/thumbs/20260416_141115.webp",
+          "filename": "20260416_141115.webp"
+        },
+        {
+          "id": "animals-20260416_143059",
+          "category": "animals",
+          "full": "public/photos/day6_selcuk_ephesus/animals/full/20260416_143059.webp",
+          "thumb": "public/photos/day6_selcuk_ephesus/animals/thumbs/20260416_143059.webp",
+          "filename": "20260416_143059.webp"
+        },
+        {
+          "id": "animals-20260416_144027",
+          "category": "animals",
+          "full": "public/photos/day6_selcuk_ephesus/animals/full/20260416_144027.webp",
+          "thumb": "public/photos/day6_selcuk_ephesus/animals/thumbs/20260416_144027.webp",
+          "filename": "20260416_144027.webp"
+        },
+        {
+          "id": "animals-20260416_145325",
+          "category": "animals",
+          "full": "public/photos/day6_selcuk_ephesus/animals/full/20260416_145325.webp",
+          "thumb": "public/photos/day6_selcuk_ephesus/animals/thumbs/20260416_145325.webp",
+          "filename": "20260416_145325.webp"
+        },
+        {
+          "id": "animals-20260416_150604",
+          "category": "animals",
+          "full": "public/photos/day6_selcuk_ephesus/animals/full/20260416_150604.webp",
+          "thumb": "public/photos/day6_selcuk_ephesus/animals/thumbs/20260416_150604.webp",
+          "filename": "20260416_150604.webp"
+        },
+        {
+          "id": "animals-20260416_154724",
+          "category": "animals",
+          "full": "public/photos/day6_selcuk_ephesus/animals/full/20260416_154724.webp",
+          "thumb": "public/photos/day6_selcuk_ephesus/animals/thumbs/20260416_154724.webp",
+          "filename": "20260416_154724.webp"
+        },
+        {
+          "id": "animals-20260416_155057",
+          "category": "animals",
+          "full": "public/photos/day6_selcuk_ephesus/animals/full/20260416_155057.webp",
+          "thumb": "public/photos/day6_selcuk_ephesus/animals/thumbs/20260416_155057.webp",
+          "filename": "20260416_155057.webp"
+        },
+        {
+          "id": "animals-20260416_183511",
+          "category": "animals",
+          "full": "public/photos/day6_selcuk_ephesus/animals/full/20260416_183511.webp",
+          "thumb": "public/photos/day6_selcuk_ephesus/animals/thumbs/20260416_183511.webp",
+          "filename": "20260416_183511.webp"
+        },
+        {
+          "id": "animals-20260416_183523",
+          "category": "animals",
+          "full": "public/photos/day6_selcuk_ephesus/animals/full/20260416_183523.webp",
+          "thumb": "public/photos/day6_selcuk_ephesus/animals/thumbs/20260416_183523.webp",
+          "filename": "20260416_183523.webp"
+        },
+        {
+          "id": "animals-20260416_193223",
+          "category": "animals",
+          "full": "public/photos/day6_selcuk_ephesus/animals/full/20260416_193223.webp",
+          "thumb": "public/photos/day6_selcuk_ephesus/animals/thumbs/20260416_193223.webp",
+          "filename": "20260416_193223.webp"
+        },
+        {
+          "id": "animals-20260416_203250",
+          "category": "animals",
+          "full": "public/photos/day6_selcuk_ephesus/animals/full/20260416_203250.webp",
+          "thumb": "public/photos/day6_selcuk_ephesus/animals/thumbs/20260416_203250.webp",
+          "filename": "20260416_203250.webp"
+        },
+        {
+          "id": "animals-20260416_203306",
+          "category": "animals",
+          "full": "public/photos/day6_selcuk_ephesus/animals/full/20260416_203306.webp",
+          "thumb": "public/photos/day6_selcuk_ephesus/animals/thumbs/20260416_203306.webp",
+          "filename": "20260416_203306.webp"
+        },
+        {
+          "id": "animals-img-20260416-wa0027",
+          "category": "animals",
+          "full": "public/photos/day6_selcuk_ephesus/animals/full/img-20260416-wa0027.webp",
+          "thumb": "public/photos/day6_selcuk_ephesus/animals/thumbs/img-20260416-wa0027.webp",
+          "filename": "img-20260416-wa0027.webp"
+        },
+        {
+          "id": "animals-img-20260416-wa0050",
+          "category": "animals",
+          "full": "public/photos/day6_selcuk_ephesus/animals/full/img-20260416-wa0050.webp",
+          "thumb": "public/photos/day6_selcuk_ephesus/animals/thumbs/img-20260416-wa0050.webp",
+          "filename": "img-20260416-wa0050.webp"
+        },
+        {
+          "id": "animals-img-20260416-wa0054",
+          "category": "animals",
+          "full": "public/photos/day6_selcuk_ephesus/animals/full/img-20260416-wa0054.webp",
+          "thumb": "public/photos/day6_selcuk_ephesus/animals/thumbs/img-20260416-wa0054.webp",
+          "filename": "img-20260416-wa0054.webp"
+        },
+        {
+          "id": "animals-img-20260416-wa0056",
+          "category": "animals",
+          "full": "public/photos/day6_selcuk_ephesus/animals/full/img-20260416-wa0056.webp",
+          "thumb": "public/photos/day6_selcuk_ephesus/animals/thumbs/img-20260416-wa0056.webp",
+          "filename": "img-20260416-wa0056.webp"
+        },
+        {
+          "id": "animals-img-20260416-wa0058",
+          "category": "animals",
+          "full": "public/photos/day6_selcuk_ephesus/animals/full/img-20260416-wa0058.webp",
+          "thumb": "public/photos/day6_selcuk_ephesus/animals/thumbs/img-20260416-wa0058.webp",
+          "filename": "img-20260416-wa0058.webp"
+        }
+      ]
+    }
+  }
+}

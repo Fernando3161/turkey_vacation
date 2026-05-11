@@ -1,0 +1,314 @@
+{
+  "slug": "day19_princes_islands_buyukada",
+  "totalCount": 42,
+  "categories": {
+    "people": {
+      "count": 0,
+      "photos": []
+    },
+    "places": {
+      "count": 20,
+      "photos": [
+        {
+          "id": "places-20260429_075411",
+          "category": "places",
+          "full": "public/photos/day19_princes_islands_buyukada/places/full/20260429_075411.webp",
+          "thumb": "public/photos/day19_princes_islands_buyukada/places/thumbs/20260429_075411.webp",
+          "filename": "20260429_075411.webp"
+        },
+        {
+          "id": "places-20260429_092458",
+          "category": "places",
+          "full": "public/photos/day19_princes_islands_buyukada/places/full/20260429_092458.webp",
+          "thumb": "public/photos/day19_princes_islands_buyukada/places/thumbs/20260429_092458.webp",
+          "filename": "20260429_092458.webp"
+        },
+        {
+          "id": "places-20260429_094118",
+          "category": "places",
+          "full": "public/photos/day19_princes_islands_buyukada/places/full/20260429_094118.webp",
+          "thumb": "public/photos/day19_princes_islands_buyukada/places/thumbs/20260429_094118.webp",
+          "filename": "20260429_094118.webp"
+        },
+        {
+          "id": "places-20260429_103742",
+          "category": "places",
+          "full": "public/photos/day19_princes_islands_buyukada/places/full/20260429_103742.webp",
+          "thumb": "public/photos/day19_princes_islands_buyukada/places/thumbs/20260429_103742.webp",
+          "filename": "20260429_103742.webp"
+        },
+        {
+          "id": "places-20260429_103909",
+          "category": "places",
+          "full": "public/photos/day19_princes_islands_buyukada/places/full/20260429_103909.webp",
+          "thumb": "public/photos/day19_princes_islands_buyukada/places/thumbs/20260429_103909.webp",
+          "filename": "20260429_103909.webp"
+        },
+        {
+          "id": "places-20260429_105808",
+          "category": "places",
+          "full": "public/photos/day19_princes_islands_buyukada/places/full/20260429_105808.webp",
+          "thumb": "public/photos/day19_princes_islands_buyukada/places/thumbs/20260429_105808.webp",
+          "filename": "20260429_105808.webp"
+        },
+        {
+          "id": "places-20260429_110230",
+          "category": "places",
+          "full": "public/photos/day19_princes_islands_buyukada/places/full/20260429_110230.webp",
+          "thumb": "public/photos/day19_princes_islands_buyukada/places/thumbs/20260429_110230.webp",
+          "filename": "20260429_110230.webp"
+        },
+        {
+          "id": "places-20260429_110754",
+          "category": "places",
+          "full": "public/photos/day19_princes_islands_buyukada/places/full/20260429_110754.webp",
+          "thumb": "public/photos/day19_princes_islands_buyukada/places/thumbs/20260429_110754.webp",
+          "filename": "20260429_110754.webp"
+        },
+        {
+          "id": "places-20260429_121350",
+          "category": "places",
+          "full": "public/photos/day19_princes_islands_buyukada/places/full/20260429_121350.webp",
+          "thumb": "public/photos/day19_princes_islands_buyukada/places/thumbs/20260429_121350.webp",
+          "filename": "20260429_121350.webp"
+        },
+        {
+          "id": "places-20260429_121920",
+          "category": "places",
+          "full": "public/photos/day19_princes_islands_buyukada/places/full/20260429_121920.webp",
+          "thumb": "public/photos/day19_princes_islands_buyukada/places/thumbs/20260429_121920.webp",
+          "filename": "20260429_121920.webp"
+        },
+        {
+          "id": "places-20260429_121926",
+          "category": "places",
+          "full": "public/photos/day19_princes_islands_buyukada/places/full/20260429_121926.webp",
+          "thumb": "public/photos/day19_princes_islands_buyukada/places/thumbs/20260429_121926.webp",
+          "filename": "20260429_121926.webp"
+        },
+        {
+          "id": "places-20260429_141134",
+          "category": "places",
+          "full": "public/photos/day19_princes_islands_buyukada/places/full/20260429_141134.webp",
+          "thumb": "public/photos/day19_princes_islands_buyukada/places/thumbs/20260429_141134.webp",
+          "filename": "20260429_141134.webp"
+        },
+        {
+          "id": "places-20260429_141515",
+          "category": "places",
+          "full": "public/photos/day19_princes_islands_buyukada/places/full/20260429_141515.webp",
+          "thumb": "public/photos/day19_princes_islands_buyukada/places/thumbs/20260429_141515.webp",
+          "filename": "20260429_141515.webp"
+        },
+        {
+          "id": "places-20260429_151423",
+          "category": "places",
+          "full": "public/photos/day19_princes_islands_buyukada/places/full/20260429_151423.webp",
+          "thumb": "public/photos/day19_princes_islands_buyukada/places/thumbs/20260429_151423.webp",
+          "filename": "20260429_151423.webp"
+        },
+        {
+          "id": "places-20260429_154424",
+          "category": "places",
+          "full": "public/photos/day19_princes_islands_buyukada/places/full/20260429_154424.webp",
+          "thumb": "public/photos/day19_princes_islands_buyukada/places/thumbs/20260429_154424.webp",
+          "filename": "20260429_154424.webp"
+        },
+        {
+          "id": "places-20260429_154500",
+          "category": "places",
+          "full": "public/photos/day19_princes_islands_buyukada/places/full/20260429_154500.webp",
+          "thumb": "public/photos/day19_princes_islands_buyukada/places/thumbs/20260429_154500.webp",
+          "filename": "20260429_154500.webp"
+        },
+        {
+          "id": "places-20260429_180326",
+          "category": "places",
+          "full": "public/photos/day19_princes_islands_buyukada/places/full/20260429_180326.webp",
+          "thumb": "public/photos/day19_princes_islands_buyukada/places/thumbs/20260429_180326.webp",
+          "filename": "20260429_180326.webp"
+        },
+        {
+          "id": "places-20260429_180531",
+          "category": "places",
+          "full": "public/photos/day19_princes_islands_buyukada/places/full/20260429_180531.webp",
+          "thumb": "public/photos/day19_princes_islands_buyukada/places/thumbs/20260429_180531.webp",
+          "filename": "20260429_180531.webp"
+        },
+        {
+          "id": "places-20260429_203229",
+          "category": "places",
+          "full": "public/photos/day19_princes_islands_buyukada/places/full/20260429_203229.webp",
+          "thumb": "public/photos/day19_princes_islands_buyukada/places/thumbs/20260429_203229.webp",
+          "filename": "20260429_203229.webp"
+        },
+        {
+          "id": "places-20260429_203648",
+          "category": "places",
+          "full": "public/photos/day19_princes_islands_buyukada/places/full/20260429_203648.webp",
+          "thumb": "public/photos/day19_princes_islands_buyukada/places/thumbs/20260429_203648.webp",
+          "filename": "20260429_203648.webp"
+        }
+      ]
+    },
+    "animals": {
+      "count": 22,
+      "photos": [
+        {
+          "id": "animals-20260429_074906",
+          "category": "animals",
+          "full": "public/photos/day19_princes_islands_buyukada/animals/full/20260429_074906.webp",
+          "thumb": "public/photos/day19_princes_islands_buyukada/animals/thumbs/20260429_074906.webp",
+          "filename": "20260429_074906.webp"
+        },
+        {
+          "id": "animals-20260429_083633",
+          "category": "animals",
+          "full": "public/photos/day19_princes_islands_buyukada/animals/full/20260429_083633.webp",
+          "thumb": "public/photos/day19_princes_islands_buyukada/animals/thumbs/20260429_083633.webp",
+          "filename": "20260429_083633.webp"
+        },
+        {
+          "id": "animals-20260429_083843",
+          "category": "animals",
+          "full": "public/photos/day19_princes_islands_buyukada/animals/full/20260429_083843.webp",
+          "thumb": "public/photos/day19_princes_islands_buyukada/animals/thumbs/20260429_083843.webp",
+          "filename": "20260429_083843.webp"
+        },
+        {
+          "id": "animals-20260429_094640",
+          "category": "animals",
+          "full": "public/photos/day19_princes_islands_buyukada/animals/full/20260429_094640.webp",
+          "thumb": "public/photos/day19_princes_islands_buyukada/animals/thumbs/20260429_094640.webp",
+          "filename": "20260429_094640.webp"
+        },
+        {
+          "id": "animals-20260429_094725",
+          "category": "animals",
+          "full": "public/photos/day19_princes_islands_buyukada/animals/full/20260429_094725.webp",
+          "thumb": "public/photos/day19_princes_islands_buyukada/animals/thumbs/20260429_094725.webp",
+          "filename": "20260429_094725.webp"
+        },
+        {
+          "id": "animals-20260429_095338",
+          "category": "animals",
+          "full": "public/photos/day19_princes_islands_buyukada/animals/full/20260429_095338.webp",
+          "thumb": "public/photos/day19_princes_islands_buyukada/animals/thumbs/20260429_095338.webp",
+          "filename": "20260429_095338.webp"
+        },
+        {
+          "id": "animals-20260429_103604",
+          "category": "animals",
+          "full": "public/photos/day19_princes_islands_buyukada/animals/full/20260429_103604.webp",
+          "thumb": "public/photos/day19_princes_islands_buyukada/animals/thumbs/20260429_103604.webp",
+          "filename": "20260429_103604.webp"
+        },
+        {
+          "id": "animals-20260429_104738",
+          "category": "animals",
+          "full": "public/photos/day19_princes_islands_buyukada/animals/full/20260429_104738.webp",
+          "thumb": "public/photos/day19_princes_islands_buyukada/animals/thumbs/20260429_104738.webp",
+          "filename": "20260429_104738.webp"
+        },
+        {
+          "id": "animals-20260429_105148",
+          "category": "animals",
+          "full": "public/photos/day19_princes_islands_buyukada/animals/full/20260429_105148.webp",
+          "thumb": "public/photos/day19_princes_islands_buyukada/animals/thumbs/20260429_105148.webp",
+          "filename": "20260429_105148.webp"
+        },
+        {
+          "id": "animals-20260429_105345",
+          "category": "animals",
+          "full": "public/photos/day19_princes_islands_buyukada/animals/full/20260429_105345.webp",
+          "thumb": "public/photos/day19_princes_islands_buyukada/animals/thumbs/20260429_105345.webp",
+          "filename": "20260429_105345.webp"
+        },
+        {
+          "id": "animals-20260429_110225",
+          "category": "animals",
+          "full": "public/photos/day19_princes_islands_buyukada/animals/full/20260429_110225.webp",
+          "thumb": "public/photos/day19_princes_islands_buyukada/animals/thumbs/20260429_110225.webp",
+          "filename": "20260429_110225.webp"
+        },
+        {
+          "id": "animals-20260429_112332",
+          "category": "animals",
+          "full": "public/photos/day19_princes_islands_buyukada/animals/full/20260429_112332.webp",
+          "thumb": "public/photos/day19_princes_islands_buyukada/animals/thumbs/20260429_112332.webp",
+          "filename": "20260429_112332.webp"
+        },
+        {
+          "id": "animals-20260429_130429",
+          "category": "animals",
+          "full": "public/photos/day19_princes_islands_buyukada/animals/full/20260429_130429.webp",
+          "thumb": "public/photos/day19_princes_islands_buyukada/animals/thumbs/20260429_130429.webp",
+          "filename": "20260429_130429.webp"
+        },
+        {
+          "id": "animals-20260429_142624",
+          "category": "animals",
+          "full": "public/photos/day19_princes_islands_buyukada/animals/full/20260429_142624.webp",
+          "thumb": "public/photos/day19_princes_islands_buyukada/animals/thumbs/20260429_142624.webp",
+          "filename": "20260429_142624.webp"
+        },
+        {
+          "id": "animals-20260429_152145",
+          "category": "animals",
+          "full": "public/photos/day19_princes_islands_buyukada/animals/full/20260429_152145.webp",
+          "thumb": "public/photos/day19_princes_islands_buyukada/animals/thumbs/20260429_152145.webp",
+          "filename": "20260429_152145.webp"
+        },
+        {
+          "id": "animals-20260429_160943(0)",
+          "category": "animals",
+          "full": "public/photos/day19_princes_islands_buyukada/animals/full/20260429_160943(0).webp",
+          "thumb": "public/photos/day19_princes_islands_buyukada/animals/thumbs/20260429_160943(0).webp",
+          "filename": "20260429_160943(0).webp"
+        },
+        {
+          "id": "animals-20260429_162340",
+          "category": "animals",
+          "full": "public/photos/day19_princes_islands_buyukada/animals/full/20260429_162340.webp",
+          "thumb": "public/photos/day19_princes_islands_buyukada/animals/thumbs/20260429_162340.webp",
+          "filename": "20260429_162340.webp"
+        },
+        {
+          "id": "animals-20260429_182011",
+          "category": "animals",
+          "full": "public/photos/day19_princes_islands_buyukada/animals/full/20260429_182011.webp",
+          "thumb": "public/photos/day19_princes_islands_buyukada/animals/thumbs/20260429_182011.webp",
+          "filename": "20260429_182011.webp"
+        },
+        {
+          "id": "animals-20260429_182014",
+          "category": "animals",
+          "full": "public/photos/day19_princes_islands_buyukada/animals/full/20260429_182014.webp",
+          "thumb": "public/photos/day19_princes_islands_buyukada/animals/thumbs/20260429_182014.webp",
+          "filename": "20260429_182014.webp"
+        },
+        {
+          "id": "animals-20260429_191902",
+          "category": "animals",
+          "full": "public/photos/day19_princes_islands_buyukada/animals/full/20260429_191902.webp",
+          "thumb": "public/photos/day19_princes_islands_buyukada/animals/thumbs/20260429_191902.webp",
+          "filename": "20260429_191902.webp"
+        },
+        {
+          "id": "animals-20260429_204817",
+          "category": "animals",
+          "full": "public/photos/day19_princes_islands_buyukada/animals/full/20260429_204817.webp",
+          "thumb": "public/photos/day19_princes_islands_buyukada/animals/thumbs/20260429_204817.webp",
+          "filename": "20260429_204817.webp"
+        },
+        {
+          "id": "animals-20260429_204841",
+          "category": "animals",
+          "full": "public/photos/day19_princes_islands_buyukada/animals/full/20260429_204841.webp",
+          "thumb": "public/photos/day19_princes_islands_buyukada/animals/thumbs/20260429_204841.webp",
+          "filename": "20260429_204841.webp"
+        }
+      ]
+    }
+  }
+}

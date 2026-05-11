@@ -1,0 +1,118 @@
+{
+  "slug": "day3_istanbul_galata_tower_intrepid_meeting",
+  "totalCount": 14,
+  "categories": {
+    "people": {
+      "count": 0,
+      "photos": []
+    },
+    "places": {
+      "count": 11,
+      "photos": [
+        {
+          "id": "places-20260413_105436",
+          "category": "places",
+          "full": "public/photos/day3_istanbul_galata_tower_intrepid_meeting/places/full/20260413_105436.webp",
+          "thumb": "public/photos/day3_istanbul_galata_tower_intrepid_meeting/places/thumbs/20260413_105436.webp",
+          "filename": "20260413_105436.webp"
+        },
+        {
+          "id": "places-20260413_105850",
+          "category": "places",
+          "full": "public/photos/day3_istanbul_galata_tower_intrepid_meeting/places/full/20260413_105850.webp",
+          "thumb": "public/photos/day3_istanbul_galata_tower_intrepid_meeting/places/thumbs/20260413_105850.webp",
+          "filename": "20260413_105850.webp"
+        },
+        {
+          "id": "places-20260413_110729",
+          "category": "places",
+          "full": "public/photos/day3_istanbul_galata_tower_intrepid_meeting/places/full/20260413_110729.webp",
+          "thumb": "public/photos/day3_istanbul_galata_tower_intrepid_meeting/places/thumbs/20260413_110729.webp",
+          "filename": "20260413_110729.webp"
+        },
+        {
+          "id": "places-20260413_111940",
+          "category": "places",
+          "full": "public/photos/day3_istanbul_galata_tower_intrepid_meeting/places/full/20260413_111940.webp",
+          "thumb": "public/photos/day3_istanbul_galata_tower_intrepid_meeting/places/thumbs/20260413_111940.webp",
+          "filename": "20260413_111940.webp"
+        },
+        {
+          "id": "places-20260413_112715",
+          "category": "places",
+          "full": "public/photos/day3_istanbul_galata_tower_intrepid_meeting/places/full/20260413_112715.webp",
+          "thumb": "public/photos/day3_istanbul_galata_tower_intrepid_meeting/places/thumbs/20260413_112715.webp",
+          "filename": "20260413_112715.webp"
+        },
+        {
+          "id": "places-20260413_114741",
+          "category": "places",
+          "full": "public/photos/day3_istanbul_galata_tower_intrepid_meeting/places/full/20260413_114741.webp",
+          "thumb": "public/photos/day3_istanbul_galata_tower_intrepid_meeting/places/thumbs/20260413_114741.webp",
+          "filename": "20260413_114741.webp"
+        },
+        {
+          "id": "places-20260413_114803",
+          "category": "places",
+          "full": "public/photos/day3_istanbul_galata_tower_intrepid_meeting/places/full/20260413_114803.webp",
+          "thumb": "public/photos/day3_istanbul_galata_tower_intrepid_meeting/places/thumbs/20260413_114803.webp",
+          "filename": "20260413_114803.webp"
+        },
+        {
+          "id": "places-20260413_115534",
+          "category": "places",
+          "full": "public/photos/day3_istanbul_galata_tower_intrepid_meeting/places/full/20260413_115534.webp",
+          "thumb": "public/photos/day3_istanbul_galata_tower_intrepid_meeting/places/thumbs/20260413_115534.webp",
+          "filename": "20260413_115534.webp"
+        },
+        {
+          "id": "places-20260413_164615",
+          "category": "places",
+          "full": "public/photos/day3_istanbul_galata_tower_intrepid_meeting/places/full/20260413_164615.webp",
+          "thumb": "public/photos/day3_istanbul_galata_tower_intrepid_meeting/places/thumbs/20260413_164615.webp",
+          "filename": "20260413_164615.webp"
+        },
+        {
+          "id": "places-20260413_170402",
+          "category": "places",
+          "full": "public/photos/day3_istanbul_galata_tower_intrepid_meeting/places/full/20260413_170402.webp",
+          "thumb": "public/photos/day3_istanbul_galata_tower_intrepid_meeting/places/thumbs/20260413_170402.webp",
+          "filename": "20260413_170402.webp"
+        },
+        {
+          "id": "places-20260413_224446",
+          "category": "places",
+          "full": "public/photos/day3_istanbul_galata_tower_intrepid_meeting/places/full/20260413_224446.webp",
+          "thumb": "public/photos/day3_istanbul_galata_tower_intrepid_meeting/places/thumbs/20260413_224446.webp",
+          "filename": "20260413_224446.webp"
+        }
+      ]
+    },
+    "animals": {
+      "count": 3,
+      "photos": [
+        {
+          "id": "animals-20260413_151317",
+          "category": "animals",
+          "full": "public/photos/day3_istanbul_galata_tower_intrepid_meeting/animals/full/20260413_151317.webp",
+          "thumb": "public/photos/day3_istanbul_galata_tower_intrepid_meeting/animals/thumbs/20260413_151317.webp",
+          "filename": "20260413_151317.webp"
+        },
+        {
+          "id": "animals-20260413_170527",
+          "category": "animals",
+          "full": "public/photos/day3_istanbul_galata_tower_intrepid_meeting/animals/full/20260413_170527.webp",
+          "thumb": "public/photos/day3_istanbul_galata_tower_intrepid_meeting/animals/thumbs/20260413_170527.webp",
+          "filename": "20260413_170527.webp"
+        },
+        {
+          "id": "animals-20260413_230111",
+          "category": "animals",
+          "full": "public/photos/day3_istanbul_galata_tower_intrepid_meeting/animals/full/20260413_230111.webp",
+          "thumb": "public/photos/day3_istanbul_galata_tower_intrepid_meeting/animals/thumbs/20260413_230111.webp",
+          "filename": "20260413_230111.webp"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "slug": "day4_gallipoli_canakkale",
+  "totalCount": 28,
+  "categories": {
+    "people": {
+      "count": 5,
+      "photos": [
+        {
+          "id": "people-whatsapp_image_2026-05-11_at_11.03.17",
+          "category": "people",
+          "full": "public/photos/day4_gallipoli_canakkale/people/full/whatsapp_image_2026-05-11_at_11.03.17.webp",
+          "thumb": "public/photos/day4_gallipoli_canakkale/people/thumbs/whatsapp_image_2026-05-11_at_11.03.17.webp",
+          "filename": "whatsapp_image_2026-05-11_at_11.03.17.webp"
+        },
+        {
+          "id": "people-whatsapp_image_2026-05-11_at_11.03.18_(3)",
+          "category": "people",
+          "full": "public/photos/day4_gallipoli_canakkale/people/full/whatsapp_image_2026-05-11_at_11.03.18_(3).webp",
+          "thumb": "public/photos/day4_gallipoli_canakkale/people/thumbs/whatsapp_image_2026-05-11_at_11.03.18_(3).webp",
+          "filename": "whatsapp_image_2026-05-11_at_11.03.18_(3).webp"
+        },
+        {
+          "id": "people-whatsapp_image_2026-05-11_at_11.03.18_(4)",
+          "category": "people",
+          "full": "public/photos/day4_gallipoli_canakkale/people/full/whatsapp_image_2026-05-11_at_11.03.18_(4).webp",
+          "thumb": "public/photos/day4_gallipoli_canakkale/people/thumbs/whatsapp_image_2026-05-11_at_11.03.18_(4).webp",
+          "filename": "whatsapp_image_2026-05-11_at_11.03.18_(4).webp"
+        },
+        {
+          "id": "people-whatsapp_image_2026-05-11_at_11.03.18",
+          "category": "people",
+          "full": "public/photos/day4_gallipoli_canakkale/people/full/whatsapp_image_2026-05-11_at_11.03.18.webp",
+          "thumb": "public/photos/day4_gallipoli_canakkale/people/thumbs/whatsapp_image_2026-05-11_at_11.03.18.webp",
+          "filename": "whatsapp_image_2026-05-11_at_11.03.18.webp"
+        },
+        {
+          "id": "people-whatsapp_image_2026-05-11_at_11.04.05",
+          "category": "people",
+          "full": "public/photos/day4_gallipoli_canakkale/people/full/whatsapp_image_2026-05-11_at_11.04.05.webp",
+          "thumb": "public/photos/day4_gallipoli_canakkale/people/thumbs/whatsapp_image_2026-05-11_at_11.04.05.webp",
+          "filename": "whatsapp_image_2026-05-11_at_11.04.05.webp"
+        }
+      ]
+    },
+    "places": {
+      "count": 19,
+      "photos": [
+        {
+          "id": "places-20260414_101420",
+          "category": "places",
+          "full": "public/photos/day4_gallipoli_canakkale/places/full/20260414_101420.webp",
+          "thumb": "public/photos/day4_gallipoli_canakkale/places/thumbs/20260414_101420.webp",
+          "filename": "20260414_101420.webp"
+        },
+        {
+          "id": "places-20260414_132735",
+          "category": "places",
+          "full": "public/photos/day4_gallipoli_canakkale/places/full/20260414_132735.webp",
+          "thumb": "public/photos/day4_gallipoli_canakkale/places/thumbs/20260414_132735.webp",
+          "filename": "20260414_132735.webp"
+        },
+        {
+          "id": "places-20260414_134446",
+          "category": "places",
+          "full": "public/photos/day4_gallipoli_canakkale/places/full/20260414_134446.webp",
+          "thumb": "public/photos/day4_gallipoli_canakkale/places/thumbs/20260414_134446.webp",
+          "filename": "20260414_134446.webp"
+        },
+        {
+          "id": "places-20260414_135325",
+          "category": "places",
+          "full": "public/photos/day4_gallipoli_canakkale/places/full/20260414_135325.webp",
+          "thumb": "public/photos/day4_gallipoli_canakkale/places/thumbs/20260414_135325.webp",
+          "filename": "20260414_135325.webp"
+        },
+        {
+          "id": "places-20260414_135455",
+          "category": "places",
+          "full": "public/photos/day4_gallipoli_canakkale/places/full/20260414_135455.webp",
+          "thumb": "public/photos/day4_gallipoli_canakkale/places/thumbs/20260414_135455.webp",
+          "filename": "20260414_135455.webp"
+        },
+        {
+          "id": "places-20260414_135507",
+          "category": "places",
+          "full": "public/photos/day4_gallipoli_canakkale/places/full/20260414_135507.webp",
+          "thumb": "public/photos/day4_gallipoli_canakkale/places/thumbs/20260414_135507.webp",
+          "filename": "20260414_135507.webp"
+        },
+        {
+          "id": "places-20260414_141827",
+          "category": "places",
+          "full": "public/photos/day4_gallipoli_canakkale/places/full/20260414_141827.webp",
+          "thumb": "public/photos/day4_gallipoli_canakkale/places/thumbs/20260414_141827.webp",
+          "filename": "20260414_141827.webp"
+        },
+        {
+          "id": "places-20260414_142248",
+          "category": "places",
+          "full": "public/photos/day4_gallipoli_canakkale/places/full/20260414_142248.webp",
+          "thumb": "public/photos/day4_gallipoli_canakkale/places/thumbs/20260414_142248.webp",
+          "filename": "20260414_142248.webp"
+        },
+        {
+          "id": "places-20260414_145728",
+          "category": "places",
+          "full": "public/photos/day4_gallipoli_canakkale/places/full/20260414_145728.webp",
+          "thumb": "public/photos/day4_gallipoli_canakkale/places/thumbs/20260414_145728.webp",
+          "filename": "20260414_145728.webp"
+        },
+        {
+          "id": "places-20260414_145732",
+          "category": "places",
+          "full": "public/photos/day4_gallipoli_canakkale/places/full/20260414_145732.webp",
+          "thumb": "public/photos/day4_gallipoli_canakkale/places/thumbs/20260414_145732.webp",
+          "filename": "20260414_145732.webp"
+        },
+        {
+          "id": "places-20260414_152846",
+          "category": "places",
+          "full": "public/photos/day4_gallipoli_canakkale/places/full/20260414_152846.webp",
+          "thumb": "public/photos/day4_gallipoli_canakkale/places/thumbs/20260414_152846.webp",
+          "filename": "20260414_152846.webp"
+        },
+        {
+          "id": "places-20260414_174506",
+          "category": "places",
+          "full": "public/photos/day4_gallipoli_canakkale/places/full/20260414_174506.webp",
+          "thumb": "public/photos/day4_gallipoli_canakkale/places/thumbs/20260414_174506.webp",
+          "filename": "20260414_174506.webp"
+        },
+        {
+          "id": "places-20260414_175042",
+          "category": "places",
+          "full": "public/photos/day4_gallipoli_canakkale/places/full/20260414_175042.webp",
+          "thumb": "public/photos/day4_gallipoli_canakkale/places/thumbs/20260414_175042.webp",
+          "filename": "20260414_175042.webp"
+        },
+        {
+          "id": "places-20260414_175054",
+          "category": "places",
+          "full": "public/photos/day4_gallipoli_canakkale/places/full/20260414_175054.webp",
+          "thumb": "public/photos/day4_gallipoli_canakkale/places/thumbs/20260414_175054.webp",
+          "filename": "20260414_175054.webp"
+        },
+        {
+          "id": "places-20260414_181421",
+          "category": "places",
+          "full": "public/photos/day4_gallipoli_canakkale/places/full/20260414_181421.webp",
+          "thumb": "public/photos/day4_gallipoli_canakkale/places/thumbs/20260414_181421.webp",
+          "filename": "20260414_181421.webp"
+        },
+        {
+          "id": "places-20260414_182346",
+          "category": "places",
+          "full": "public/photos/day4_gallipoli_canakkale/places/full/20260414_182346.webp",
+          "thumb": "public/photos/day4_gallipoli_canakkale/places/thumbs/20260414_182346.webp",
+          "filename": "20260414_182346.webp"
+        },
+        {
+          "id": "places-20260414_182828",
+          "category": "places",
+          "full": "public/photos/day4_gallipoli_canakkale/places/full/20260414_182828.webp",
+          "thumb": "public/photos/day4_gallipoli_canakkale/places/thumbs/20260414_182828.webp",
+          "filename": "20260414_182828.webp"
+        },
+        {
+          "id": "places-20260414_183251",
+          "category": "places",
+          "full": "public/photos/day4_gallipoli_canakkale/places/full/20260414_183251.webp",
+          "thumb": "public/photos/day4_gallipoli_canakkale/places/thumbs/20260414_183251.webp",
+          "filename": "20260414_183251.webp"
+        },
+        {
+          "id": "places-20260414_193222",
+          "category": "places",
+          "full": "public/photos/day4_gallipoli_canakkale/places/full/20260414_193222.webp",
+          "thumb": "public/photos/day4_gallipoli_canakkale/places/thumbs/20260414_193222.webp",
+          "filename": "20260414_193222.webp"
+        }
+      ]
+    },
+    "animals": {
+      "count": 4,
+      "photos": [
+        {
+          "id": "animals-20260414_151320",
+          "category": "animals",
+          "full": "public/photos/day4_gallipoli_canakkale/animals/full/20260414_151320.webp",
+          "thumb": "public/photos/day4_gallipoli_canakkale/animals/thumbs/20260414_151320.webp",
+          "filename": "20260414_151320.webp"
+        },
+        {
+          "id": "animals-20260414_151438",
+          "category": "animals",
+          "full": "public/photos/day4_gallipoli_canakkale/animals/full/20260414_151438.webp",
+          "thumb": "public/photos/day4_gallipoli_canakkale/animals/thumbs/20260414_151438.webp",
+          "filename": "20260414_151438.webp"
+        },
+        {
+          "id": "animals-20260414_181053",
+          "category": "animals",
+          "full": "public/photos/day4_gallipoli_canakkale/animals/full/20260414_181053.webp",
+          "thumb": "public/photos/day4_gallipoli_canakkale/animals/thumbs/20260414_181053.webp",
+          "filename": "20260414_181053.webp"
+        },
+        {
+          "id": "animals-20260414_193833",
+          "category": "animals",
+          "full": "public/photos/day4_gallipoli_canakkale/animals/full/20260414_193833.webp",
+          "thumb": "public/photos/day4_gallipoli_canakkale/animals/thumbs/20260414_193833.webp",
+          "filename": "20260414_193833.webp"
+        }
+      ]
+    }
+  }
+}

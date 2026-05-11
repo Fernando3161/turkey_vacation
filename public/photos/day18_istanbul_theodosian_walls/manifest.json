@@ -1,0 +1,490 @@
+{
+  "slug": "day18_istanbul_theodosian_walls",
+  "totalCount": 67,
+  "categories": {
+    "people": {
+      "count": 11,
+      "photos": [
+        {
+          "id": "people-20260428_133152",
+          "category": "people",
+          "full": "public/photos/day18_istanbul_theodosian_walls/people/full/20260428_133152.webp",
+          "thumb": "public/photos/day18_istanbul_theodosian_walls/people/thumbs/20260428_133152.webp",
+          "filename": "20260428_133152.webp"
+        },
+        {
+          "id": "people-20260428_133155",
+          "category": "people",
+          "full": "public/photos/day18_istanbul_theodosian_walls/people/full/20260428_133155.webp",
+          "thumb": "public/photos/day18_istanbul_theodosian_walls/people/thumbs/20260428_133155.webp",
+          "filename": "20260428_133155.webp"
+        },
+        {
+          "id": "people-20260428_133158(0)",
+          "category": "people",
+          "full": "public/photos/day18_istanbul_theodosian_walls/people/full/20260428_133158(0).webp",
+          "thumb": "public/photos/day18_istanbul_theodosian_walls/people/thumbs/20260428_133158(0).webp",
+          "filename": "20260428_133158(0).webp"
+        },
+        {
+          "id": "people-20260428_133159",
+          "category": "people",
+          "full": "public/photos/day18_istanbul_theodosian_walls/people/full/20260428_133159.webp",
+          "thumb": "public/photos/day18_istanbul_theodosian_walls/people/thumbs/20260428_133159.webp",
+          "filename": "20260428_133159.webp"
+        },
+        {
+          "id": "people-20260428_133202",
+          "category": "people",
+          "full": "public/photos/day18_istanbul_theodosian_walls/people/full/20260428_133202.webp",
+          "thumb": "public/photos/day18_istanbul_theodosian_walls/people/thumbs/20260428_133202.webp",
+          "filename": "20260428_133202.webp"
+        },
+        {
+          "id": "people-20260428_133206",
+          "category": "people",
+          "full": "public/photos/day18_istanbul_theodosian_walls/people/full/20260428_133206.webp",
+          "thumb": "public/photos/day18_istanbul_theodosian_walls/people/thumbs/20260428_133206.webp",
+          "filename": "20260428_133206.webp"
+        },
+        {
+          "id": "people-20260428_133207",
+          "category": "people",
+          "full": "public/photos/day18_istanbul_theodosian_walls/people/full/20260428_133207.webp",
+          "thumb": "public/photos/day18_istanbul_theodosian_walls/people/thumbs/20260428_133207.webp",
+          "filename": "20260428_133207.webp"
+        },
+        {
+          "id": "people-20260428_133210",
+          "category": "people",
+          "full": "public/photos/day18_istanbul_theodosian_walls/people/full/20260428_133210.webp",
+          "thumb": "public/photos/day18_istanbul_theodosian_walls/people/thumbs/20260428_133210.webp",
+          "filename": "20260428_133210.webp"
+        },
+        {
+          "id": "people-20260428_133301",
+          "category": "people",
+          "full": "public/photos/day18_istanbul_theodosian_walls/people/full/20260428_133301.webp",
+          "thumb": "public/photos/day18_istanbul_theodosian_walls/people/thumbs/20260428_133301.webp",
+          "filename": "20260428_133301.webp"
+        },
+        {
+          "id": "people-20260428_133312",
+          "category": "people",
+          "full": "public/photos/day18_istanbul_theodosian_walls/people/full/20260428_133312.webp",
+          "thumb": "public/photos/day18_istanbul_theodosian_walls/people/thumbs/20260428_133312.webp",
+          "filename": "20260428_133312.webp"
+        },
+        {
+          "id": "people-20260428_133315",
+          "category": "people",
+          "full": "public/photos/day18_istanbul_theodosian_walls/people/full/20260428_133315.webp",
+          "thumb": "public/photos/day18_istanbul_theodosian_walls/people/thumbs/20260428_133315.webp",
+          "filename": "20260428_133315.webp"
+        }
+      ]
+    },
+    "places": {
+      "count": 47,
+      "photos": [
+        {
+          "id": "places-20260428_083544",
+          "category": "places",
+          "full": "public/photos/day18_istanbul_theodosian_walls/places/full/20260428_083544.webp",
+          "thumb": "public/photos/day18_istanbul_theodosian_walls/places/thumbs/20260428_083544.webp",
+          "filename": "20260428_083544.webp"
+        },
+        {
+          "id": "places-20260428_085010",
+          "category": "places",
+          "full": "public/photos/day18_istanbul_theodosian_walls/places/full/20260428_085010.webp",
+          "thumb": "public/photos/day18_istanbul_theodosian_walls/places/thumbs/20260428_085010.webp",
+          "filename": "20260428_085010.webp"
+        },
+        {
+          "id": "places-20260428_105416",
+          "category": "places",
+          "full": "public/photos/day18_istanbul_theodosian_walls/places/full/20260428_105416.webp",
+          "thumb": "public/photos/day18_istanbul_theodosian_walls/places/thumbs/20260428_105416.webp",
+          "filename": "20260428_105416.webp"
+        },
+        {
+          "id": "places-20260428_112126",
+          "category": "places",
+          "full": "public/photos/day18_istanbul_theodosian_walls/places/full/20260428_112126.webp",
+          "thumb": "public/photos/day18_istanbul_theodosian_walls/places/thumbs/20260428_112126.webp",
+          "filename": "20260428_112126.webp"
+        },
+        {
+          "id": "places-20260428_112916",
+          "category": "places",
+          "full": "public/photos/day18_istanbul_theodosian_walls/places/full/20260428_112916.webp",
+          "thumb": "public/photos/day18_istanbul_theodosian_walls/places/thumbs/20260428_112916.webp",
+          "filename": "20260428_112916.webp"
+        },
+        {
+          "id": "places-20260428_112919",
+          "category": "places",
+          "full": "public/photos/day18_istanbul_theodosian_walls/places/full/20260428_112919.webp",
+          "thumb": "public/photos/day18_istanbul_theodosian_walls/places/thumbs/20260428_112919.webp",
+          "filename": "20260428_112919.webp"
+        },
+        {
+          "id": "places-20260428_113521",
+          "category": "places",
+          "full": "public/photos/day18_istanbul_theodosian_walls/places/full/20260428_113521.webp",
+          "thumb": "public/photos/day18_istanbul_theodosian_walls/places/thumbs/20260428_113521.webp",
+          "filename": "20260428_113521.webp"
+        },
+        {
+          "id": "places-20260428_113532",
+          "category": "places",
+          "full": "public/photos/day18_istanbul_theodosian_walls/places/full/20260428_113532.webp",
+          "thumb": "public/photos/day18_istanbul_theodosian_walls/places/thumbs/20260428_113532.webp",
+          "filename": "20260428_113532.webp"
+        },
+        {
+          "id": "places-20260428_113939",
+          "category": "places",
+          "full": "public/photos/day18_istanbul_theodosian_walls/places/full/20260428_113939.webp",
+          "thumb": "public/photos/day18_istanbul_theodosian_walls/places/thumbs/20260428_113939.webp",
+          "filename": "20260428_113939.webp"
+        },
+        {
+          "id": "places-20260428_124414",
+          "category": "places",
+          "full": "public/photos/day18_istanbul_theodosian_walls/places/full/20260428_124414.webp",
+          "thumb": "public/photos/day18_istanbul_theodosian_walls/places/thumbs/20260428_124414.webp",
+          "filename": "20260428_124414.webp"
+        },
+        {
+          "id": "places-20260428_125121",
+          "category": "places",
+          "full": "public/photos/day18_istanbul_theodosian_walls/places/full/20260428_125121.webp",
+          "thumb": "public/photos/day18_istanbul_theodosian_walls/places/thumbs/20260428_125121.webp",
+          "filename": "20260428_125121.webp"
+        },
+        {
+          "id": "places-20260428_125153",
+          "category": "places",
+          "full": "public/photos/day18_istanbul_theodosian_walls/places/full/20260428_125153.webp",
+          "thumb": "public/photos/day18_istanbul_theodosian_walls/places/thumbs/20260428_125153.webp",
+          "filename": "20260428_125153.webp"
+        },
+        {
+          "id": "places-20260428_125404",
+          "category": "places",
+          "full": "public/photos/day18_istanbul_theodosian_walls/places/full/20260428_125404.webp",
+          "thumb": "public/photos/day18_istanbul_theodosian_walls/places/thumbs/20260428_125404.webp",
+          "filename": "20260428_125404.webp"
+        },
+        {
+          "id": "places-20260428_130624",
+          "category": "places",
+          "full": "public/photos/day18_istanbul_theodosian_walls/places/full/20260428_130624.webp",
+          "thumb": "public/photos/day18_istanbul_theodosian_walls/places/thumbs/20260428_130624.webp",
+          "filename": "20260428_130624.webp"
+        },
+        {
+          "id": "places-20260428_131018",
+          "category": "places",
+          "full": "public/photos/day18_istanbul_theodosian_walls/places/full/20260428_131018.webp",
+          "thumb": "public/photos/day18_istanbul_theodosian_walls/places/thumbs/20260428_131018.webp",
+          "filename": "20260428_131018.webp"
+        },
+        {
+          "id": "places-20260428_131912",
+          "category": "places",
+          "full": "public/photos/day18_istanbul_theodosian_walls/places/full/20260428_131912.webp",
+          "thumb": "public/photos/day18_istanbul_theodosian_walls/places/thumbs/20260428_131912.webp",
+          "filename": "20260428_131912.webp"
+        },
+        {
+          "id": "places-20260428_135141",
+          "category": "places",
+          "full": "public/photos/day18_istanbul_theodosian_walls/places/full/20260428_135141.webp",
+          "thumb": "public/photos/day18_istanbul_theodosian_walls/places/thumbs/20260428_135141.webp",
+          "filename": "20260428_135141.webp"
+        },
+        {
+          "id": "places-20260428_141644",
+          "category": "places",
+          "full": "public/photos/day18_istanbul_theodosian_walls/places/full/20260428_141644.webp",
+          "thumb": "public/photos/day18_istanbul_theodosian_walls/places/thumbs/20260428_141644.webp",
+          "filename": "20260428_141644.webp"
+        },
+        {
+          "id": "places-20260428_142320",
+          "category": "places",
+          "full": "public/photos/day18_istanbul_theodosian_walls/places/full/20260428_142320.webp",
+          "thumb": "public/photos/day18_istanbul_theodosian_walls/places/thumbs/20260428_142320.webp",
+          "filename": "20260428_142320.webp"
+        },
+        {
+          "id": "places-20260428_142413",
+          "category": "places",
+          "full": "public/photos/day18_istanbul_theodosian_walls/places/full/20260428_142413.webp",
+          "thumb": "public/photos/day18_istanbul_theodosian_walls/places/thumbs/20260428_142413.webp",
+          "filename": "20260428_142413.webp"
+        },
+        {
+          "id": "places-20260428_142710",
+          "category": "places",
+          "full": "public/photos/day18_istanbul_theodosian_walls/places/full/20260428_142710.webp",
+          "thumb": "public/photos/day18_istanbul_theodosian_walls/places/thumbs/20260428_142710.webp",
+          "filename": "20260428_142710.webp"
+        },
+        {
+          "id": "places-20260428_143845",
+          "category": "places",
+          "full": "public/photos/day18_istanbul_theodosian_walls/places/full/20260428_143845.webp",
+          "thumb": "public/photos/day18_istanbul_theodosian_walls/places/thumbs/20260428_143845.webp",
+          "filename": "20260428_143845.webp"
+        },
+        {
+          "id": "places-20260428_150136",
+          "category": "places",
+          "full": "public/photos/day18_istanbul_theodosian_walls/places/full/20260428_150136.webp",
+          "thumb": "public/photos/day18_istanbul_theodosian_walls/places/thumbs/20260428_150136.webp",
+          "filename": "20260428_150136.webp"
+        },
+        {
+          "id": "places-20260428_150722",
+          "category": "places",
+          "full": "public/photos/day18_istanbul_theodosian_walls/places/full/20260428_150722.webp",
+          "thumb": "public/photos/day18_istanbul_theodosian_walls/places/thumbs/20260428_150722.webp",
+          "filename": "20260428_150722.webp"
+        },
+        {
+          "id": "places-20260428_151125",
+          "category": "places",
+          "full": "public/photos/day18_istanbul_theodosian_walls/places/full/20260428_151125.webp",
+          "thumb": "public/photos/day18_istanbul_theodosian_walls/places/thumbs/20260428_151125.webp",
+          "filename": "20260428_151125.webp"
+        },
+        {
+          "id": "places-20260428_151637",
+          "category": "places",
+          "full": "public/photos/day18_istanbul_theodosian_walls/places/full/20260428_151637.webp",
+          "thumb": "public/photos/day18_istanbul_theodosian_walls/places/thumbs/20260428_151637.webp",
+          "filename": "20260428_151637.webp"
+        },
+        {
+          "id": "places-20260428_152850",
+          "category": "places",
+          "full": "public/photos/day18_istanbul_theodosian_walls/places/full/20260428_152850.webp",
+          "thumb": "public/photos/day18_istanbul_theodosian_walls/places/thumbs/20260428_152850.webp",
+          "filename": "20260428_152850.webp"
+        },
+        {
+          "id": "places-20260428_152902",
+          "category": "places",
+          "full": "public/photos/day18_istanbul_theodosian_walls/places/full/20260428_152902.webp",
+          "thumb": "public/photos/day18_istanbul_theodosian_walls/places/thumbs/20260428_152902.webp",
+          "filename": "20260428_152902.webp"
+        },
+        {
+          "id": "places-20260428_160148",
+          "category": "places",
+          "full": "public/photos/day18_istanbul_theodosian_walls/places/full/20260428_160148.webp",
+          "thumb": "public/photos/day18_istanbul_theodosian_walls/places/thumbs/20260428_160148.webp",
+          "filename": "20260428_160148.webp"
+        },
+        {
+          "id": "places-20260428_161033",
+          "category": "places",
+          "full": "public/photos/day18_istanbul_theodosian_walls/places/full/20260428_161033.webp",
+          "thumb": "public/photos/day18_istanbul_theodosian_walls/places/thumbs/20260428_161033.webp",
+          "filename": "20260428_161033.webp"
+        },
+        {
+          "id": "places-20260428_161611",
+          "category": "places",
+          "full": "public/photos/day18_istanbul_theodosian_walls/places/full/20260428_161611.webp",
+          "thumb": "public/photos/day18_istanbul_theodosian_walls/places/thumbs/20260428_161611.webp",
+          "filename": "20260428_161611.webp"
+        },
+        {
+          "id": "places-20260428_161944",
+          "category": "places",
+          "full": "public/photos/day18_istanbul_theodosian_walls/places/full/20260428_161944.webp",
+          "thumb": "public/photos/day18_istanbul_theodosian_walls/places/thumbs/20260428_161944.webp",
+          "filename": "20260428_161944.webp"
+        },
+        {
+          "id": "places-20260428_162119",
+          "category": "places",
+          "full": "public/photos/day18_istanbul_theodosian_walls/places/full/20260428_162119.webp",
+          "thumb": "public/photos/day18_istanbul_theodosian_walls/places/thumbs/20260428_162119.webp",
+          "filename": "20260428_162119.webp"
+        },
+        {
+          "id": "places-20260428_162219",
+          "category": "places",
+          "full": "public/photos/day18_istanbul_theodosian_walls/places/full/20260428_162219.webp",
+          "thumb": "public/photos/day18_istanbul_theodosian_walls/places/thumbs/20260428_162219.webp",
+          "filename": "20260428_162219.webp"
+        },
+        {
+          "id": "places-20260428_163611",
+          "category": "places",
+          "full": "public/photos/day18_istanbul_theodosian_walls/places/full/20260428_163611.webp",
+          "thumb": "public/photos/day18_istanbul_theodosian_walls/places/thumbs/20260428_163611.webp",
+          "filename": "20260428_163611.webp"
+        },
+        {
+          "id": "places-20260428_164001",
+          "category": "places",
+          "full": "public/photos/day18_istanbul_theodosian_walls/places/full/20260428_164001.webp",
+          "thumb": "public/photos/day18_istanbul_theodosian_walls/places/thumbs/20260428_164001.webp",
+          "filename": "20260428_164001.webp"
+        },
+        {
+          "id": "places-20260428_174210",
+          "category": "places",
+          "full": "public/photos/day18_istanbul_theodosian_walls/places/full/20260428_174210.webp",
+          "thumb": "public/photos/day18_istanbul_theodosian_walls/places/thumbs/20260428_174210.webp",
+          "filename": "20260428_174210.webp"
+        },
+        {
+          "id": "places-20260428_174451",
+          "category": "places",
+          "full": "public/photos/day18_istanbul_theodosian_walls/places/full/20260428_174451.webp",
+          "thumb": "public/photos/day18_istanbul_theodosian_walls/places/thumbs/20260428_174451.webp",
+          "filename": "20260428_174451.webp"
+        },
+        {
+          "id": "places-20260428_174907",
+          "category": "places",
+          "full": "public/photos/day18_istanbul_theodosian_walls/places/full/20260428_174907.webp",
+          "thumb": "public/photos/day18_istanbul_theodosian_walls/places/thumbs/20260428_174907.webp",
+          "filename": "20260428_174907.webp"
+        },
+        {
+          "id": "places-20260428_174923",
+          "category": "places",
+          "full": "public/photos/day18_istanbul_theodosian_walls/places/full/20260428_174923.webp",
+          "thumb": "public/photos/day18_istanbul_theodosian_walls/places/thumbs/20260428_174923.webp",
+          "filename": "20260428_174923.webp"
+        },
+        {
+          "id": "places-20260428_175358",
+          "category": "places",
+          "full": "public/photos/day18_istanbul_theodosian_walls/places/full/20260428_175358.webp",
+          "thumb": "public/photos/day18_istanbul_theodosian_walls/places/thumbs/20260428_175358.webp",
+          "filename": "20260428_175358.webp"
+        },
+        {
+          "id": "places-20260428_175402",
+          "category": "places",
+          "full": "public/photos/day18_istanbul_theodosian_walls/places/full/20260428_175402.webp",
+          "thumb": "public/photos/day18_istanbul_theodosian_walls/places/thumbs/20260428_175402.webp",
+          "filename": "20260428_175402.webp"
+        },
+        {
+          "id": "places-20260428_180014",
+          "category": "places",
+          "full": "public/photos/day18_istanbul_theodosian_walls/places/full/20260428_180014.webp",
+          "thumb": "public/photos/day18_istanbul_theodosian_walls/places/thumbs/20260428_180014.webp",
+          "filename": "20260428_180014.webp"
+        },
+        {
+          "id": "places-20260428_180340",
+          "category": "places",
+          "full": "public/photos/day18_istanbul_theodosian_walls/places/full/20260428_180340.webp",
+          "thumb": "public/photos/day18_istanbul_theodosian_walls/places/thumbs/20260428_180340.webp",
+          "filename": "20260428_180340.webp"
+        },
+        {
+          "id": "places-20260428_181522",
+          "category": "places",
+          "full": "public/photos/day18_istanbul_theodosian_walls/places/full/20260428_181522.webp",
+          "thumb": "public/photos/day18_istanbul_theodosian_walls/places/thumbs/20260428_181522.webp",
+          "filename": "20260428_181522.webp"
+        },
+        {
+          "id": "places-20260428_182916",
+          "category": "places",
+          "full": "public/photos/day18_istanbul_theodosian_walls/places/full/20260428_182916.webp",
+          "thumb": "public/photos/day18_istanbul_theodosian_walls/places/thumbs/20260428_182916.webp",
+          "filename": "20260428_182916.webp"
+        },
+        {
+          "id": "places-20260428_190959",
+          "category": "places",
+          "full": "public/photos/day18_istanbul_theodosian_walls/places/full/20260428_190959.webp",
+          "thumb": "public/photos/day18_istanbul_theodosian_walls/places/thumbs/20260428_190959.webp",
+          "filename": "20260428_190959.webp"
+        }
+      ]
+    },
+    "animals": {
+      "count": 9,
+      "photos": [
+        {
+          "id": "animals-20260428_082645",
+          "category": "animals",
+          "full": "public/photos/day18_istanbul_theodosian_walls/animals/full/20260428_082645.webp",
+          "thumb": "public/photos/day18_istanbul_theodosian_walls/animals/thumbs/20260428_082645.webp",
+          "filename": "20260428_082645.webp"
+        },
+        {
+          "id": "animals-20260428_123208",
+          "category": "animals",
+          "full": "public/photos/day18_istanbul_theodosian_walls/animals/full/20260428_123208.webp",
+          "thumb": "public/photos/day18_istanbul_theodosian_walls/animals/thumbs/20260428_123208.webp",
+          "filename": "20260428_123208.webp"
+        },
+        {
+          "id": "animals-20260428_132927",
+          "category": "animals",
+          "full": "public/photos/day18_istanbul_theodosian_walls/animals/full/20260428_132927.webp",
+          "thumb": "public/photos/day18_istanbul_theodosian_walls/animals/thumbs/20260428_132927.webp",
+          "filename": "20260428_132927.webp"
+        },
+        {
+          "id": "animals-20260428_143025",
+          "category": "animals",
+          "full": "public/photos/day18_istanbul_theodosian_walls/animals/full/20260428_143025.webp",
+          "thumb": "public/photos/day18_istanbul_theodosian_walls/animals/thumbs/20260428_143025.webp",
+          "filename": "20260428_143025.webp"
+        },
+        {
+          "id": "animals-20260428_155329",
+          "category": "animals",
+          "full": "public/photos/day18_istanbul_theodosian_walls/animals/full/20260428_155329.webp",
+          "thumb": "public/photos/day18_istanbul_theodosian_walls/animals/thumbs/20260428_155329.webp",
+          "filename": "20260428_155329.webp"
+        },
+        {
+          "id": "animals-20260428_155712",
+          "category": "animals",
+          "full": "public/photos/day18_istanbul_theodosian_walls/animals/full/20260428_155712.webp",
+          "thumb": "public/photos/day18_istanbul_theodosian_walls/animals/thumbs/20260428_155712.webp",
+          "filename": "20260428_155712.webp"
+        },
+        {
+          "id": "animals-20260428_165238",
+          "category": "animals",
+          "full": "public/photos/day18_istanbul_theodosian_walls/animals/full/20260428_165238.webp",
+          "thumb": "public/photos/day18_istanbul_theodosian_walls/animals/thumbs/20260428_165238.webp",
+          "filename": "20260428_165238.webp"
+        },
+        {
+          "id": "animals-20260428_182954",
+          "category": "animals",
+          "full": "public/photos/day18_istanbul_theodosian_walls/animals/full/20260428_182954.webp",
+          "thumb": "public/photos/day18_istanbul_theodosian_walls/animals/thumbs/20260428_182954.webp",
+          "filename": "20260428_182954.webp"
+        },
+        {
+          "id": "animals-20260428_211405",
+          "category": "animals",
+          "full": "public/photos/day18_istanbul_theodosian_walls/animals/full/20260428_211405.webp",
+          "thumb": "public/photos/day18_istanbul_theodosian_walls/animals/thumbs/20260428_211405.webp",
+          "filename": "20260428_211405.webp"
+        }
+      ]
+    }
+  }
+}

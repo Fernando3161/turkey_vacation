@@ -1,0 +1,273 @@
+{
+  "slug": "day11_kas_kekova_gulet_cruise",
+  "totalCount": 36,
+  "categories": {
+    "people": {
+      "count": 16,
+      "photos": [
+        {
+          "id": "people-20260421_110407",
+          "category": "people",
+          "full": "public/photos/day11_kas_kekova_gulet_cruise/people/full/20260421_110407.webp",
+          "thumb": "public/photos/day11_kas_kekova_gulet_cruise/people/thumbs/20260421_110407.webp",
+          "filename": "20260421_110407.webp"
+        },
+        {
+          "id": "people-img-20260421-wa0012",
+          "category": "people",
+          "full": "public/photos/day11_kas_kekova_gulet_cruise/people/full/img-20260421-wa0012.webp",
+          "thumb": "public/photos/day11_kas_kekova_gulet_cruise/people/thumbs/img-20260421-wa0012.webp",
+          "filename": "img-20260421-wa0012.webp"
+        },
+        {
+          "id": "people-img-20260421-wa0032",
+          "category": "people",
+          "full": "public/photos/day11_kas_kekova_gulet_cruise/people/full/img-20260421-wa0032.webp",
+          "thumb": "public/photos/day11_kas_kekova_gulet_cruise/people/thumbs/img-20260421-wa0032.webp",
+          "filename": "img-20260421-wa0032.webp"
+        },
+        {
+          "id": "people-img-20260421-wa0034",
+          "category": "people",
+          "full": "public/photos/day11_kas_kekova_gulet_cruise/people/full/img-20260421-wa0034.webp",
+          "thumb": "public/photos/day11_kas_kekova_gulet_cruise/people/thumbs/img-20260421-wa0034.webp",
+          "filename": "img-20260421-wa0034.webp"
+        },
+        {
+          "id": "people-img-20260421-wa0037",
+          "category": "people",
+          "full": "public/photos/day11_kas_kekova_gulet_cruise/people/full/img-20260421-wa0037.webp",
+          "thumb": "public/photos/day11_kas_kekova_gulet_cruise/people/thumbs/img-20260421-wa0037.webp",
+          "filename": "img-20260421-wa0037.webp"
+        },
+        {
+          "id": "people-img-20260421-wa0042",
+          "category": "people",
+          "full": "public/photos/day11_kas_kekova_gulet_cruise/people/full/img-20260421-wa0042.webp",
+          "thumb": "public/photos/day11_kas_kekova_gulet_cruise/people/thumbs/img-20260421-wa0042.webp",
+          "filename": "img-20260421-wa0042.webp"
+        },
+        {
+          "id": "people-img-20260421-wa0052",
+          "category": "people",
+          "full": "public/photos/day11_kas_kekova_gulet_cruise/people/full/img-20260421-wa0052.webp",
+          "thumb": "public/photos/day11_kas_kekova_gulet_cruise/people/thumbs/img-20260421-wa0052.webp",
+          "filename": "img-20260421-wa0052.webp"
+        },
+        {
+          "id": "people-img-20260421-wa0053",
+          "category": "people",
+          "full": "public/photos/day11_kas_kekova_gulet_cruise/people/full/img-20260421-wa0053.webp",
+          "thumb": "public/photos/day11_kas_kekova_gulet_cruise/people/thumbs/img-20260421-wa0053.webp",
+          "filename": "img-20260421-wa0053.webp"
+        },
+        {
+          "id": "people-img-20260421-wa0061",
+          "category": "people",
+          "full": "public/photos/day11_kas_kekova_gulet_cruise/people/full/img-20260421-wa0061.webp",
+          "thumb": "public/photos/day11_kas_kekova_gulet_cruise/people/thumbs/img-20260421-wa0061.webp",
+          "filename": "img-20260421-wa0061.webp"
+        },
+        {
+          "id": "people-img-20260421-wa0079",
+          "category": "people",
+          "full": "public/photos/day11_kas_kekova_gulet_cruise/people/full/img-20260421-wa0079.webp",
+          "thumb": "public/photos/day11_kas_kekova_gulet_cruise/people/thumbs/img-20260421-wa0079.webp",
+          "filename": "img-20260421-wa0079.webp"
+        },
+        {
+          "id": "people-whatsapp_image_2026-05-11_at_11.03.51_(5)",
+          "category": "people",
+          "full": "public/photos/day11_kas_kekova_gulet_cruise/people/full/whatsapp_image_2026-05-11_at_11.03.51_(5).webp",
+          "thumb": "public/photos/day11_kas_kekova_gulet_cruise/people/thumbs/whatsapp_image_2026-05-11_at_11.03.51_(5).webp",
+          "filename": "whatsapp_image_2026-05-11_at_11.03.51_(5).webp"
+        },
+        {
+          "id": "people-whatsapp_image_2026-05-11_at_11.03.52_(3)",
+          "category": "people",
+          "full": "public/photos/day11_kas_kekova_gulet_cruise/people/full/whatsapp_image_2026-05-11_at_11.03.52_(3).webp",
+          "thumb": "public/photos/day11_kas_kekova_gulet_cruise/people/thumbs/whatsapp_image_2026-05-11_at_11.03.52_(3).webp",
+          "filename": "whatsapp_image_2026-05-11_at_11.03.52_(3).webp"
+        },
+        {
+          "id": "people-whatsapp_image_2026-05-11_at_11.03.52",
+          "category": "people",
+          "full": "public/photos/day11_kas_kekova_gulet_cruise/people/full/whatsapp_image_2026-05-11_at_11.03.52.webp",
+          "thumb": "public/photos/day11_kas_kekova_gulet_cruise/people/thumbs/whatsapp_image_2026-05-11_at_11.03.52.webp",
+          "filename": "whatsapp_image_2026-05-11_at_11.03.52.webp"
+        },
+        {
+          "id": "people-whatsapp_image_2026-05-11_at_11.04.04_(1)",
+          "category": "people",
+          "full": "public/photos/day11_kas_kekova_gulet_cruise/people/full/whatsapp_image_2026-05-11_at_11.04.04_(1).webp",
+          "thumb": "public/photos/day11_kas_kekova_gulet_cruise/people/thumbs/whatsapp_image_2026-05-11_at_11.04.04_(1).webp",
+          "filename": "whatsapp_image_2026-05-11_at_11.04.04_(1).webp"
+        },
+        {
+          "id": "people-whatsapp_image_2026-05-11_at_11.04.04_(3)",
+          "category": "people",
+          "full": "public/photos/day11_kas_kekova_gulet_cruise/people/full/whatsapp_image_2026-05-11_at_11.04.04_(3).webp",
+          "thumb": "public/photos/day11_kas_kekova_gulet_cruise/people/thumbs/whatsapp_image_2026-05-11_at_11.04.04_(3).webp",
+          "filename": "whatsapp_image_2026-05-11_at_11.04.04_(3).webp"
+        },
+        {
+          "id": "people-whatsapp_image_2026-05-11_at_11.04.04",
+          "category": "people",
+          "full": "public/photos/day11_kas_kekova_gulet_cruise/people/full/whatsapp_image_2026-05-11_at_11.04.04.webp",
+          "thumb": "public/photos/day11_kas_kekova_gulet_cruise/people/thumbs/whatsapp_image_2026-05-11_at_11.04.04.webp",
+          "filename": "whatsapp_image_2026-05-11_at_11.04.04.webp"
+        }
+      ]
+    },
+    "places": {
+      "count": 9,
+      "photos": [
+        {
+          "id": "places-20260421_095158",
+          "category": "places",
+          "full": "public/photos/day11_kas_kekova_gulet_cruise/places/full/20260421_095158.webp",
+          "thumb": "public/photos/day11_kas_kekova_gulet_cruise/places/thumbs/20260421_095158.webp",
+          "filename": "20260421_095158.webp"
+        },
+        {
+          "id": "places-20260421_100712",
+          "category": "places",
+          "full": "public/photos/day11_kas_kekova_gulet_cruise/places/full/20260421_100712.webp",
+          "thumb": "public/photos/day11_kas_kekova_gulet_cruise/places/thumbs/20260421_100712.webp",
+          "filename": "20260421_100712.webp"
+        },
+        {
+          "id": "places-20260421_100941",
+          "category": "places",
+          "full": "public/photos/day11_kas_kekova_gulet_cruise/places/full/20260421_100941.webp",
+          "thumb": "public/photos/day11_kas_kekova_gulet_cruise/places/thumbs/20260421_100941.webp",
+          "filename": "20260421_100941.webp"
+        },
+        {
+          "id": "places-20260421_101050",
+          "category": "places",
+          "full": "public/photos/day11_kas_kekova_gulet_cruise/places/full/20260421_101050.webp",
+          "thumb": "public/photos/day11_kas_kekova_gulet_cruise/places/thumbs/20260421_101050.webp",
+          "filename": "20260421_101050.webp"
+        },
+        {
+          "id": "places-20260421_112004",
+          "category": "places",
+          "full": "public/photos/day11_kas_kekova_gulet_cruise/places/full/20260421_112004.webp",
+          "thumb": "public/photos/day11_kas_kekova_gulet_cruise/places/thumbs/20260421_112004.webp",
+          "filename": "20260421_112004.webp"
+        },
+        {
+          "id": "places-20260421_112012",
+          "category": "places",
+          "full": "public/photos/day11_kas_kekova_gulet_cruise/places/full/20260421_112012.webp",
+          "thumb": "public/photos/day11_kas_kekova_gulet_cruise/places/thumbs/20260421_112012.webp",
+          "filename": "20260421_112012.webp"
+        },
+        {
+          "id": "places-20260421_184840",
+          "category": "places",
+          "full": "public/photos/day11_kas_kekova_gulet_cruise/places/full/20260421_184840.webp",
+          "thumb": "public/photos/day11_kas_kekova_gulet_cruise/places/thumbs/20260421_184840.webp",
+          "filename": "20260421_184840.webp"
+        },
+        {
+          "id": "places-20260421_212740",
+          "category": "places",
+          "full": "public/photos/day11_kas_kekova_gulet_cruise/places/full/20260421_212740.webp",
+          "thumb": "public/photos/day11_kas_kekova_gulet_cruise/places/thumbs/20260421_212740.webp",
+          "filename": "20260421_212740.webp"
+        },
+        {
+          "id": "places-whatsapp_image_2026-05-11_at_11.04.04_(4)",
+          "category": "places",
+          "full": "public/photos/day11_kas_kekova_gulet_cruise/places/full/whatsapp_image_2026-05-11_at_11.04.04_(4).webp",
+          "thumb": "public/photos/day11_kas_kekova_gulet_cruise/places/thumbs/whatsapp_image_2026-05-11_at_11.04.04_(4).webp",
+          "filename": "whatsapp_image_2026-05-11_at_11.04.04_(4).webp"
+        }
+      ]
+    },
+    "animals": {
+      "count": 11,
+      "photos": [
+        {
+          "id": "animals-20260421_184100",
+          "category": "animals",
+          "full": "public/photos/day11_kas_kekova_gulet_cruise/animals/full/20260421_184100.webp",
+          "thumb": "public/photos/day11_kas_kekova_gulet_cruise/animals/thumbs/20260421_184100.webp",
+          "filename": "20260421_184100.webp"
+        },
+        {
+          "id": "animals-20260421_184231",
+          "category": "animals",
+          "full": "public/photos/day11_kas_kekova_gulet_cruise/animals/full/20260421_184231.webp",
+          "thumb": "public/photos/day11_kas_kekova_gulet_cruise/animals/thumbs/20260421_184231.webp",
+          "filename": "20260421_184231.webp"
+        },
+        {
+          "id": "animals-20260421_184257",
+          "category": "animals",
+          "full": "public/photos/day11_kas_kekova_gulet_cruise/animals/full/20260421_184257.webp",
+          "thumb": "public/photos/day11_kas_kekova_gulet_cruise/animals/thumbs/20260421_184257.webp",
+          "filename": "20260421_184257.webp"
+        },
+        {
+          "id": "animals-20260421_184759",
+          "category": "animals",
+          "full": "public/photos/day11_kas_kekova_gulet_cruise/animals/full/20260421_184759.webp",
+          "thumb": "public/photos/day11_kas_kekova_gulet_cruise/animals/thumbs/20260421_184759.webp",
+          "filename": "20260421_184759.webp"
+        },
+        {
+          "id": "animals-20260421_185413",
+          "category": "animals",
+          "full": "public/photos/day11_kas_kekova_gulet_cruise/animals/full/20260421_185413.webp",
+          "thumb": "public/photos/day11_kas_kekova_gulet_cruise/animals/thumbs/20260421_185413.webp",
+          "filename": "20260421_185413.webp"
+        },
+        {
+          "id": "animals-20260421_191537",
+          "category": "animals",
+          "full": "public/photos/day11_kas_kekova_gulet_cruise/animals/full/20260421_191537.webp",
+          "thumb": "public/photos/day11_kas_kekova_gulet_cruise/animals/thumbs/20260421_191537.webp",
+          "filename": "20260421_191537.webp"
+        },
+        {
+          "id": "animals-20260421_191749",
+          "category": "animals",
+          "full": "public/photos/day11_kas_kekova_gulet_cruise/animals/full/20260421_191749.webp",
+          "thumb": "public/photos/day11_kas_kekova_gulet_cruise/animals/thumbs/20260421_191749.webp",
+          "filename": "20260421_191749.webp"
+        },
+        {
+          "id": "animals-20260421_192312",
+          "category": "animals",
+          "full": "public/photos/day11_kas_kekova_gulet_cruise/animals/full/20260421_192312.webp",
+          "thumb": "public/photos/day11_kas_kekova_gulet_cruise/animals/thumbs/20260421_192312.webp",
+          "filename": "20260421_192312.webp"
+        },
+        {
+          "id": "animals-20260421_192407",
+          "category": "animals",
+          "full": "public/photos/day11_kas_kekova_gulet_cruise/animals/full/20260421_192407.webp",
+          "thumb": "public/photos/day11_kas_kekova_gulet_cruise/animals/thumbs/20260421_192407.webp",
+          "filename": "20260421_192407.webp"
+        },
+        {
+          "id": "animals-20260421_193416",
+          "category": "animals",
+          "full": "public/photos/day11_kas_kekova_gulet_cruise/animals/full/20260421_193416.webp",
+          "thumb": "public/photos/day11_kas_kekova_gulet_cruise/animals/thumbs/20260421_193416.webp",
+          "filename": "20260421_193416.webp"
+        },
+        {
+          "id": "animals-20260421_205805",
+          "category": "animals",
+          "full": "public/photos/day11_kas_kekova_gulet_cruise/animals/full/20260421_205805.webp",
+          "thumb": "public/photos/day11_kas_kekova_gulet_cruise/animals/thumbs/20260421_205805.webp",
+          "filename": "20260421_205805.webp"
+        }
+      ]
+    }
+  }
+}

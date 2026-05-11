@@ -1,0 +1,216 @@
+{
+  "slug": "day1_istanbul_topkapi_palace",
+  "totalCount": 28,
+  "categories": {
+    "people": {
+      "count": 0,
+      "photos": []
+    },
+    "places": {
+      "count": 22,
+      "photos": [
+        {
+          "id": "places-20260411_102052",
+          "category": "places",
+          "full": "public/photos/day1_istanbul_topkapi_palace/places/full/20260411_102052.webp",
+          "thumb": "public/photos/day1_istanbul_topkapi_palace/places/thumbs/20260411_102052.webp",
+          "filename": "20260411_102052.webp"
+        },
+        {
+          "id": "places-20260411_102104",
+          "category": "places",
+          "full": "public/photos/day1_istanbul_topkapi_palace/places/full/20260411_102104.webp",
+          "thumb": "public/photos/day1_istanbul_topkapi_palace/places/thumbs/20260411_102104.webp",
+          "filename": "20260411_102104.webp"
+        },
+        {
+          "id": "places-20260411_102150",
+          "category": "places",
+          "full": "public/photos/day1_istanbul_topkapi_palace/places/full/20260411_102150.webp",
+          "thumb": "public/photos/day1_istanbul_topkapi_palace/places/thumbs/20260411_102150.webp",
+          "filename": "20260411_102150.webp"
+        },
+        {
+          "id": "places-20260411_103609",
+          "category": "places",
+          "full": "public/photos/day1_istanbul_topkapi_palace/places/full/20260411_103609.webp",
+          "thumb": "public/photos/day1_istanbul_topkapi_palace/places/thumbs/20260411_103609.webp",
+          "filename": "20260411_103609.webp"
+        },
+        {
+          "id": "places-20260411_114155",
+          "category": "places",
+          "full": "public/photos/day1_istanbul_topkapi_palace/places/full/20260411_114155.webp",
+          "thumb": "public/photos/day1_istanbul_topkapi_palace/places/thumbs/20260411_114155.webp",
+          "filename": "20260411_114155.webp"
+        },
+        {
+          "id": "places-20260411_121659",
+          "category": "places",
+          "full": "public/photos/day1_istanbul_topkapi_palace/places/full/20260411_121659.webp",
+          "thumb": "public/photos/day1_istanbul_topkapi_palace/places/thumbs/20260411_121659.webp",
+          "filename": "20260411_121659.webp"
+        },
+        {
+          "id": "places-20260411_121926",
+          "category": "places",
+          "full": "public/photos/day1_istanbul_topkapi_palace/places/full/20260411_121926.webp",
+          "thumb": "public/photos/day1_istanbul_topkapi_palace/places/thumbs/20260411_121926.webp",
+          "filename": "20260411_121926.webp"
+        },
+        {
+          "id": "places-20260411_130046",
+          "category": "places",
+          "full": "public/photos/day1_istanbul_topkapi_palace/places/full/20260411_130046.webp",
+          "thumb": "public/photos/day1_istanbul_topkapi_palace/places/thumbs/20260411_130046.webp",
+          "filename": "20260411_130046.webp"
+        },
+        {
+          "id": "places-20260411_130823",
+          "category": "places",
+          "full": "public/photos/day1_istanbul_topkapi_palace/places/full/20260411_130823.webp",
+          "thumb": "public/photos/day1_istanbul_topkapi_palace/places/thumbs/20260411_130823.webp",
+          "filename": "20260411_130823.webp"
+        },
+        {
+          "id": "places-20260411_131110",
+          "category": "places",
+          "full": "public/photos/day1_istanbul_topkapi_palace/places/full/20260411_131110.webp",
+          "thumb": "public/photos/day1_istanbul_topkapi_palace/places/thumbs/20260411_131110.webp",
+          "filename": "20260411_131110.webp"
+        },
+        {
+          "id": "places-20260411_131259",
+          "category": "places",
+          "full": "public/photos/day1_istanbul_topkapi_palace/places/full/20260411_131259.webp",
+          "thumb": "public/photos/day1_istanbul_topkapi_palace/places/thumbs/20260411_131259.webp",
+          "filename": "20260411_131259.webp"
+        },
+        {
+          "id": "places-20260411_131449",
+          "category": "places",
+          "full": "public/photos/day1_istanbul_topkapi_palace/places/full/20260411_131449.webp",
+          "thumb": "public/photos/day1_istanbul_topkapi_palace/places/thumbs/20260411_131449.webp",
+          "filename": "20260411_131449.webp"
+        },
+        {
+          "id": "places-20260411_131828",
+          "category": "places",
+          "full": "public/photos/day1_istanbul_topkapi_palace/places/full/20260411_131828.webp",
+          "thumb": "public/photos/day1_istanbul_topkapi_palace/places/thumbs/20260411_131828.webp",
+          "filename": "20260411_131828.webp"
+        },
+        {
+          "id": "places-20260411_133415",
+          "category": "places",
+          "full": "public/photos/day1_istanbul_topkapi_palace/places/full/20260411_133415.webp",
+          "thumb": "public/photos/day1_istanbul_topkapi_palace/places/thumbs/20260411_133415.webp",
+          "filename": "20260411_133415.webp"
+        },
+        {
+          "id": "places-20260411_134538",
+          "category": "places",
+          "full": "public/photos/day1_istanbul_topkapi_palace/places/full/20260411_134538.webp",
+          "thumb": "public/photos/day1_istanbul_topkapi_palace/places/thumbs/20260411_134538.webp",
+          "filename": "20260411_134538.webp"
+        },
+        {
+          "id": "places-20260411_181455",
+          "category": "places",
+          "full": "public/photos/day1_istanbul_topkapi_palace/places/full/20260411_181455.webp",
+          "thumb": "public/photos/day1_istanbul_topkapi_palace/places/thumbs/20260411_181455.webp",
+          "filename": "20260411_181455.webp"
+        },
+        {
+          "id": "places-20260411_182552",
+          "category": "places",
+          "full": "public/photos/day1_istanbul_topkapi_palace/places/full/20260411_182552.webp",
+          "thumb": "public/photos/day1_istanbul_topkapi_palace/places/thumbs/20260411_182552.webp",
+          "filename": "20260411_182552.webp"
+        },
+        {
+          "id": "places-20260411_182842",
+          "category": "places",
+          "full": "public/photos/day1_istanbul_topkapi_palace/places/full/20260411_182842.webp",
+          "thumb": "public/photos/day1_istanbul_topkapi_palace/places/thumbs/20260411_182842.webp",
+          "filename": "20260411_182842.webp"
+        },
+        {
+          "id": "places-20260411_183222",
+          "category": "places",
+          "full": "public/photos/day1_istanbul_topkapi_palace/places/full/20260411_183222.webp",
+          "thumb": "public/photos/day1_istanbul_topkapi_palace/places/thumbs/20260411_183222.webp",
+          "filename": "20260411_183222.webp"
+        },
+        {
+          "id": "places-20260411_192723",
+          "category": "places",
+          "full": "public/photos/day1_istanbul_topkapi_palace/places/full/20260411_192723.webp",
+          "thumb": "public/photos/day1_istanbul_topkapi_palace/places/thumbs/20260411_192723.webp",
+          "filename": "20260411_192723.webp"
+        },
+        {
+          "id": "places-20260411_200025",
+          "category": "places",
+          "full": "public/photos/day1_istanbul_topkapi_palace/places/full/20260411_200025.webp",
+          "thumb": "public/photos/day1_istanbul_topkapi_palace/places/thumbs/20260411_200025.webp",
+          "filename": "20260411_200025.webp"
+        },
+        {
+          "id": "places-20260411_200619",
+          "category": "places",
+          "full": "public/photos/day1_istanbul_topkapi_palace/places/full/20260411_200619.webp",
+          "thumb": "public/photos/day1_istanbul_topkapi_palace/places/thumbs/20260411_200619.webp",
+          "filename": "20260411_200619.webp"
+        }
+      ]
+    },
+    "animals": {
+      "count": 6,
+      "photos": [
+        {
+          "id": "animals-20260411_102212",
+          "category": "animals",
+          "full": "public/photos/day1_istanbul_topkapi_palace/animals/full/20260411_102212.webp",
+          "thumb": "public/photos/day1_istanbul_topkapi_palace/animals/thumbs/20260411_102212.webp",
+          "filename": "20260411_102212.webp"
+        },
+        {
+          "id": "animals-20260411_102355",
+          "category": "animals",
+          "full": "public/photos/day1_istanbul_topkapi_palace/animals/full/20260411_102355.webp",
+          "thumb": "public/photos/day1_istanbul_topkapi_palace/animals/thumbs/20260411_102355.webp",
+          "filename": "20260411_102355.webp"
+        },
+        {
+          "id": "animals-20260411_114249",
+          "category": "animals",
+          "full": "public/photos/day1_istanbul_topkapi_palace/animals/full/20260411_114249.webp",
+          "thumb": "public/photos/day1_istanbul_topkapi_palace/animals/thumbs/20260411_114249.webp",
+          "filename": "20260411_114249.webp"
+        },
+        {
+          "id": "animals-20260411_181357",
+          "category": "animals",
+          "full": "public/photos/day1_istanbul_topkapi_palace/animals/full/20260411_181357.webp",
+          "thumb": "public/photos/day1_istanbul_topkapi_palace/animals/thumbs/20260411_181357.webp",
+          "filename": "20260411_181357.webp"
+        },
+        {
+          "id": "animals-20260411_182237",
+          "category": "animals",
+          "full": "public/photos/day1_istanbul_topkapi_palace/animals/full/20260411_182237.webp",
+          "thumb": "public/photos/day1_istanbul_topkapi_palace/animals/thumbs/20260411_182237.webp",
+          "filename": "20260411_182237.webp"
+        },
+        {
+          "id": "animals-20260411_182420",
+          "category": "animals",
+          "full": "public/photos/day1_istanbul_topkapi_palace/animals/full/20260411_182420.webp",
+          "thumb": "public/photos/day1_istanbul_topkapi_palace/animals/thumbs/20260411_182420.webp",
+          "filename": "20260411_182420.webp"
+        }
+      ]
+    }
+  }
+}

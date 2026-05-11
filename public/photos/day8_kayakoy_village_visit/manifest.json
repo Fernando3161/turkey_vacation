@@ -1,0 +1,182 @@
+{
+  "slug": "day8_kayakoy_village_visit",
+  "totalCount": 23,
+  "categories": {
+    "people": {
+      "count": 5,
+      "photos": [
+        {
+          "id": "people-20260418_171055",
+          "category": "people",
+          "full": "public/photos/day8_kayakoy_village_visit/people/full/20260418_171055.webp",
+          "thumb": "public/photos/day8_kayakoy_village_visit/people/thumbs/20260418_171055.webp",
+          "filename": "20260418_171055.webp"
+        },
+        {
+          "id": "people-20260418_183352",
+          "category": "people",
+          "full": "public/photos/day8_kayakoy_village_visit/people/full/20260418_183352.webp",
+          "thumb": "public/photos/day8_kayakoy_village_visit/people/thumbs/20260418_183352.webp",
+          "filename": "20260418_183352.webp"
+        },
+        {
+          "id": "people-img-20260418-wa0035",
+          "category": "people",
+          "full": "public/photos/day8_kayakoy_village_visit/people/full/img-20260418-wa0035.webp",
+          "thumb": "public/photos/day8_kayakoy_village_visit/people/thumbs/img-20260418-wa0035.webp",
+          "filename": "img-20260418-wa0035.webp"
+        },
+        {
+          "id": "people-img-20260418-wa0042",
+          "category": "people",
+          "full": "public/photos/day8_kayakoy_village_visit/people/full/img-20260418-wa0042.webp",
+          "thumb": "public/photos/day8_kayakoy_village_visit/people/thumbs/img-20260418-wa0042.webp",
+          "filename": "img-20260418-wa0042.webp"
+        },
+        {
+          "id": "people-img-20260418-wa0046",
+          "category": "people",
+          "full": "public/photos/day8_kayakoy_village_visit/people/full/img-20260418-wa0046.webp",
+          "thumb": "public/photos/day8_kayakoy_village_visit/people/thumbs/img-20260418-wa0046.webp",
+          "filename": "img-20260418-wa0046.webp"
+        }
+      ]
+    },
+    "places": {
+      "count": 6,
+      "photos": [
+        {
+          "id": "places-20260418_152607",
+          "category": "places",
+          "full": "public/photos/day8_kayakoy_village_visit/places/full/20260418_152607.webp",
+          "thumb": "public/photos/day8_kayakoy_village_visit/places/thumbs/20260418_152607.webp",
+          "filename": "20260418_152607.webp"
+        },
+        {
+          "id": "places-20260418_153850",
+          "category": "places",
+          "full": "public/photos/day8_kayakoy_village_visit/places/full/20260418_153850.webp",
+          "thumb": "public/photos/day8_kayakoy_village_visit/places/thumbs/20260418_153850.webp",
+          "filename": "20260418_153850.webp"
+        },
+        {
+          "id": "places-20260418_155743",
+          "category": "places",
+          "full": "public/photos/day8_kayakoy_village_visit/places/full/20260418_155743.webp",
+          "thumb": "public/photos/day8_kayakoy_village_visit/places/thumbs/20260418_155743.webp",
+          "filename": "20260418_155743.webp"
+        },
+        {
+          "id": "places-20260418_175552",
+          "category": "places",
+          "full": "public/photos/day8_kayakoy_village_visit/places/full/20260418_175552.webp",
+          "thumb": "public/photos/day8_kayakoy_village_visit/places/thumbs/20260418_175552.webp",
+          "filename": "20260418_175552.webp"
+        },
+        {
+          "id": "places-20260418_175607",
+          "category": "places",
+          "full": "public/photos/day8_kayakoy_village_visit/places/full/20260418_175607.webp",
+          "thumb": "public/photos/day8_kayakoy_village_visit/places/thumbs/20260418_175607.webp",
+          "filename": "20260418_175607.webp"
+        },
+        {
+          "id": "places-20260418_182134",
+          "category": "places",
+          "full": "public/photos/day8_kayakoy_village_visit/places/full/20260418_182134.webp",
+          "thumb": "public/photos/day8_kayakoy_village_visit/places/thumbs/20260418_182134.webp",
+          "filename": "20260418_182134.webp"
+        }
+      ]
+    },
+    "animals": {
+      "count": 12,
+      "photos": [
+        {
+          "id": "animals-20260418_133706",
+          "category": "animals",
+          "full": "public/photos/day8_kayakoy_village_visit/animals/full/20260418_133706.webp",
+          "thumb": "public/photos/day8_kayakoy_village_visit/animals/thumbs/20260418_133706.webp",
+          "filename": "20260418_133706.webp"
+        },
+        {
+          "id": "animals-20260418_164406",
+          "category": "animals",
+          "full": "public/photos/day8_kayakoy_village_visit/animals/full/20260418_164406.webp",
+          "thumb": "public/photos/day8_kayakoy_village_visit/animals/thumbs/20260418_164406.webp",
+          "filename": "20260418_164406.webp"
+        },
+        {
+          "id": "animals-20260418_165230",
+          "category": "animals",
+          "full": "public/photos/day8_kayakoy_village_visit/animals/full/20260418_165230.webp",
+          "thumb": "public/photos/day8_kayakoy_village_visit/animals/thumbs/20260418_165230.webp",
+          "filename": "20260418_165230.webp"
+        },
+        {
+          "id": "animals-20260418_165622",
+          "category": "animals",
+          "full": "public/photos/day8_kayakoy_village_visit/animals/full/20260418_165622.webp",
+          "thumb": "public/photos/day8_kayakoy_village_visit/animals/thumbs/20260418_165622.webp",
+          "filename": "20260418_165622.webp"
+        },
+        {
+          "id": "animals-20260418_165632",
+          "category": "animals",
+          "full": "public/photos/day8_kayakoy_village_visit/animals/full/20260418_165632.webp",
+          "thumb": "public/photos/day8_kayakoy_village_visit/animals/thumbs/20260418_165632.webp",
+          "filename": "20260418_165632.webp"
+        },
+        {
+          "id": "animals-20260418_165750",
+          "category": "animals",
+          "full": "public/photos/day8_kayakoy_village_visit/animals/full/20260418_165750.webp",
+          "thumb": "public/photos/day8_kayakoy_village_visit/animals/thumbs/20260418_165750.webp",
+          "filename": "20260418_165750.webp"
+        },
+        {
+          "id": "animals-20260418_165817",
+          "category": "animals",
+          "full": "public/photos/day8_kayakoy_village_visit/animals/full/20260418_165817.webp",
+          "thumb": "public/photos/day8_kayakoy_village_visit/animals/thumbs/20260418_165817.webp",
+          "filename": "20260418_165817.webp"
+        },
+        {
+          "id": "animals-20260418_170254",
+          "category": "animals",
+          "full": "public/photos/day8_kayakoy_village_visit/animals/full/20260418_170254.webp",
+          "thumb": "public/photos/day8_kayakoy_village_visit/animals/thumbs/20260418_170254.webp",
+          "filename": "20260418_170254.webp"
+        },
+        {
+          "id": "animals-20260418_191212",
+          "category": "animals",
+          "full": "public/photos/day8_kayakoy_village_visit/animals/full/20260418_191212.webp",
+          "thumb": "public/photos/day8_kayakoy_village_visit/animals/thumbs/20260418_191212.webp",
+          "filename": "20260418_191212.webp"
+        },
+        {
+          "id": "animals-20260418_192706",
+          "category": "animals",
+          "full": "public/photos/day8_kayakoy_village_visit/animals/full/20260418_192706.webp",
+          "thumb": "public/photos/day8_kayakoy_village_visit/animals/thumbs/20260418_192706.webp",
+          "filename": "20260418_192706.webp"
+        },
+        {
+          "id": "animals-20260418_195523",
+          "category": "animals",
+          "full": "public/photos/day8_kayakoy_village_visit/animals/full/20260418_195523.webp",
+          "thumb": "public/photos/day8_kayakoy_village_visit/animals/thumbs/20260418_195523.webp",
+          "filename": "20260418_195523.webp"
+        },
+        {
+          "id": "animals-20260418_201216",
+          "category": "animals",
+          "full": "public/photos/day8_kayakoy_village_visit/animals/full/20260418_201216.webp",
+          "thumb": "public/photos/day8_kayakoy_village_visit/animals/thumbs/20260418_201216.webp",
+          "filename": "20260418_201216.webp"
+        }
+      ]
+    }
+  }
+}

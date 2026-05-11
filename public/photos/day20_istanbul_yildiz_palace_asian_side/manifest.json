@@ -1,0 +1,608 @@
+{
+  "slug": "day20_istanbul_yildiz_palace_asian_side",
+  "totalCount": 84,
+  "categories": {
+    "people": {
+      "count": 0,
+      "photos": []
+    },
+    "places": {
+      "count": 57,
+      "photos": [
+        {
+          "id": "places-20260430_091350",
+          "category": "places",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/full/20260430_091350.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/thumbs/20260430_091350.webp",
+          "filename": "20260430_091350.webp"
+        },
+        {
+          "id": "places-20260430_091542",
+          "category": "places",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/full/20260430_091542.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/thumbs/20260430_091542.webp",
+          "filename": "20260430_091542.webp"
+        },
+        {
+          "id": "places-20260430_091624",
+          "category": "places",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/full/20260430_091624.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/thumbs/20260430_091624.webp",
+          "filename": "20260430_091624.webp"
+        },
+        {
+          "id": "places-20260430_092015",
+          "category": "places",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/full/20260430_092015.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/thumbs/20260430_092015.webp",
+          "filename": "20260430_092015.webp"
+        },
+        {
+          "id": "places-20260430_092528",
+          "category": "places",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/full/20260430_092528.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/thumbs/20260430_092528.webp",
+          "filename": "20260430_092528.webp"
+        },
+        {
+          "id": "places-20260430_093103",
+          "category": "places",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/full/20260430_093103.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/thumbs/20260430_093103.webp",
+          "filename": "20260430_093103.webp"
+        },
+        {
+          "id": "places-20260430_093415",
+          "category": "places",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/full/20260430_093415.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/thumbs/20260430_093415.webp",
+          "filename": "20260430_093415.webp"
+        },
+        {
+          "id": "places-20260430_093726",
+          "category": "places",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/full/20260430_093726.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/thumbs/20260430_093726.webp",
+          "filename": "20260430_093726.webp"
+        },
+        {
+          "id": "places-20260430_100048",
+          "category": "places",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/full/20260430_100048.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/thumbs/20260430_100048.webp",
+          "filename": "20260430_100048.webp"
+        },
+        {
+          "id": "places-20260430_100157",
+          "category": "places",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/full/20260430_100157.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/thumbs/20260430_100157.webp",
+          "filename": "20260430_100157.webp"
+        },
+        {
+          "id": "places-20260430_100416",
+          "category": "places",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/full/20260430_100416.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/thumbs/20260430_100416.webp",
+          "filename": "20260430_100416.webp"
+        },
+        {
+          "id": "places-20260430_102232",
+          "category": "places",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/full/20260430_102232.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/thumbs/20260430_102232.webp",
+          "filename": "20260430_102232.webp"
+        },
+        {
+          "id": "places-20260430_102906",
+          "category": "places",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/full/20260430_102906.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/thumbs/20260430_102906.webp",
+          "filename": "20260430_102906.webp"
+        },
+        {
+          "id": "places-20260430_103759",
+          "category": "places",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/full/20260430_103759.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/thumbs/20260430_103759.webp",
+          "filename": "20260430_103759.webp"
+        },
+        {
+          "id": "places-20260430_104043",
+          "category": "places",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/full/20260430_104043.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/thumbs/20260430_104043.webp",
+          "filename": "20260430_104043.webp"
+        },
+        {
+          "id": "places-20260430_104547",
+          "category": "places",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/full/20260430_104547.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/thumbs/20260430_104547.webp",
+          "filename": "20260430_104547.webp"
+        },
+        {
+          "id": "places-20260430_105116",
+          "category": "places",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/full/20260430_105116.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/thumbs/20260430_105116.webp",
+          "filename": "20260430_105116.webp"
+        },
+        {
+          "id": "places-20260430_110055",
+          "category": "places",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/full/20260430_110055.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/thumbs/20260430_110055.webp",
+          "filename": "20260430_110055.webp"
+        },
+        {
+          "id": "places-20260430_110651",
+          "category": "places",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/full/20260430_110651.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/thumbs/20260430_110651.webp",
+          "filename": "20260430_110651.webp"
+        },
+        {
+          "id": "places-20260430_111403",
+          "category": "places",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/full/20260430_111403.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/thumbs/20260430_111403.webp",
+          "filename": "20260430_111403.webp"
+        },
+        {
+          "id": "places-20260430_111434",
+          "category": "places",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/full/20260430_111434.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/thumbs/20260430_111434.webp",
+          "filename": "20260430_111434.webp"
+        },
+        {
+          "id": "places-20260430_111714",
+          "category": "places",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/full/20260430_111714.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/thumbs/20260430_111714.webp",
+          "filename": "20260430_111714.webp"
+        },
+        {
+          "id": "places-20260430_111911",
+          "category": "places",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/full/20260430_111911.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/thumbs/20260430_111911.webp",
+          "filename": "20260430_111911.webp"
+        },
+        {
+          "id": "places-20260430_122543",
+          "category": "places",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/full/20260430_122543.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/thumbs/20260430_122543.webp",
+          "filename": "20260430_122543.webp"
+        },
+        {
+          "id": "places-20260430_133007",
+          "category": "places",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/full/20260430_133007.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/thumbs/20260430_133007.webp",
+          "filename": "20260430_133007.webp"
+        },
+        {
+          "id": "places-20260430_133401",
+          "category": "places",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/full/20260430_133401.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/thumbs/20260430_133401.webp",
+          "filename": "20260430_133401.webp"
+        },
+        {
+          "id": "places-20260430_133505",
+          "category": "places",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/full/20260430_133505.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/thumbs/20260430_133505.webp",
+          "filename": "20260430_133505.webp"
+        },
+        {
+          "id": "places-20260430_133717",
+          "category": "places",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/full/20260430_133717.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/thumbs/20260430_133717.webp",
+          "filename": "20260430_133717.webp"
+        },
+        {
+          "id": "places-20260430_151624",
+          "category": "places",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/full/20260430_151624.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/thumbs/20260430_151624.webp",
+          "filename": "20260430_151624.webp"
+        },
+        {
+          "id": "places-20260430_151901",
+          "category": "places",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/full/20260430_151901.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/thumbs/20260430_151901.webp",
+          "filename": "20260430_151901.webp"
+        },
+        {
+          "id": "places-20260430_173352",
+          "category": "places",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/full/20260430_173352.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/thumbs/20260430_173352.webp",
+          "filename": "20260430_173352.webp"
+        },
+        {
+          "id": "places-20260430_173357",
+          "category": "places",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/full/20260430_173357.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/thumbs/20260430_173357.webp",
+          "filename": "20260430_173357.webp"
+        },
+        {
+          "id": "places-20260430_173800",
+          "category": "places",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/full/20260430_173800.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/thumbs/20260430_173800.webp",
+          "filename": "20260430_173800.webp"
+        },
+        {
+          "id": "places-20260430_180707",
+          "category": "places",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/full/20260430_180707.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/thumbs/20260430_180707.webp",
+          "filename": "20260430_180707.webp"
+        },
+        {
+          "id": "places-20260430_183510",
+          "category": "places",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/full/20260430_183510.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/thumbs/20260430_183510.webp",
+          "filename": "20260430_183510.webp"
+        },
+        {
+          "id": "places-20260430_184053",
+          "category": "places",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/full/20260430_184053.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/thumbs/20260430_184053.webp",
+          "filename": "20260430_184053.webp"
+        },
+        {
+          "id": "places-20260430_184141",
+          "category": "places",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/full/20260430_184141.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/thumbs/20260430_184141.webp",
+          "filename": "20260430_184141.webp"
+        },
+        {
+          "id": "places-20260430_184750",
+          "category": "places",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/full/20260430_184750.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/thumbs/20260430_184750.webp",
+          "filename": "20260430_184750.webp"
+        },
+        {
+          "id": "places-20260430_184818",
+          "category": "places",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/full/20260430_184818.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/thumbs/20260430_184818.webp",
+          "filename": "20260430_184818.webp"
+        },
+        {
+          "id": "places-20260430_184821",
+          "category": "places",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/full/20260430_184821.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/thumbs/20260430_184821.webp",
+          "filename": "20260430_184821.webp"
+        },
+        {
+          "id": "places-20260430_184836",
+          "category": "places",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/full/20260430_184836.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/thumbs/20260430_184836.webp",
+          "filename": "20260430_184836.webp"
+        },
+        {
+          "id": "places-20260430_184841",
+          "category": "places",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/full/20260430_184841.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/thumbs/20260430_184841.webp",
+          "filename": "20260430_184841.webp"
+        },
+        {
+          "id": "places-20260430_184847",
+          "category": "places",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/full/20260430_184847.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/thumbs/20260430_184847.webp",
+          "filename": "20260430_184847.webp"
+        },
+        {
+          "id": "places-20260430_184852",
+          "category": "places",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/full/20260430_184852.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/thumbs/20260430_184852.webp",
+          "filename": "20260430_184852.webp"
+        },
+        {
+          "id": "places-20260430_184904",
+          "category": "places",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/full/20260430_184904.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/thumbs/20260430_184904.webp",
+          "filename": "20260430_184904.webp"
+        },
+        {
+          "id": "places-20260430_184915",
+          "category": "places",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/full/20260430_184915.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/thumbs/20260430_184915.webp",
+          "filename": "20260430_184915.webp"
+        },
+        {
+          "id": "places-20260430_184929",
+          "category": "places",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/full/20260430_184929.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/thumbs/20260430_184929.webp",
+          "filename": "20260430_184929.webp"
+        },
+        {
+          "id": "places-20260430_185555",
+          "category": "places",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/full/20260430_185555.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/thumbs/20260430_185555.webp",
+          "filename": "20260430_185555.webp"
+        },
+        {
+          "id": "places-20260430_185558",
+          "category": "places",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/full/20260430_185558.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/thumbs/20260430_185558.webp",
+          "filename": "20260430_185558.webp"
+        },
+        {
+          "id": "places-20260430_185609",
+          "category": "places",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/full/20260430_185609.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/thumbs/20260430_185609.webp",
+          "filename": "20260430_185609.webp"
+        },
+        {
+          "id": "places-20260430_185611",
+          "category": "places",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/full/20260430_185611.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/thumbs/20260430_185611.webp",
+          "filename": "20260430_185611.webp"
+        },
+        {
+          "id": "places-20260430_185629",
+          "category": "places",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/full/20260430_185629.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/thumbs/20260430_185629.webp",
+          "filename": "20260430_185629.webp"
+        },
+        {
+          "id": "places-20260430_185634",
+          "category": "places",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/full/20260430_185634.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/thumbs/20260430_185634.webp",
+          "filename": "20260430_185634.webp"
+        },
+        {
+          "id": "places-20260430_185643",
+          "category": "places",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/full/20260430_185643.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/thumbs/20260430_185643.webp",
+          "filename": "20260430_185643.webp"
+        },
+        {
+          "id": "places-20260430_185650",
+          "category": "places",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/full/20260430_185650.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/thumbs/20260430_185650.webp",
+          "filename": "20260430_185650.webp"
+        },
+        {
+          "id": "places-20260430_185702",
+          "category": "places",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/full/20260430_185702.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/thumbs/20260430_185702.webp",
+          "filename": "20260430_185702.webp"
+        },
+        {
+          "id": "places-20260430_185705",
+          "category": "places",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/full/20260430_185705.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/places/thumbs/20260430_185705.webp",
+          "filename": "20260430_185705.webp"
+        }
+      ]
+    },
+    "animals": {
+      "count": 27,
+      "photos": [
+        {
+          "id": "animals-20260430_073739",
+          "category": "animals",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/animals/full/20260430_073739.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/animals/thumbs/20260430_073739.webp",
+          "filename": "20260430_073739.webp"
+        },
+        {
+          "id": "animals-20260430_112117",
+          "category": "animals",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/animals/full/20260430_112117.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/animals/thumbs/20260430_112117.webp",
+          "filename": "20260430_112117.webp"
+        },
+        {
+          "id": "animals-20260430_113413",
+          "category": "animals",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/animals/full/20260430_113413.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/animals/thumbs/20260430_113413.webp",
+          "filename": "20260430_113413.webp"
+        },
+        {
+          "id": "animals-20260430_113434",
+          "category": "animals",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/animals/full/20260430_113434.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/animals/thumbs/20260430_113434.webp",
+          "filename": "20260430_113434.webp"
+        },
+        {
+          "id": "animals-20260430_113503",
+          "category": "animals",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/animals/full/20260430_113503.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/animals/thumbs/20260430_113503.webp",
+          "filename": "20260430_113503.webp"
+        },
+        {
+          "id": "animals-20260430_123455",
+          "category": "animals",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/animals/full/20260430_123455.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/animals/thumbs/20260430_123455.webp",
+          "filename": "20260430_123455.webp"
+        },
+        {
+          "id": "animals-20260430_140626",
+          "category": "animals",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/animals/full/20260430_140626.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/animals/thumbs/20260430_140626.webp",
+          "filename": "20260430_140626.webp"
+        },
+        {
+          "id": "animals-20260430_141001",
+          "category": "animals",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/animals/full/20260430_141001.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/animals/thumbs/20260430_141001.webp",
+          "filename": "20260430_141001.webp"
+        },
+        {
+          "id": "animals-20260430_150936",
+          "category": "animals",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/animals/full/20260430_150936.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/animals/thumbs/20260430_150936.webp",
+          "filename": "20260430_150936.webp"
+        },
+        {
+          "id": "animals-20260430_160101",
+          "category": "animals",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/animals/full/20260430_160101.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/animals/thumbs/20260430_160101.webp",
+          "filename": "20260430_160101.webp"
+        },
+        {
+          "id": "animals-20260430_171650",
+          "category": "animals",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/animals/full/20260430_171650.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/animals/thumbs/20260430_171650.webp",
+          "filename": "20260430_171650.webp"
+        },
+        {
+          "id": "animals-20260430_171653",
+          "category": "animals",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/animals/full/20260430_171653.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/animals/thumbs/20260430_171653.webp",
+          "filename": "20260430_171653.webp"
+        },
+        {
+          "id": "animals-20260430_171704",
+          "category": "animals",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/animals/full/20260430_171704.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/animals/thumbs/20260430_171704.webp",
+          "filename": "20260430_171704.webp"
+        },
+        {
+          "id": "animals-20260430_172047",
+          "category": "animals",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/animals/full/20260430_172047.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/animals/thumbs/20260430_172047.webp",
+          "filename": "20260430_172047.webp"
+        },
+        {
+          "id": "animals-20260430_172321",
+          "category": "animals",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/animals/full/20260430_172321.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/animals/thumbs/20260430_172321.webp",
+          "filename": "20260430_172321.webp"
+        },
+        {
+          "id": "animals-20260430_173220",
+          "category": "animals",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/animals/full/20260430_173220.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/animals/thumbs/20260430_173220.webp",
+          "filename": "20260430_173220.webp"
+        },
+        {
+          "id": "animals-20260430_174641",
+          "category": "animals",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/animals/full/20260430_174641.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/animals/thumbs/20260430_174641.webp",
+          "filename": "20260430_174641.webp"
+        },
+        {
+          "id": "animals-20260430_174810",
+          "category": "animals",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/animals/full/20260430_174810.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/animals/thumbs/20260430_174810.webp",
+          "filename": "20260430_174810.webp"
+        },
+        {
+          "id": "animals-20260430_181340",
+          "category": "animals",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/animals/full/20260430_181340.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/animals/thumbs/20260430_181340.webp",
+          "filename": "20260430_181340.webp"
+        },
+        {
+          "id": "animals-20260430_181754",
+          "category": "animals",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/animals/full/20260430_181754.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/animals/thumbs/20260430_181754.webp",
+          "filename": "20260430_181754.webp"
+        },
+        {
+          "id": "animals-20260430_181803",
+          "category": "animals",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/animals/full/20260430_181803.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/animals/thumbs/20260430_181803.webp",
+          "filename": "20260430_181803.webp"
+        },
+        {
+          "id": "animals-20260430_184135",
+          "category": "animals",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/animals/full/20260430_184135.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/animals/thumbs/20260430_184135.webp",
+          "filename": "20260430_184135.webp"
+        },
+        {
+          "id": "animals-20260430_184214",
+          "category": "animals",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/animals/full/20260430_184214.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/animals/thumbs/20260430_184214.webp",
+          "filename": "20260430_184214.webp"
+        },
+        {
+          "id": "animals-20260430_184216",
+          "category": "animals",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/animals/full/20260430_184216.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/animals/thumbs/20260430_184216.webp",
+          "filename": "20260430_184216.webp"
+        },
+        {
+          "id": "animals-20260430_184345",
+          "category": "animals",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/animals/full/20260430_184345.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/animals/thumbs/20260430_184345.webp",
+          "filename": "20260430_184345.webp"
+        },
+        {
+          "id": "animals-20260430_190607",
+          "category": "animals",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/animals/full/20260430_190607.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/animals/thumbs/20260430_190607.webp",
+          "filename": "20260430_190607.webp"
+        },
+        {
+          "id": "animals-20260430_192841",
+          "category": "animals",
+          "full": "public/photos/day20_istanbul_yildiz_palace_asian_side/animals/full/20260430_192841.webp",
+          "thumb": "public/photos/day20_istanbul_yildiz_palace_asian_side/animals/thumbs/20260430_192841.webp",
+          "filename": "20260430_192841.webp"
+        }
+      ]
+    }
+  }
+}

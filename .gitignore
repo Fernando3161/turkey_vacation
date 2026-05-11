@@ -20,12 +20,13 @@ desktop.ini
 .env.local
 
 #Temporal to dislable all pictures from being tracked by git, as they are large and not necessary for version control.
-*.jpg
-*.jpeg
-*.png
-*.webp
-*.gif
-public/photos/
+
+#*.jpg
+#*.jpeg
+#*.png
+#*.webp
+#*.gif
+#public/photos/
 
 
 # Local high-resolution photo workflow

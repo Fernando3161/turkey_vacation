@@ -1,0 +1,48 @@
+{
+  "slug": "day0_bremen_istanbul_arrival",
+  "totalCount": 4,
+  "categories": {
+    "people": {
+      "count": 0,
+      "photos": []
+    },
+    "places": {
+      "count": 3,
+      "photos": [
+        {
+          "id": "places-20260410_083627",
+          "category": "places",
+          "full": "public/photos/day0_bremen_istanbul_arrival/places/full/20260410_083627.webp",
+          "thumb": "public/photos/day0_bremen_istanbul_arrival/places/thumbs/20260410_083627.webp",
+          "filename": "20260410_083627.webp"
+        },
+        {
+          "id": "places-20260410_200257",
+          "category": "places",
+          "full": "public/photos/day0_bremen_istanbul_arrival/places/full/20260410_200257.webp",
+          "thumb": "public/photos/day0_bremen_istanbul_arrival/places/thumbs/20260410_200257.webp",
+          "filename": "20260410_200257.webp"
+        },
+        {
+          "id": "places-20260410_224218",
+          "category": "places",
+          "full": "public/photos/day0_bremen_istanbul_arrival/places/full/20260410_224218.webp",
+          "thumb": "public/photos/day0_bremen_istanbul_arrival/places/thumbs/20260410_224218.webp",
+          "filename": "20260410_224218.webp"
+        }
+      ]
+    },
+    "animals": {
+      "count": 1,
+      "photos": [
+        {
+          "id": "animals-20260410_185111",
+          "category": "animals",
+          "full": "public/photos/day0_bremen_istanbul_arrival/animals/full/20260410_185111.webp",
+          "thumb": "public/photos/day0_bremen_istanbul_arrival/animals/thumbs/20260410_185111.webp",
+          "filename": "20260410_185111.webp"
+        }
+      ]
+    }
+  }
+}

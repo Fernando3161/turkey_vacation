@@ -1,0 +1,139 @@
+{
+  "slug": "day21_istanbul_bremen_return",
+  "totalCount": 17,
+  "categories": {
+    "people": {
+      "count": 0,
+      "photos": []
+    },
+    "places": {
+      "count": 16,
+      "photos": [
+        {
+          "id": "places-20260501_152409",
+          "category": "places",
+          "full": "public/photos/day21_istanbul_bremen_return/places/full/20260501_152409.webp",
+          "thumb": "public/photos/day21_istanbul_bremen_return/places/thumbs/20260501_152409.webp",
+          "filename": "20260501_152409.webp"
+        },
+        {
+          "id": "places-20260502_124209",
+          "category": "places",
+          "full": "public/photos/day21_istanbul_bremen_return/places/full/20260502_124209.webp",
+          "thumb": "public/photos/day21_istanbul_bremen_return/places/thumbs/20260502_124209.webp",
+          "filename": "20260502_124209.webp"
+        },
+        {
+          "id": "places-20260502_124241",
+          "category": "places",
+          "full": "public/photos/day21_istanbul_bremen_return/places/full/20260502_124241.webp",
+          "thumb": "public/photos/day21_istanbul_bremen_return/places/thumbs/20260502_124241.webp",
+          "filename": "20260502_124241.webp"
+        },
+        {
+          "id": "places-20260502_124310",
+          "category": "places",
+          "full": "public/photos/day21_istanbul_bremen_return/places/full/20260502_124310.webp",
+          "thumb": "public/photos/day21_istanbul_bremen_return/places/thumbs/20260502_124310.webp",
+          "filename": "20260502_124310.webp"
+        },
+        {
+          "id": "places-20260502_124324",
+          "category": "places",
+          "full": "public/photos/day21_istanbul_bremen_return/places/full/20260502_124324.webp",
+          "thumb": "public/photos/day21_istanbul_bremen_return/places/thumbs/20260502_124324.webp",
+          "filename": "20260502_124324.webp"
+        },
+        {
+          "id": "places-20260502_124439",
+          "category": "places",
+          "full": "public/photos/day21_istanbul_bremen_return/places/full/20260502_124439.webp",
+          "thumb": "public/photos/day21_istanbul_bremen_return/places/thumbs/20260502_124439.webp",
+          "filename": "20260502_124439.webp"
+        },
+        {
+          "id": "places-20260502_124458",
+          "category": "places",
+          "full": "public/photos/day21_istanbul_bremen_return/places/full/20260502_124458.webp",
+          "thumb": "public/photos/day21_istanbul_bremen_return/places/thumbs/20260502_124458.webp",
+          "filename": "20260502_124458.webp"
+        },
+        {
+          "id": "places-20260502_124512",
+          "category": "places",
+          "full": "public/photos/day21_istanbul_bremen_return/places/full/20260502_124512.webp",
+          "thumb": "public/photos/day21_istanbul_bremen_return/places/thumbs/20260502_124512.webp",
+          "filename": "20260502_124512.webp"
+        },
+        {
+          "id": "places-20260502_125226",
+          "category": "places",
+          "full": "public/photos/day21_istanbul_bremen_return/places/full/20260502_125226.webp",
+          "thumb": "public/photos/day21_istanbul_bremen_return/places/thumbs/20260502_125226.webp",
+          "filename": "20260502_125226.webp"
+        },
+        {
+          "id": "places-20260502_125527",
+          "category": "places",
+          "full": "public/photos/day21_istanbul_bremen_return/places/full/20260502_125527.webp",
+          "thumb": "public/photos/day21_istanbul_bremen_return/places/thumbs/20260502_125527.webp",
+          "filename": "20260502_125527.webp"
+        },
+        {
+          "id": "places-20260502_125907",
+          "category": "places",
+          "full": "public/photos/day21_istanbul_bremen_return/places/full/20260502_125907.webp",
+          "thumb": "public/photos/day21_istanbul_bremen_return/places/thumbs/20260502_125907.webp",
+          "filename": "20260502_125907.webp"
+        },
+        {
+          "id": "places-20260502_130139",
+          "category": "places",
+          "full": "public/photos/day21_istanbul_bremen_return/places/full/20260502_130139.webp",
+          "thumb": "public/photos/day21_istanbul_bremen_return/places/thumbs/20260502_130139.webp",
+          "filename": "20260502_130139.webp"
+        },
+        {
+          "id": "places-20260502_130248",
+          "category": "places",
+          "full": "public/photos/day21_istanbul_bremen_return/places/full/20260502_130248.webp",
+          "thumb": "public/photos/day21_istanbul_bremen_return/places/thumbs/20260502_130248.webp",
+          "filename": "20260502_130248.webp"
+        },
+        {
+          "id": "places-20260502_130333",
+          "category": "places",
+          "full": "public/photos/day21_istanbul_bremen_return/places/full/20260502_130333.webp",
+          "thumb": "public/photos/day21_istanbul_bremen_return/places/thumbs/20260502_130333.webp",
+          "filename": "20260502_130333.webp"
+        },
+        {
+          "id": "places-whatsapp_image_2026-05-11_at_11.03.52_(1)",
+          "category": "places",
+          "full": "public/photos/day21_istanbul_bremen_return/places/full/whatsapp_image_2026-05-11_at_11.03.52_(1).webp",
+          "thumb": "public/photos/day21_istanbul_bremen_return/places/thumbs/whatsapp_image_2026-05-11_at_11.03.52_(1).webp",
+          "filename": "whatsapp_image_2026-05-11_at_11.03.52_(1).webp"
+        },
+        {
+          "id": "places-whatsapp_image_2026-05-11_at_11.54.36_(1)",
+          "category": "places",
+          "full": "public/photos/day21_istanbul_bremen_return/places/full/whatsapp_image_2026-05-11_at_11.54.36_(1).webp",
+          "thumb": "public/photos/day21_istanbul_bremen_return/places/thumbs/whatsapp_image_2026-05-11_at_11.54.36_(1).webp",
+          "filename": "whatsapp_image_2026-05-11_at_11.54.36_(1).webp"
+        }
+      ]
+    },
+    "animals": {
+      "count": 1,
+      "photos": [
+        {
+          "id": "animals-20260501_075537",
+          "category": "animals",
+          "full": "public/photos/day21_istanbul_bremen_return/animals/full/20260501_075537.webp",
+          "thumb": "public/photos/day21_istanbul_bremen_return/animals/thumbs/20260501_075537.webp",
+          "filename": "20260501_075537.webp"
+        }
+      ]
+    }
+  }
+}

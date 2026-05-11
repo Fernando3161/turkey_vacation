@@ -1,0 +1,133 @@
+{
+  "slug": "day9_kayakoy_oludeniz_lycian_way",
+  "totalCount": 16,
+  "categories": {
+    "people": {
+      "count": 6,
+      "photos": [
+        {
+          "id": "people-img-20260419-wa0009",
+          "category": "people",
+          "full": "public/photos/day9_kayakoy_oludeniz_lycian_way/people/full/img-20260419-wa0009.webp",
+          "thumb": "public/photos/day9_kayakoy_oludeniz_lycian_way/people/thumbs/img-20260419-wa0009.webp",
+          "filename": "img-20260419-wa0009.webp"
+        },
+        {
+          "id": "people-img-20260419-wa0013",
+          "category": "people",
+          "full": "public/photos/day9_kayakoy_oludeniz_lycian_way/people/full/img-20260419-wa0013.webp",
+          "thumb": "public/photos/day9_kayakoy_oludeniz_lycian_way/people/thumbs/img-20260419-wa0013.webp",
+          "filename": "img-20260419-wa0013.webp"
+        },
+        {
+          "id": "people-img-20260419-wa0019",
+          "category": "people",
+          "full": "public/photos/day9_kayakoy_oludeniz_lycian_way/people/full/img-20260419-wa0019.webp",
+          "thumb": "public/photos/day9_kayakoy_oludeniz_lycian_way/people/thumbs/img-20260419-wa0019.webp",
+          "filename": "img-20260419-wa0019.webp"
+        },
+        {
+          "id": "people-img-20260419-wa0039",
+          "category": "people",
+          "full": "public/photos/day9_kayakoy_oludeniz_lycian_way/people/full/img-20260419-wa0039.webp",
+          "thumb": "public/photos/day9_kayakoy_oludeniz_lycian_way/people/thumbs/img-20260419-wa0039.webp",
+          "filename": "img-20260419-wa0039.webp"
+        },
+        {
+          "id": "people-img-20260419-wa0061",
+          "category": "people",
+          "full": "public/photos/day9_kayakoy_oludeniz_lycian_way/people/full/img-20260419-wa0061.webp",
+          "thumb": "public/photos/day9_kayakoy_oludeniz_lycian_way/people/thumbs/img-20260419-wa0061.webp",
+          "filename": "img-20260419-wa0061.webp"
+        },
+        {
+          "id": "people-whatsapp_image_2026-05-11_at_11.03.20_(2)",
+          "category": "people",
+          "full": "public/photos/day9_kayakoy_oludeniz_lycian_way/people/full/whatsapp_image_2026-05-11_at_11.03.20_(2).webp",
+          "thumb": "public/photos/day9_kayakoy_oludeniz_lycian_way/people/thumbs/whatsapp_image_2026-05-11_at_11.03.20_(2).webp",
+          "filename": "whatsapp_image_2026-05-11_at_11.03.20_(2).webp"
+        }
+      ]
+    },
+    "places": {
+      "count": 7,
+      "photos": [
+        {
+          "id": "places-20260419_102402",
+          "category": "places",
+          "full": "public/photos/day9_kayakoy_oludeniz_lycian_way/places/full/20260419_102402.webp",
+          "thumb": "public/photos/day9_kayakoy_oludeniz_lycian_way/places/thumbs/20260419_102402.webp",
+          "filename": "20260419_102402.webp"
+        },
+        {
+          "id": "places-20260419_104200",
+          "category": "places",
+          "full": "public/photos/day9_kayakoy_oludeniz_lycian_way/places/full/20260419_104200.webp",
+          "thumb": "public/photos/day9_kayakoy_oludeniz_lycian_way/places/thumbs/20260419_104200.webp",
+          "filename": "20260419_104200.webp"
+        },
+        {
+          "id": "places-20260419_111039",
+          "category": "places",
+          "full": "public/photos/day9_kayakoy_oludeniz_lycian_way/places/full/20260419_111039.webp",
+          "thumb": "public/photos/day9_kayakoy_oludeniz_lycian_way/places/thumbs/20260419_111039.webp",
+          "filename": "20260419_111039.webp"
+        },
+        {
+          "id": "places-20260419_111146",
+          "category": "places",
+          "full": "public/photos/day9_kayakoy_oludeniz_lycian_way/places/full/20260419_111146.webp",
+          "thumb": "public/photos/day9_kayakoy_oludeniz_lycian_way/places/thumbs/20260419_111146.webp",
+          "filename": "20260419_111146.webp"
+        },
+        {
+          "id": "places-20260419_113231",
+          "category": "places",
+          "full": "public/photos/day9_kayakoy_oludeniz_lycian_way/places/full/20260419_113231.webp",
+          "thumb": "public/photos/day9_kayakoy_oludeniz_lycian_way/places/thumbs/20260419_113231.webp",
+          "filename": "20260419_113231.webp"
+        },
+        {
+          "id": "places-20260419_113240",
+          "category": "places",
+          "full": "public/photos/day9_kayakoy_oludeniz_lycian_way/places/full/20260419_113240.webp",
+          "thumb": "public/photos/day9_kayakoy_oludeniz_lycian_way/places/thumbs/20260419_113240.webp",
+          "filename": "20260419_113240.webp"
+        },
+        {
+          "id": "places-20260419_123634",
+          "category": "places",
+          "full": "public/photos/day9_kayakoy_oludeniz_lycian_way/places/full/20260419_123634.webp",
+          "thumb": "public/photos/day9_kayakoy_oludeniz_lycian_way/places/thumbs/20260419_123634.webp",
+          "filename": "20260419_123634.webp"
+        }
+      ]
+    },
+    "animals": {
+      "count": 3,
+      "photos": [
+        {
+          "id": "animals-20260419_131700",
+          "category": "animals",
+          "full": "public/photos/day9_kayakoy_oludeniz_lycian_way/animals/full/20260419_131700.webp",
+          "thumb": "public/photos/day9_kayakoy_oludeniz_lycian_way/animals/thumbs/20260419_131700.webp",
+          "filename": "20260419_131700.webp"
+        },
+        {
+          "id": "animals-20260419_211232",
+          "category": "animals",
+          "full": "public/photos/day9_kayakoy_oludeniz_lycian_way/animals/full/20260419_211232.webp",
+          "thumb": "public/photos/day9_kayakoy_oludeniz_lycian_way/animals/thumbs/20260419_211232.webp",
+          "filename": "20260419_211232.webp"
+        },
+        {
+          "id": "animals-20260419_214208",
+          "category": "animals",
+          "full": "public/photos/day9_kayakoy_oludeniz_lycian_way/animals/full/20260419_214208.webp",
+          "thumb": "public/photos/day9_kayakoy_oludeniz_lycian_way/animals/thumbs/20260419_214208.webp",
+          "filename": "20260419_214208.webp"
+        }
+      ]
+    }
+  }
+}
