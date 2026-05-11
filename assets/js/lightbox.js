@@ -36,10 +36,10 @@
 
     const label = titleCase(photo.category || "photo");
     image.src = photo.full || photo.thumb || "";
-    image.alt = `${label} photograph ${photo.filename || ""}`.trim();
+    image.alt = `${label} photograph`;
 
     if (title) {
-      title.textContent = photo.filename || "Photograph view";
+      title.textContent = "Photograph view";
     }
 
     if (category) {

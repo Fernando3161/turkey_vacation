@@ -94,7 +94,7 @@
       button.dataset.category = photo.category || "";
       button.dataset.photoId = photo.id || "";
       button.dataset.index = String(index);
-      button.setAttribute("aria-label", `Open ${photo.category || "photo"} ${photo.filename || ""}`);
+      button.setAttribute("aria-label", `Open ${photo.category || "photo"} photograph`);
       button.addEventListener("click", () => {
         if (window.TurkeyLoopLightbox && typeof window.TurkeyLoopLightbox.open === "function") {
           window.TurkeyLoopLightbox.open(photos, index, button);
@@ -102,7 +102,7 @@
       });
 
       image.src = photo.thumb;
-      image.alt = `${titleCase(photo.category || "photo")} photograph ${photo.filename || ""}`.trim();
+      image.alt = `${titleCase(photo.category || "photo")} photograph`;
       image.loading = "lazy";
       image.decoding = "async";
 
