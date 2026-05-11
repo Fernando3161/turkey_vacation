@@ -16,6 +16,10 @@
     return value.charAt(0).toUpperCase() + value.slice(1);
   }
 
+  function categoryLabel(category) {
+    return category === "animals" ? "Cats" : titleCase(category || "photo");
+  }
+
   function manifestUrl(slug) {
     return `public/photos/${encodeURIComponent(slug)}/manifest.json`;
   }
@@ -51,7 +55,7 @@
       button.className = "day-gallery__filter";
       button.dataset.category = category;
       button.setAttribute("aria-pressed", category === activeCategory ? "true" : "false");
-      button.textContent = `${category === "all" ? "All" : titleCase(category)} (${count})`;
+      button.textContent = `${category === "all" ? "All" : categoryLabel(category)} (${count})`;
       button.addEventListener("click", () => {
         activeCategory = category;
         renderFilters(manifest);
@@ -67,7 +71,7 @@
     empty.textContent =
       category === "all"
         ? "No photographs are available for this day yet."
-        : `No ${category} photographs are available for this day yet.`;
+        : `No ${categoryLabel(category).toLowerCase()} photographs are available for this day yet.`;
     grid.replaceChildren(empty);
   }
 
@@ -94,7 +98,7 @@
       button.dataset.category = photo.category || "";
       button.dataset.photoId = photo.id || "";
       button.dataset.index = String(index);
-      button.setAttribute("aria-label", `Open ${photo.category || "photo"} photograph`);
+      button.setAttribute("aria-label", `Open ${categoryLabel(photo.category)} photograph`);
       button.addEventListener("click", () => {
         if (window.TurkeyLoopLightbox && typeof window.TurkeyLoopLightbox.open === "function") {
           window.TurkeyLoopLightbox.open(photos, index, button);
@@ -102,11 +106,11 @@
       });
 
       image.src = photo.thumb;
-      image.alt = `${titleCase(photo.category || "photo")} photograph`;
+      image.alt = `${categoryLabel(photo.category)} photograph`;
       image.loading = "lazy";
       image.decoding = "async";
 
-      caption.textContent = titleCase(photo.category || "photo");
+      caption.textContent = categoryLabel(photo.category);
 
       button.append(image, caption);
       fragment.append(button);

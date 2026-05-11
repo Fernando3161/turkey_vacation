@@ -21,6 +21,14 @@ const MIME_TYPES = new Map([
   [".svg", "image/svg+xml; charset=utf-8"]
 ]);
 
+function categoryLabel(category) {
+  if (category === "animals") {
+    return "Cats";
+  }
+
+  return `${category.charAt(0).toUpperCase()}${category.slice(1)}`;
+}
+
 function loadDays() {
   const source = fs.readFileSync(DATA_FILE, "utf8");
   const sandbox = { window: {} };
@@ -138,9 +146,7 @@ async function assertFilterLabels(page, manifest) {
 
   for (const [category, count] of Object.entries(expectedCounts)) {
     const text = await page.locator(`#day-gallery-filters [data-category="${category}"]`).textContent();
-    const expectedText = category === "all"
-      ? `All (${count})`
-      : `${category.charAt(0).toUpperCase()}${category.slice(1)} (${count})`;
+    const expectedText = category === "all" ? `All (${count})` : `${categoryLabel(category)} (${count})`;
 
     if (text !== expectedText) {
       throw new Error(`${category} filter label is "${text}", expected "${expectedText}".`);

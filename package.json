@@ -6,9 +6,11 @@
   "license": "UNLICENSED",
   "scripts": {
     "data:validate": "node scripts/validate-data.js",
+    "prepare-content": "npm run data:validate && npm run photos:generate && npm run photos:manifest && npm run photos:validate",
     "photos:generate": "node scripts/generate-lr-photos.js",
     "photos:manifest": "node scripts/generate-manifests.js",
     "photos:validate": "node scripts/validate-photo-assets.js",
+    "serve": "node scripts/serve-static.js",
     "site:smoke": "node scripts/smoke-test-website.js"
   },
   "dependencies": {

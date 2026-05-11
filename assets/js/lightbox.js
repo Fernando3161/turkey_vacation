@@ -20,6 +20,10 @@
     return String(value || "photo").charAt(0).toUpperCase() + String(value || "photo").slice(1);
   }
 
+  function categoryLabel(category) {
+    return category === "animals" ? "Cats" : titleCase(category || "photo");
+  }
+
   function setBodyLocked(isLocked) {
     document.body.classList.toggle("is-lightbox-open", isLocked);
   }
@@ -34,7 +38,7 @@
       return;
     }
 
-    const label = titleCase(photo.category || "photo");
+    const label = categoryLabel(photo.category);
     image.src = photo.full || photo.thumb || "";
     image.alt = `${label} photograph`;
 
