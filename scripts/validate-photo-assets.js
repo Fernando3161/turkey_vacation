@@ -11,7 +11,9 @@ const MAIN_SITE_EXPECTED = [
   "public/photos/main_site/full/header.webp",
   "public/photos/main_site/thumbs/header.webp",
   "public/photos/main_site/full/about_me.webp",
-  "public/photos/main_site/thumbs/about_me.webp"
+  "public/photos/main_site/thumbs/about_me.webp",
+  "public/photos/main_site/full/intrepid_route.webp",
+  "public/photos/main_site/thumbs/intrepid_route.webp"
 ];
 
 function readJson(filePath) {

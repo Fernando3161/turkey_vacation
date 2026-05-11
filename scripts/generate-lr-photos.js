@@ -12,7 +12,8 @@ const FULL_SETTINGS = { width: 1600, quality: 78 };
 const THUMB_SETTINGS = { width: 420, quality: 70 };
 const MAIN_SITE_IMAGES = [
   { source: "header.jpg", stem: "header" },
-  { source: "about_me.jpeg", stem: "about_me" }
+  { source: "about_me.jpeg", stem: "about_me" },
+  { source: "intrepid_route.webp", stem: "intrepid_route" }
 ];
 
 function relativePath(filePath) {

@@ -182,6 +182,90 @@ async function assertLightbox(page) {
   });
 }
 
+async function assertImageLoaded(page, selector, expectedPath) {
+  await page.waitForFunction(
+    ({ imageSelector, pathPart }) => {
+      const image = document.querySelector(imageSelector);
+      return (
+        image &&
+        image.complete &&
+        image.naturalWidth > 0 &&
+        image.naturalHeight > 0 &&
+        image.src.includes(pathPart)
+      );
+    },
+    { imageSelector: selector, pathPart: expectedPath }
+  );
+}
+
+async function closeInfoPanel(page, panelId) {
+  await page.keyboard.press("Escape");
+  await page.waitForFunction((id) => {
+    const panel = document.getElementById(id);
+    return panel && panel.hidden;
+  }, panelId);
+}
+
+async function assertHeaderPanels(page, days) {
+  const photosButtonCount = await page.locator(".site-header__nav button", { hasText: "Photos" }).count();
+  if (photosButtonCount !== 0) {
+    throw new Error("Photos nav button should not be present.");
+  }
+
+  await page.locator('[data-panel-target="about-panel"]').click();
+  await page.waitForSelector("#about-panel:not([hidden])");
+
+  const aboutTitle = await page.locator("#about-panel-title").textContent();
+  if (aboutTitle !== "About Me") {
+    throw new Error(`About panel title is "${aboutTitle}".`);
+  }
+
+  await page.locator("#about-panel", { hasText: "Dr.-Ing. Fernando Peñaherrera V." }).waitFor();
+  await assertImageLoaded(page, "#about-panel .info-panel__media img", "/public/photos/main_site/full/about_me.webp");
+
+  const expectedLinks = new Map([
+    ["@fernando.3161", "https://www.instagram.com/fernando.3161"],
+    ["fer-pv", "https://www.linkedin.com/in/fer-pv/"],
+    ["@Fernando31611", "https://www.youtube.com/@Fernando31611"],
+    ["fernandopenaherrera@gmail.com", "mailto:fernandopenaherrera@gmail.com"]
+  ]);
+
+  for (const [label, href] of expectedLinks) {
+    const actualHref = await page.locator("#about-panel a", { hasText: label }).getAttribute("href");
+    if (actualHref !== href) {
+      throw new Error(`About link ${label} points to ${actualHref}, expected ${href}.`);
+    }
+  }
+
+  for (const iconName of ["instagram", "linkedin", "youtube", "gmail"]) {
+    await assertImageLoaded(
+      page,
+      `#about-panel .profile-links__icon[src$="${iconName}.png"]`,
+      `/public/photos/main_site/icons/${iconName}.png`
+    );
+  }
+
+  await closeInfoPanel(page, "about-panel");
+
+  await page.locator('[data-panel-target="days-panel"]').click();
+  await page.waitForSelector("#days-panel:not([hidden])");
+
+  const routeHref = await page.locator("#days-panel a", { hasText: "Intrepid Travel: Best of Turkey" }).getAttribute("href");
+  if (routeHref !== "https://www.intrepidtravel.com/eu/turkey/best-turkey-166880") {
+    throw new Error(`Intrepid route link points to ${routeHref}.`);
+  }
+
+  await page.locator("#days-panel", { hasText: "This was the route followed." }).waitFor();
+  await assertImageLoaded(page, "#days-panel .route-figure img", "/public/photos/main_site/full/intrepid_route.webp");
+
+  const rowCount = await page.locator("#itinerary-table-body tr").count();
+  if (rowCount !== days.length) {
+    throw new Error(`Itinerary table rendered ${rowCount} rows, expected ${days.length}.`);
+  }
+
+  await closeInfoPanel(page, "days-panel");
+}
+
 async function assertDay(page, day) {
   const manifest = manifestForDay(day.slug);
 
@@ -242,6 +326,8 @@ async function main() {
     if (title !== "Turkey Loop") {
       throw new Error(`Unexpected page title: ${title}`);
     }
+
+    await assertHeaderPanels(page, days);
 
     for (const day of days) {
       await assertDay(page, day);

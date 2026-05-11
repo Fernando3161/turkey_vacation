@@ -28,9 +28,8 @@
         </div>
 
         <nav class="site-header__nav" aria-label="Primary">
-          <button type="button" class="atlas-control">About</button>
-          <button type="button" class="atlas-control">Days</button>
-          <button type="button" class="atlas-control">Photos</button>
+          <button type="button" class="atlas-control" data-panel-target="about-panel">About</button>
+          <button type="button" class="atlas-control" data-panel-target="days-panel">Days</button>
         </nav>
       </div>
     </header>
@@ -59,6 +58,146 @@
         </div>
       </section>
     </main>
+
+    <section
+      id="about-panel"
+      class="overlay overlay--info-panel"
+      role="dialog"
+      aria-modal="true"
+      aria-labelledby="about-panel-title"
+      hidden
+    >
+      <article class="info-panel info-panel--about">
+        <button type="button" class="overlay-close" data-panel-close aria-label="Close about panel">Close</button>
+        <div class="info-panel__layout">
+          <div class="info-panel__main">
+            <p class="archive-panel__eyebrow">Personal note</p>
+            <h2 id="about-panel-title">About Me</h2>
+            <p class="info-panel__name">Dr.-Ing. Fernando Pe&ntilde;aherrera V.</p>
+            <div class="info-panel__copy">
+              <p>
+                Hi! My name is Fernando. I am a travel enthusiast with a soft spot for places where history,
+                landscape, and everyday life meet. When I travel, I like to combine local culture, archaeological
+                and historical sites, beautiful natural scenery, small artifacts and souvenirs, and conversations
+                with fellow travelers along the way.
+              </p>
+              <p>
+                Outside of travel, my hobbies include playing and composing music for piano, drawing and painting,
+                swimming, bouldering, weekend technical projects, video games, and avoiding cooking whenever possible.
+              </p>
+              <p>
+                Professionally, I am a Senior Postdoctoral Researcher at the OFFIS Institute for Computer Science in
+                Germany. My work focuses on the modeling of energy systems and production chains, especially for
+                evaluating sustainability, system performance, and future scenarios in complex simulation environments.
+              </p>
+            </div>
+
+            <ul class="profile-links" aria-label="Personal profile links">
+              <li>
+                <img
+                  class="profile-links__icon"
+                  src="public/photos/main_site/icons/instagram.png"
+                  alt=""
+                  aria-hidden="true"
+                  loading="lazy"
+                  decoding="async"
+                >
+                <a href="https://www.instagram.com/fernando.3161" target="_blank" rel="noopener noreferrer">@fernando.3161</a>
+              </li>
+              <li>
+                <img
+                  class="profile-links__icon"
+                  src="public/photos/main_site/icons/linkedin.png"
+                  alt=""
+                  aria-hidden="true"
+                  loading="lazy"
+                  decoding="async"
+                >
+                <a href="https://www.linkedin.com/in/fer-pv/" target="_blank" rel="noopener noreferrer">fer-pv</a>
+              </li>
+              <li>
+                <img
+                  class="profile-links__icon"
+                  src="public/photos/main_site/icons/youtube.png"
+                  alt=""
+                  aria-hidden="true"
+                  loading="lazy"
+                  decoding="async"
+                >
+                <a href="https://www.youtube.com/@Fernando31611" target="_blank" rel="noopener noreferrer">@Fernando31611</a>
+              </li>
+              <li>
+                <img
+                  class="profile-links__icon"
+                  src="public/photos/main_site/icons/gmail.png"
+                  alt=""
+                  aria-hidden="true"
+                  loading="lazy"
+                  decoding="async"
+                >
+                <a href="mailto:fernandopenaherrera@gmail.com">fernandopenaherrera@gmail.com</a>
+              </li>
+            </ul>
+          </div>
+
+          <figure class="info-panel__media">
+            <img
+              src="public/photos/main_site/full/about_me.webp"
+              alt="Fernando Pe&ntilde;aherrera travel portrait"
+              loading="lazy"
+              decoding="async"
+            >
+          </figure>
+        </div>
+      </article>
+    </section>
+
+    <section
+      id="days-panel"
+      class="overlay overlay--info-panel"
+      role="dialog"
+      aria-modal="true"
+      aria-labelledby="days-panel-title"
+      hidden
+    >
+      <article class="info-panel info-panel--days">
+        <button type="button" class="overlay-close" data-panel-close aria-label="Close days panel">Close</button>
+        <div class="info-panel__header">
+          <p class="archive-panel__eyebrow">Trip structure</p>
+          <h2 id="days-panel-title">Days</h2>
+          <p>
+            This was the route followed.
+            <a href="https://www.intrepidtravel.com/eu/turkey/best-turkey-166880" target="_blank" rel="noopener noreferrer">
+              Intrepid Travel: Best of Turkey
+            </a>
+          </p>
+        </div>
+
+        <figure class="route-figure">
+          <img
+            src="public/photos/main_site/full/intrepid_route.webp"
+            alt="Intrepid Best of Turkey route map"
+            loading="lazy"
+            decoding="async"
+          >
+          <figcaption>Local copy of the Intrepid route image used for reference.</figcaption>
+        </figure>
+
+        <div class="itinerary-table-wrap">
+          <table class="itinerary-table">
+            <thead>
+              <tr>
+                <th scope="col">Day</th>
+                <th scope="col">Date</th>
+                <th scope="col">City / Main Activity</th>
+                <th scope="col">Short Label</th>
+              </tr>
+            </thead>
+            <tbody id="itinerary-table-body"></tbody>
+          </table>
+        </div>
+      </article>
+    </section>
 
     <section
       id="day-modal"
