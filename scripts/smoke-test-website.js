@@ -23,7 +23,7 @@ const MIME_TYPES = new Map([
 
 function categoryLabel(category) {
   if (category === "animals") {
-    return "Cats";
+    return "Animals";
   }
 
   return `${category.charAt(0).toUpperCase()}${category.slice(1)}`;

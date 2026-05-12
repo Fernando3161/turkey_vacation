@@ -1,26 +1,68 @@
 # Content Guide
 
-This project uses a day-based workflow for turning travel photos into a publishable website.
+This project uses a day-based workflow for turning selected travel photos into a publishable static website.
 
-## Photo Workflow
+## Required Photo Source Structure
 
-Keep original and high-resolution working photos in the local `pictures/` folders. These folders are for preparation and selection only, and they are ignored by Git because they can be large.
+The WebP generation pipeline expects this local folder structure:
 
-The local workflow folders are:
+```text
+pictures/4_days_HR/
+  main_site/
+  <day-slug>/
+    people/
+    places/
+    animals/
+```
 
-- `pictures/1_original_pictures/` for the untouched source photos.
-- `pictures/2_selected_pictures/` for photos selected from the originals.
-- `pictures/3_sorted_theme_pictures/` for selected photos grouped by theme.
-- `pictures/4_days_HR/` for high-resolution photos sorted into travel days.
+The `pictures/4_days_HR/` folder must exist locally for `npm run prepare-content` to work. Each `<day-slug>` must match a `slug` in `assets/js/data.js`.
 
-Only optimized web photos belong in `public/photos/`. This folder is not ignored because it contains the published image assets for GitHub Pages.
+Use these category folders:
 
-## Day Organization
+- `people`
+- `places`
+- `animals`
 
-Each travel day should have a clear day number and a readable slug, for example `day10_kas_coastal_town`. Within a day, photos can be grouped by simple themes such as `places`, `people`, or other useful categories.
+The internal category name is `animals`; the website displays it as `Animals`.
 
-Future site data should describe the days in plain language: where the day happened, what the main moments were, and which optimized photos should appear on the website.
+## Main Site Images
 
-## Editing Rule
+The pipeline also expects these files:
 
-Do not place private, full-resolution, or unselected working photos in `public/photos/`. Only add photos there after they have been selected, optimized, and are intended for publication.
+```text
+pictures/4_days_HR/main_site/header.jpg
+pictures/4_days_HR/main_site/about_me.jpeg
+pictures/4_days_HR/main_site/intrepid_route.webp
+```
+
+They are generated into `public/photos/main_site/` and used by the header/about/route panels.
+
+## Photo Generation
+
+After adding or replacing high-resolution photos, run:
+
+```bash
+npm run prepare-content
+```
+
+This command:
+
+- validates `assets/js/data.js`,
+- generates optimized WebP full-size and thumbnail images,
+- writes day manifests under `public/photos/<day-slug>/manifest.json`,
+- writes `public/data/photo-manifest.json`,
+- validates that public photos and manifests match.
+
+Only optimized web photos belong in `public/photos/`. Do not place private, full-resolution, or unselected working photos there.
+
+## Day Content
+
+Edit `assets/js/data.js` for day titles, dates, coordinates, summaries, descriptions, expanded descriptions, and categories. Every intended map marker needs valid latitude/longitude coordinates.
+
+Run these checks after changing content:
+
+```bash
+npm run data:validate
+npm run photos:validate
+npm run site:smoke
+```

@@ -17,7 +17,7 @@
   }
 
   function categoryLabel(category) {
-    return category === "animals" ? "Cats" : titleCase(category || "photo");
+    return category === "animals" ? "Animals" : titleCase(category || "photo");
   }
 
   function manifestUrl(slug) {
