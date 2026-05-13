@@ -2,6 +2,7 @@
   const DEFAULT_CENTER = [39.0, 35.0];
   const DEFAULT_ZOOM = 6;
   const MANIFEST_URL = "public/data/photo-manifest.json";
+  const MARKER_HINT_STORAGE_KEY = "turkeyLoopMarkerHintSeen";
 
   function isValidCoordinatePair(value) {
     if (!Array.isArray(value) || value.length !== 2) {
@@ -94,6 +95,45 @@
     }
   }
 
+  function storageValue(key) {
+    try {
+      return window.localStorage.getItem(key);
+    } catch {
+      return null;
+    }
+  }
+
+  function setStorageValue(key, value) {
+    try {
+      window.localStorage.setItem(key, value);
+    } catch {
+      return;
+    }
+  }
+
+  function setupMarkerHint() {
+    const hint = document.getElementById("map-marker-hint");
+    if (!hint) {
+      return () => {};
+    }
+
+    const closeButton = hint.querySelector("[data-map-marker-hint-close]");
+    const dismiss = () => {
+      hint.hidden = true;
+      setStorageValue(MARKER_HINT_STORAGE_KEY, "true");
+    };
+
+    if (closeButton) {
+      closeButton.addEventListener("click", dismiss);
+    }
+
+    if (storageValue(MARKER_HINT_STORAGE_KEY) !== "true") {
+      hint.hidden = false;
+    }
+
+    return dismiss;
+  }
+
   async function initMap() {
     const mapElement = document.getElementById("map");
     if (!mapElement || typeof L === "undefined") {
@@ -114,6 +154,7 @@
 
     mapElement.classList.add("is-leaflet-ready");
     mapElement.dataset.mapShell = "leaflet";
+    const dismissMarkerHint = setupMarkerHint();
 
     L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
       maxZoom: 18,
@@ -134,7 +175,10 @@
       }).addTo(map);
 
       marker.bindPopup(popupHtml(day, photoCount));
-      marker.on("click", () => openDay(day.slug));
+      marker.on("click", () => {
+        dismissMarkerHint();
+        openDay(day.slug);
+      });
       bounds.push(day.coordinates);
     });
 

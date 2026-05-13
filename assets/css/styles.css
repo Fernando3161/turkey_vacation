@@ -372,6 +372,51 @@ a:focus-visible {
   display: none;
 }
 
+.map-marker-hint[hidden] {
+  display: none;
+}
+
+.map-marker-hint {
+  position: absolute;
+  right: 18px;
+  bottom: 18px;
+  z-index: 900;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  max-width: min(360px, calc(100% - 36px));
+  padding: 12px 14px;
+  color: var(--color-ink);
+  background: rgba(255, 248, 234, 0.96);
+  border: 1px solid rgba(155, 122, 66, 0.58);
+  border-radius: 999px;
+  box-shadow: 0 12px 30px rgba(31, 37, 35, 0.22);
+  pointer-events: auto;
+}
+
+.map-marker-hint__text {
+  font-size: 0.9rem;
+  font-weight: 700;
+  line-height: 1.25;
+}
+
+.map-marker-hint__close {
+  flex: 0 0 auto;
+  min-height: 30px;
+  padding: 5px 9px;
+  color: var(--color-blue);
+  background: rgba(31, 78, 95, 0.08);
+  border: 1px solid rgba(31, 78, 95, 0.28);
+  border-radius: 999px;
+  cursor: pointer;
+  font-size: 0.78rem;
+  font-weight: 700;
+}
+
+.map-marker-hint__close:hover {
+  background: rgba(31, 78, 95, 0.14);
+}
+
 .map-canvas.leaflet-container {
   font-family: var(--font-body);
 }
@@ -1092,6 +1137,14 @@ a:focus-visible {
     left: 22px;
     bottom: 24px;
     max-width: none;
+  }
+
+  .map-marker-hint {
+    right: 12px;
+    bottom: 12px;
+    left: 12px;
+    max-width: none;
+    border-radius: var(--radius-small);
   }
 
   .map-canvas__seal {

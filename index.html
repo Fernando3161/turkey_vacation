@@ -20,7 +20,7 @@
     <header class="site-header" aria-label="Site header">
       <div class="site-header__plate">
         <div class="site-header__identity">
-          <p class="site-header__eyebrow">Personal travel archive</p>
+          <p class="site-header__eyebrow">Personal travel archive, by Fernando Pe&ntilde;aherrera V.</p>
           <h1 class="site-header__title">Turkey Loop</h1>
           <p class="site-header__subtitle">
             A day-based travel atlas through history, landscape, and memory
@@ -28,7 +28,7 @@
         </div>
 
         <nav class="site-header__nav" aria-label="Primary">
-          <button type="button" class="atlas-control" data-panel-target="about-panel">About</button>
+          <button type="button" class="atlas-control" data-panel-target="about-panel">About Me</button>
           <button type="button" class="atlas-control" data-panel-target="days-panel">Days</button>
         </nav>
       </div>
@@ -54,6 +54,17 @@
           </div>
           <div class="map-canvas__note">
             <span>Interactive day map reserved for Phase 3.6</span>
+          </div>
+          <div id="map-marker-hint" class="map-marker-hint" role="status" aria-live="polite" hidden>
+            <span class="map-marker-hint__text">Click on the marker to show a gallery</span>
+            <button
+              type="button"
+              class="map-marker-hint__close"
+              data-map-marker-hint-close
+              aria-label="Dismiss map marker tip"
+            >
+              Close
+            </button>
           </div>
         </div>
       </section>

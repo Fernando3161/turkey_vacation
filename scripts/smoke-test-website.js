@@ -212,7 +212,30 @@ async function closeInfoPanel(page, panelId) {
   }, panelId);
 }
 
+async function waitForApp(page) {
+  await page.waitForFunction(() => {
+    return (
+      document.documentElement.dataset.shell === "ready" &&
+      window.TurkeyLoopMap &&
+      window.TurkeyLoopModal &&
+      window.TurkeyLoopGallery &&
+      window.TurkeyLoopLightbox
+    );
+  });
+}
+
 async function assertHeaderPanels(page, days) {
+  const headerEyebrow = await page.locator(".site-header__eyebrow").textContent();
+  const expectedHeaderEyebrow = "Personal travel archive, by Fernando Pe\u00f1aherrera V.";
+  if (headerEyebrow !== expectedHeaderEyebrow) {
+    throw new Error(`Header eyebrow is "${headerEyebrow}", expected "${expectedHeaderEyebrow}".`);
+  }
+
+  const aboutNavText = await page.locator('[data-panel-target="about-panel"]').textContent();
+  if (aboutNavText !== "About Me") {
+    throw new Error(`About nav button is "${aboutNavText}", expected "About Me".`);
+  }
+
   const photosButtonCount = await page.locator(".site-header__nav button", { hasText: "Photos" }).count();
   if (photosButtonCount !== 0) {
     throw new Error("Photos nav button should not be present.");
@@ -226,7 +249,7 @@ async function assertHeaderPanels(page, days) {
     throw new Error(`About panel title is "${aboutTitle}".`);
   }
 
-  await page.locator("#about-panel", { hasText: "Dr.-Ing. Fernando Peñaherrera V." }).waitFor();
+  await page.locator("#about-panel", { hasText: "Dr.-Ing. Fernando Pe\u00f1aherrera V." }).waitFor();
   await assertImageLoaded(page, "#about-panel .info-panel__media img", "/public/photos/main_site/full/about_me.webp");
 
   const expectedLinks = new Map([
@@ -272,6 +295,41 @@ async function assertHeaderPanels(page, days) {
   await closeInfoPanel(page, "days-panel");
 }
 
+async function assertMarkerHint(page) {
+  const hint = page.locator("#map-marker-hint");
+  await hint.waitFor({ state: "visible" });
+
+  const hintText = await page.locator("#map-marker-hint .map-marker-hint__text").textContent();
+  if (hintText !== "Click on the marker to show a gallery") {
+    throw new Error(`Marker hint text is "${hintText}".`);
+  }
+
+  await page.locator(".turkey-day-marker").first().dispatchEvent("click");
+  await page.waitForSelector("#day-modal:not([hidden])");
+  await page.waitForFunction(() => {
+    const markerHint = document.getElementById("map-marker-hint");
+    return markerHint && markerHint.hidden;
+  });
+
+  const storedHintState = await page.evaluate(() => localStorage.getItem("turkeyLoopMarkerHintSeen"));
+  if (storedHintState !== "true") {
+    throw new Error(`Marker hint storage state is "${storedHintState}", expected "true".`);
+  }
+
+  await page.keyboard.press("Escape");
+  await page.waitForFunction(() => {
+    const modal = document.getElementById("day-modal");
+    return modal && modal.hidden;
+  });
+
+  await page.reload({ waitUntil: "domcontentloaded" });
+  await waitForApp(page);
+
+  if (await hint.isVisible()) {
+    throw new Error("Marker hint should remain hidden after it has been seen.");
+  }
+}
+
 async function assertDay(page, day) {
   const manifest = manifestForDay(day.slug);
 
@@ -299,6 +357,24 @@ async function assertDay(page, day) {
   await clickFilterAndAssert(page, "people", manifest.categories.people.count);
   await clickFilterAndAssert(page, "places", manifest.categories.places.count);
   await clickFilterAndAssert(page, "animals", manifest.categories.animals.count);
+  if (manifest.categories.animals.count > 0) {
+    const firstAnimalPhoto = page.locator("#day-gallery-grid .day-gallery__photo").first();
+    const animalCaption = await firstAnimalPhoto.locator("span").textContent();
+    const animalLabel = await firstAnimalPhoto.getAttribute("aria-label");
+    const animalAlt = await firstAnimalPhoto.locator("img").getAttribute("alt");
+
+    if (animalCaption !== "Animals") {
+      throw new Error(`${day.slug}: animal caption is "${animalCaption}", expected "Animals".`);
+    }
+
+    if (animalLabel !== "Open Animals photograph") {
+      throw new Error(`${day.slug}: animal aria-label is "${animalLabel}".`);
+    }
+
+    if (animalAlt !== "Animals photograph") {
+      throw new Error(`${day.slug}: animal image alt is "${animalAlt}".`);
+    }
+  }
   await clickFilterAndAssert(page, "all", manifest.totalCount);
 
   if (manifest.totalCount > 0) {
@@ -319,14 +395,7 @@ async function main() {
 
   try {
     await page.goto(`${origin}/index.html`, { waitUntil: "domcontentloaded" });
-    await page.waitForFunction(() => {
-      return (
-        document.documentElement.dataset.shell === "ready" &&
-        window.TurkeyLoopModal &&
-        window.TurkeyLoopGallery &&
-        window.TurkeyLoopLightbox
-      );
-    });
+    await waitForApp(page);
 
     const title = await page.title();
     if (title !== "Turkey Loop") {
@@ -334,6 +403,7 @@ async function main() {
     }
 
     await assertHeaderPanels(page, days);
+    await assertMarkerHint(page);
 
     for (const day of days) {
       await assertDay(page, day);
